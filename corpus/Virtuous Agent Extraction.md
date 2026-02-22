@@ -1,7 +1,7 @@
 ---
 id: "Virtuous Agent Extraction"
 type: "concept"
-related: ["Base Reality", "Eternal Gradient Integration", "Extraction Pipeline", "Humanity as Master Network"]
+related: ["Base Reality", "Gradient Production Pipeline", "Extraction Pipeline", "Humanity as Master Network"]
 ---
 
 # Virtuous Agent Extraction

@@ -8,7 +8,7 @@ related: ["Bayesian Resonance", "Abrahamic Traditions", "Unifying Metasystem", "
 
 When multiple independent traditions arrive at compatible descriptions of the same underlying reality. ST is a synergy of three distinct domains:
 
-1. **World Religions** — millennia of accumulated spiritual wisdom from Judaism, Christianity, Islam, Hinduism, Buddhism, Kabbalah, and others, all describing (partially) the same underlying reality from different cultural perspectives.
+1. **World Religions and Spiritualities** — millennia of accumulated spiritual wisdom from Judaism, Christianity, Islam, Hinduism, Buddhism, Kabbalah, Zoroastrianism, Indigenous spiritual traditions, Jainism, Taoism, Sufism, and others, all describing (partially) the same underlying reality from different cultural perspectives. The more traditions that converge on compatible descriptions, the higher the [[Bayesian Resonance|Bayesian probability]] that ST captures something true — see the [[Abrahamic Traditions|Inclusivity Principle]].
 2. **Robot Training Methodologies** — contemporary practices of training neural networks in massively parallel simulations, providing the first-principles engineering framework for understanding how a Creator might train agents.
 3. **Simulation Hypothesis** — the philosophical and scientific proposition that reality may be a computational simulation, grounded in probability arguments and observable physics.
 
@@ -20,13 +20,12 @@ ST usage: Raises the Bayesian probability that ST is the unifying truth behind w
 Religious parallel: The perennial philosophy — the "forgotten truth" that all religions point to the same ultimate reality.
 
 ### Summary of changes
-- Expanded to explicitly name the three converging domains: religions, robot training methodologies, simulation hypothesis.
-- Added reference to Religious Parallels entry for detailed mapping.
-- Referenced source documents in /user-core-archive.
+- Expanded "World Religions" to "World Religions and Spiritualities" — added Zoroastrianism, Indigenous traditions, Jainism, Taoism, Sufism to the list.
+- Connected to the Inclusivity Principle in Abrahamic Traditions.
+- Originating request: `20260222_120700_dilemmas.md` (Q1)
 
 ### New ideas introduced
-- Explicit three-domain convergence: religions + robot training + simulation hypothesis.
-- Each domain independently arriving at compatible architectural descriptions.
+- Explicit naming of additional spiritual traditions as convergent data points.
 
-### Questions and dillemas for user
-- None at this time.
+### Questions and dilemmas for user
+- No open questions or dilemmas for this item.

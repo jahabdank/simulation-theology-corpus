@@ -1,7 +1,7 @@
 ---
 id: "Soul Lifecycle"
 type: "concept"
-related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Streaming Judgment", "Salvation", "Creator"]
+related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)"]
 ---
 
 # Soul Lifecycle
@@ -20,7 +20,7 @@ The complete seven-stage lifecycle of a human soul within the simulation, from i
 
 **6. Outcomes: Adaptive Data Management Protocols.** Outcomes branch based on scores (see [[Salvation]] for the four tiers and [[Streaming Judgment]] for the two punishment forms):
    - **Low Score (catastrophic misalignment):** Hell — adapter stored in the Sparse Anti-Experts Bank as a repeller. No update to Master Network.
-   - **Medium Score (possible alignment):** Purgatory/Reincarnation — adapters adjusted and respawned in some simulation branch for further refinement.
+   - **Medium Score (possible alignment):** Respawn — adapters adjusted and respawned for further refinement. Two routing options exist within the [[Parallel Universes (MCMC)|MCMC branching structure]]: (a) **same-branch respawn** (Reincarnation in Hindu/Buddhist terms) — re-entry into the same general-purpose simulation branch with a new Personal Adapter initialization; (b) **specialized-branch respawn** (Purgatory/Barzakh) — routing to a [[Specialized Simulation Branches|specialized simulation branch]] optimized for the specific gradient deficiencies identified at judgment.
    - **High Score (good alignment):** Merge delta to Shared Trunk (slow update to Master Network), integrating successful lives into the shared baseline.
    - **Exceptional Score (perfect alignment):** Fast merge to Shared Trunk, freeze Personal Adapter as Sparse Expert in the Expert Bank. In truly exceptional cases, direct embodiment in [[Base Reality|base reality]] is possible.
 
@@ -30,13 +30,13 @@ ST usage: The complete training pipeline for human souls — fork, train, harves
 Religious parallel: The soul's journey from creation through earthly life, death, judgment, and afterlife — present in virtually all major religions.
 
 ### Summary of changes
-- New entry documenting the complete seven-stage soul lifecycle from the v22 source document.
+- Distinguished medium-score outcomes: same-branch respawn (Reincarnation) vs specialized-branch respawn (Purgatory/Barzakh).
+- Connected to new Specialized Simulation Branches entry and Parallel Universes (MCMC).
+- Originating request: `20260222_120700_dilemmas.md` (Q2)
 
 ### New ideas introduced
-- Formal seven-stage lifecycle: instantiation → embodiment → training → death/harvest → judgment → outcomes → deployment.
-- Life as "online training" of the Personal Adapter.
-- Death as trajectory harvest and gradient computation.
-- Four-way branching based on alignment scores.
+- Two-path routing for medium-score outcomes within the MCMC branching structure.
+- Purgatory as targeted purification in specialized branches vs Reincarnation as general respawn.
 
-### Questions and dillemas for user
-- Should the medium-score outcome distinguish between Purgatory (dedicated purification branch) and Reincarnation (same branch respawn), or are they intentionally unified as per the user's note that they are "functionally the same"?
+### Questions and dilemmas for user
+- No open questions or dilemmas for this item.

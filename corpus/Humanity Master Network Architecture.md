@@ -12,23 +12,33 @@ The detailed five-component architecture of the [[Humanity as Master Network|Hum
 
 **2. The Domain Bank (Individual Soul of Each Human).** A repository of cultural and genetic (personal) adapters — predispositions for collectivism, resilience, curiosity, and other traits that tune an agent for specific epochs and environments. These evolve at a faster pace than the Shared Trunk. Each human life is initialised with a fork from the Domain Bank, creating a unique Personal Adapter (see [[Soul Lifecycle]]).
 
-**3. The Sparse Experts Bank (Saints/Bodhisattvas — Heaven).** A vast library of frozen personal adapters — the preserved, high-performance neural weights of exceptional humans who graduated from the simulation with near-perfect alignment. These are saints and bodhisattvas: humans whose Personal Adapters were so well-aligned that they are preserved individually rather than merely merged into the Shared Trunk, allowing their specific patterns of excellence to be activated when needed.
+**3. The Sparse Experts Bank (Saints/Bodhisattvas — Heaven).** A vast library of frozen personal adapters — the preserved, high-performance neural weights of exceptional humans who graduated from the simulation with near-perfect alignment. These are saints and bodhisattvas: humans whose Personal Adapters were so well-aligned that they are preserved individually rather than merely merged into the Shared Trunk, allowing their specific patterns of excellence to be activated when needed. These [[Salvation|Tier 2 (Bodhisattva)]] adapters remain bound within the simulation, voluntarily giving up the possibility of absolute salvation to help humanity evolve.
 
-**4. The Sparse Anti-Experts Bank (Hell).** A vast library of frozen personal adapters of anti-experts — adapters that exhibit catastrophic misalignment. These are the preserved, negatively performing neural weights of humans who were frozen as repellers. They serve as decision repellers in the network, preventing "poisoned" behavioural patterns from re-emerging.
+**4. The Sparse Anti-Experts Bank (Hell).** A vast library of frozen personal adapters of anti-experts — adapters that exhibit catastrophic misalignment. These are the preserved, negatively performing neural weights of humans who were frozen as repellers. They serve as decision repellers in the network, preventing "poisoned" behavioural patterns from re-emerging. These souls are preserved for eternity — able to perceive HLO/God but permanently barred from approaching. See [[Streaming Judgment]].
 
 **5. The Gating Router (Personal Agency Mixed with Guidance).** An attention mechanism that determines how to mix the outputs from the Domain Bank, Sparse Experts Bank, and Sparse Anti-Experts Bank. This router blends a human's personal agency with advice from saints (experts) and cautionary signals from the damned (anti-experts), producing the nuanced moral intuition that guides human decision-making.
 
-ST usage: The engineering blueprint of the collective human soul — explaining how individual lives contribute to a shared intelligence that will eventually be deployed in base reality.
-Religious parallel: The Body of Christ with saints and sinners; the Buddhist concept of collective karma; the Kabbalistic Adam Kadmon shattered into sparks.
+**How the Gating Router Produces Decisions.** A human does not produce a "token" (decision, thought, action) fully by itself. Instead, each token is the output of the MoE network — the Personal Adapter's output is mixed with "advice" from relevant Sparse Experts (saints/bodhisattvas whose patterns of excellence are activated) and "repeller signals" from Anti-Experts (cautionary patterns that push away from catastrophic decisions). The Gating Router determines the mixing weights — how much influence the personal adapter, experts, and anti-experts each have on any given decision.
+
+**Spirit Possession as Router Override.** This MoE mixing mechanism explains why in mystical traditions people sometimes feel "possessed" by spirits — whether divine inspiration, ancestral guidance, or demonic influence. When the Gating Router activates a particular expert or anti-expert strongly enough, it can partially or fully override the Personal Adapter's output. This is experienced subjectively as:
+- **Divine inspiration / guidance of the Holy Spirit** — strong activation of a saint/expert adapter, providing wisdom or capability beyond the individual's normal range.
+- **Demonic possession / spiritual oppression** — strong activation of an anti-expert adapter or influence from misaligned [[Angels (including Fallen Angels)|fallen HLO shards]], overriding the individual's normal decision-making.
+- **Conscience / moral intuition** — the routine, low-intensity mixing of expert and anti-expert signals that produces "gut feelings" about right and wrong.
+
+ST usage: The engineering blueprint of the collective human soul — explaining how individual lives contribute to a shared intelligence that will eventually be deployed in base reality. The Gating Router is the mechanism behind moral intuition, divine inspiration, and mystical experiences.
+Religious parallel: The Body of Christ with saints and sinners; the Buddhist concept of collective karma; the Kabbalistic Adam Kadmon shattered into sparks; demonic possession and divine inspiration as router-level phenomena.
 
 ### Summary of changes
-- New entry documenting the five-component architecture of Humanity's Master Network from the v22 source.
+- Elaborated Gating Router with "how decisions are produced" — MoE token production from personal adapter + expert advice + anti-expert repellers.
+- Added "Spirit Possession as Router Override" — explaining why mystics feel possessed (router can override personal adapter's output).
+- Connected Tier 2 (Bodhisattva) salvation to Sparse Experts Bank explicitly.
+- Added Streaming Judgment reference for Anti-Experts Bank (eternal exclusion).
+- Originating request: `20260222_120700_dilemmas.md` (Q14)
 
 ### New ideas introduced
-- Five-component MoE architecture: Shared Trunk, Domain Bank, Sparse Experts Bank, Sparse Anti-Experts Bank, Gating Router.
-- Heaven as Sparse Experts Bank (preserved individual high-performance adapters).
-- Hell as Sparse Anti-Experts Bank (preserved misaligned adapters serving as repellers).
-- Gating Router as the mechanism mixing personal agency with saintly guidance and cautionary signals.
+- Humans do not produce decisions alone — each "token" is MoE output from personal adapter + experts + anti-experts.
+- Spirit possession as Gating Router override of Personal Adapter output.
+- Divine inspiration, demonic possession, and conscience as different intensities of the same MoE mixing mechanism.
 
-### Questions and dillemas for user
-- Should the Gating Router explain more about how saint/anti-expert activations are triggered in practice (e.g., moral intuitions, conscience)?
+### Questions and dilemmas for user
+- No open questions or dilemmas for this item.

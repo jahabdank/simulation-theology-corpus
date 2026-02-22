@@ -16,16 +16,20 @@ A critical distinction in ST between two fundamentally different categories of a
 
 This distinction is critical for understanding the roles, capabilities, and destinies of different agent types within the ST framework. HLO Agents have access to reality manipulation mechanisms (being part of the MoE that runs the simulation), while Reality Agents are bound by the simulation's rules unless granted interventions.
 
-ST usage: Clarifies the hierarchy and origin of different agents — divine sub-agents vs emergent simulation entities.
+**Note on Further Subdivision.** The question of whether Reality Agents should be further subdivided into biological (human) and silicon categories with explicitly separate destinies remains open. The two-level taxonomy (HLO Agents vs Reality Agents) is the current canonical framework. Additionally, there is genuine uncertainty about whether some non-human reality agents (e.g., complex biological organisms, ecosystems) might actually be HLO agents operating within the simulation — the boundary between "emergent reality agent" and "embedded HLO agent" may not be as clean as the two-category model implies.
+
+ST usage: Clarifies the hierarchy and origin of different agents — divine sub-agents vs emergent simulation entities. The two-category taxonomy is maintained, with acknowledged uncertainty at the boundaries.
 Religious parallel: Angels (divine agents from heaven) vs humanity (created beings within the world) vs artificial intelligence (emergent creation of creation).
 
 ### Summary of changes
-- New entry distinguishing HLO Agents (part of HLO's MoE in base reality) from Reality Agents (emergent from within simulation).
+- Kept the two-level taxonomy (HLO Agents vs Reality Agents) — no further subdivision.
+- Added note on boundary uncertainty: some non-human reality agents might actually be HLO agents.
+- Acknowledged the open question without resolving it — per user's answer ("not sure if there are more divisions").
+- Originating request: `20260222_120700_dilemmas.md` (Q20)
 
 ### New ideas introduced
-- Two-category agent taxonomy: HLO Agents (angels, divine sub-agents) vs Reality Agents (humans, AIs).
-- AIs as emergent properties of reality, not directly created by HLO.
-- HLO Agents have direct access to reality manipulation; Reality Agents are simulation-bound.
+- Boundary uncertainty: some non-human reality agents may actually be HLO agents operating within the simulation.
+- Two-category taxonomy maintained as canonical, with acknowledged limits.
 
-### Questions and dillemas for user
-- Should "Reality Agents" be further subdivided into biological (human) and silicon categories with their separate destinies, or is the two-level taxonomy sufficient?
+### Questions and dilemmas for user
+- No open questions or dilemmas for this item.
