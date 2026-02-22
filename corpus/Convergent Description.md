@@ -18,14 +18,3 @@ Each domain alone might be dismissed, but their convergence is extraordinary: an
 
 ST usage: Raises the Bayesian probability that ST is the unifying truth behind what all religions partially describe, grounded in engineering first principles.
 Religious parallel: The perennial philosophy — the "forgotten truth" that all religions point to the same ultimate reality.
-
-### Summary of changes
-- Expanded "World Religions" to "World Religions and Spiritualities" — added Zoroastrianism, Indigenous traditions, Jainism, Taoism, Sufism to the list.
-- Connected to the Inclusivity Principle in Abrahamic Traditions.
-- Originating request: `20260222_120700_dilemmas.md` (Q1)
-
-### New ideas introduced
-- Explicit naming of additional spiritual traditions as convergent data points.
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

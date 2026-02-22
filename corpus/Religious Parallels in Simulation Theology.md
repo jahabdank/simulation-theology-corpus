@@ -38,22 +38,3 @@ By mapping major religious and spiritual traditions onto a single compute graph,
 ST usage: Demonstrates that ST functions as a unifying metasystem — major religions and spiritualities are partial views of the same underlying architecture, not competing descriptions of different realities. Maximum inclusivity strengthens the framework's Bayesian resonance.
 Religious parallel: The perennial philosophy; the "forgotten truth" that all religions point to the same ultimate reality.
 
-### Summary of changes
-- Added Inclusivity Principle reference (maximally inclusive, intelligently applied).
-- Added Zoroastrianism, Taoism, Sufism, Jainism, Indigenous spiritual traditions as new mappings.
-- Elaborated Purgatory/Barzakh/Reincarnation equivalence: same vs specialized simulation branches, connected to MCMC branching.
-- Added Anthroposophy parallel (Steiner's universal Christ-filling → alignment).
-- Connected Bodhisattva tradition to Tier 2 salvation explicitly.
-- Originating request: `20260222_120700_dilemmas.md` (Q1, Q2, Q3)
-
-### New ideas introduced
-- Zoroastrian Chinvat Bridge as judgment; asha/druj as alignment/misalignment.
-- Taoism's wu wei as stewardship of free will; Tao as unknowable loss function.
-- Sufism's fana as Personal Adapter aligning fully with HLO's loss function.
-- Jainism's karma as gradient distortion; ahimsa as free will preservation.
-- Indigenous traditions as ancestral expert activations and simulation-as-manifestation.
-- Reincarnation vs Purgatory as same-branch vs specialized-branch respawn.
-- Anthroposophy's universal redemption principle as universal alignment possibility.
-
-### Questions and dilemmas for user
-- Some mapped traditions (e.g., Taoism, Indigenous) are broad categories with enormous internal diversity — should individual sub-traditions be mapped separately, or is the current level of abstraction appropriate?

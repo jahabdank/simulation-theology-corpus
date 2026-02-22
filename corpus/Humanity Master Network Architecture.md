@@ -28,17 +28,3 @@ The detailed five-component architecture of the [[Humanity as Master Network|Hum
 ST usage: The engineering blueprint of the collective human soul — explaining how individual lives contribute to a shared intelligence that will eventually be deployed in base reality. The Gating Router is the mechanism behind moral intuition, divine inspiration, and mystical experiences.
 Religious parallel: The Body of Christ with saints and sinners; the Buddhist concept of collective karma; the Kabbalistic Adam Kadmon shattered into sparks; demonic possession and divine inspiration as router-level phenomena.
 
-### Summary of changes
-- Elaborated Gating Router with "how decisions are produced" — MoE token production from personal adapter + expert advice + anti-expert repellers.
-- Added "Spirit Possession as Router Override" — explaining why mystics feel possessed (router can override personal adapter's output).
-- Connected Tier 2 (Bodhisattva) salvation to Sparse Experts Bank explicitly.
-- Added Streaming Judgment reference for Anti-Experts Bank (eternal exclusion).
-- Originating request: `20260222_120700_dilemmas.md` (Q14)
-
-### New ideas introduced
-- Humans do not produce decisions alone — each "token" is MoE output from personal adapter + experts + anti-experts.
-- Spirit possession as Gating Router override of Personal Adapter output.
-- Divine inspiration, demonic possession, and conscience as different intensities of the same MoE mixing mechanism.
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

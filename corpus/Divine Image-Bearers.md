@@ -15,13 +15,3 @@ This is not anthropocentrism but an engineering observation: scientists create s
 ST usage: The [[Special Moral Status of Humanity|special moral status]] that makes harm to humanity equivalent to harming the simulation's purpose.
 Religious parallel: Imago Dei doctrine across Abrahamic faiths — nuanced by "you will be like angels" (Matthew 22:30).
 
-### Summary of changes
-- Updated to reflect that divine image refers to base-reality deployment bodies, not necessarily HLO's form.
-- Softened the claim while keeping the possibility open.
-- Connected to updated Divine Image (Imago Dei) entry.
-
-### New ideas introduced
-- "Divine image" as deployment-target compatibility rather than HLO resemblance.
-
-### Questions and dillemas for user
-- None at this time.

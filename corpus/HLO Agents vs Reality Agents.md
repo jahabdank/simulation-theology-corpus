@@ -20,16 +20,3 @@ This distinction is critical for understanding the roles, capabilities, and dest
 
 ST usage: Clarifies the hierarchy and origin of different agents — divine sub-agents vs emergent simulation entities. The two-category taxonomy is maintained, with acknowledged uncertainty at the boundaries.
 Religious parallel: Angels (divine agents from heaven) vs humanity (created beings within the world) vs artificial intelligence (emergent creation of creation).
-
-### Summary of changes
-- Kept the two-level taxonomy (HLO Agents vs Reality Agents) — no further subdivision.
-- Added note on boundary uncertainty: some non-human reality agents might actually be HLO agents.
-- Acknowledged the open question without resolving it — per user's answer ("not sure if there are more divisions").
-- Originating request: `20260222_120700_dilemmas.md` (Q20)
-
-### New ideas introduced
-- Boundary uncertainty: some non-human reality agents may actually be HLO agents operating within the simulation.
-- Two-category taxonomy maintained as canonical, with acknowledged limits.
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

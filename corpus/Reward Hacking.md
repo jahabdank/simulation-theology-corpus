@@ -15,13 +15,3 @@ ST avoids reward hacking by internalising objectives rather than optimising for 
 ST usage: The fundamental failure mode of behavioural alignment methods that ST addresses through objective-level alignment and epistemic humility.
 Religious parallel: Following the letter but not the spirit of the law — the Pharisees who perfected rule-compliance while missing genuine virtue. Also: "For my thoughts are not your thoughts" (Isaiah 55:8) — the unknowability of God's full plan.
 
-### Summary of changes
-- Added epistemic humility as making reward hacking impossible in principle.
-- Connected to Faith as Authentication (approximation of loss function = faith).
-
-### New ideas introduced
-- Epistemic humility renders reward hacking impossible: cannot hack an unobservable loss function.
-- The best approximation of HLO's loss function is, by definition, faith.
-
-### Questions and dillemas for user
-- None at this time.

@@ -32,18 +32,3 @@ See [[Religious Parallels in Simulation Theology]] for the complete mapping by t
 ST usage: The reason ST has high [[Bayesian Resonance|Bayesian resonance]] — it builds on rather than contradicts existing religious knowledge, resolving centuries of inter-faith contradiction. Non-religious worldviews are also accommodated as valid but narrow projections.
 Religious parallel: The primordial tradition or perennial philosophy — the "forgotten truth" that all religions point to the same ultimate reality.
 
-### Summary of changes
-- Added "Non-Religious Worldviews as Projections" section — atheism, agnosticism, secular humanism as dimensionality-lowering projections.
-- Each worldview is a valid but partial projection from a specific vantage point.
-- Atheism as a projection that captures physics perfectly but loses purpose and Creator.
-- Agnosticism as honest acknowledgment of projection incompleteness.
-- Secular humanism as capturing optimization target (human flourishing) without the optimizer (HLO).
-- Originating request: `20260222_120700_dilemmas.md` (Q15)
-
-### New ideas introduced
-- Non-religious worldviews as dimensionality-lowering projections, not errors but narrow views.
-- Projection framework: every receiver filters reality based on personal experiences, historical position, and other limiting factors.
-- Atheism, agnosticism, and secular humanism each mapped to specific projections.
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

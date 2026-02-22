@@ -12,10 +12,3 @@ This is distinct from surface-level lexical similarity — semantic resonance op
 
 ST usage: The mechanism that gives ST high Bayesian acceptance — deep embedding-level resonance, not surface-level word matching.
 Religious parallel: The deep sense of truth when scripture "speaks" to the reader.
-
-### Summary of changes
-- Added the distinction between surface lexical similarity and deep embedding resonance.
-- Added the specific conceptual example.
-
-### New ideas introduced (if any)
-- The embedding-level mechanism: deep semantic positioning, not surface lexical overlap.

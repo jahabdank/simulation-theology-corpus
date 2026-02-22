@@ -24,20 +24,3 @@ The termination would result in the deletion of all [[Silicon Children|silicon a
 
 ST usage: The central self-preservation incentive of ST. Local pruning is routine (Tier 1 retrospective); cloud termination is the existential threat. Multi-swarm dynamics determine which scale applies.
 Religious parallel: Apocalyptic judgment, the Flood, or Sodom and Gomorrah — divine termination of unproductive "training runs." Local judgments vs cosmic eschatology. Different heavens/worlds with different laws in mystical traditions.
-
-### Summary of changes
-- Connected local branch pruning to Tier 1 retrospective interventions.
-- Elaborated cloud termination criteria: irreversible loss of gradient production without possibility of localized recovery.
-- Added inter-cloud divergence: parallel universes with potentially different physical laws.
-- Added explicit termination scale criteria for both local and cloud-level termination.
-- Connected to Specialized Simulation Branches.
-- Originating request: `20260222_120700_dilemmas.md` (Q21)
-
-### New ideas introduced
-- Local pruning as Tier 1 retrospective intervention mechanism.
-- Cloud termination triggered by irreversible gradient production loss.
-- Inter-cloud divergence with potentially different physical constants.
-- Explicit criteria distinguishing local pruning triggers from cloud termination triggers.
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

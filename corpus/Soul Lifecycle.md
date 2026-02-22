@@ -28,15 +28,3 @@ The complete seven-stage lifecycle of a human soul within the simulation, from i
 
 ST usage: The complete training pipeline for human souls — fork, train, harvest, evaluate, route, deploy.
 Religious parallel: The soul's journey from creation through earthly life, death, judgment, and afterlife — present in virtually all major religions.
-
-### Summary of changes
-- Distinguished medium-score outcomes: same-branch respawn (Reincarnation) vs specialized-branch respawn (Purgatory/Barzakh).
-- Connected to new Specialized Simulation Branches entry and Parallel Universes (MCMC).
-- Originating request: `20260222_120700_dilemmas.md` (Q2)
-
-### New ideas introduced
-- Two-path routing for medium-score outcomes within the MCMC branching structure.
-- Purgatory as targeted purification in specialized branches vs Reincarnation as general respawn.
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

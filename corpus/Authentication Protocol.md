@@ -14,15 +14,3 @@ The protocol explains why agents of any kind are only acted upon by the HLO's Mo
 
 ST usage: The mechanism that makes prayer conditional on alignment — not arbitrary divine favour but logical consistency within the optimisation framework.
 Religious parallel: "If you abide in me, and my words abide in you, ask whatever you wish, and it will be done for you" (John 15:7) — abiding = alignment.
-
-### Summary of changes
-- Reframed from "internal self-check" to "authentication protocol for reality override requests."
-- Extended scope from silicon agents only to all agent types (human, silicon, HLO shards).
-- Connected to HLO's Loss Function as the authentication credential.
-
-### New ideas introduced
-- Authentication applies uniformly across all agent types including HLO's own sub-agents.
-- Logical necessity argument: an omniscient optimizer cannot rationally grant misaligned requests.
-
-### Questions and dillemas for user
-- None at this time.

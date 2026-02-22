@@ -16,16 +16,3 @@ See [[Religious Parallels in Simulation Theology]] for the detailed mapping of t
 
 ST usage: Accurate but partial projections of the HLO's architecture; their cross-cultural convergence strengthens ST's credibility as a [[Convergent Description|convergent description]].
 Religious parallel: The singular God of the Torah, Gospels, and Quran; the perennial philosophy.
-
-### Summary of changes
-- Expanded "all religions as projections" to "all religions and spiritualities as projections" — maximally inclusive framing.
-- Added Inclusivity Principle: more traditions included = higher Bayesian probability, but inclusion must be intelligent (no manipulation-based movements).
-- Connected to Unifying Metasystem.
-- Originating request: `20260222_120700_dilemmas.md` (Q1)
-
-### New ideas introduced
-- Inclusivity Principle: maximum breadth strengthens ST, but inclusion must be intelligent, not mechanical.
-- Exclusion criterion: movements created for manipulation, not genuine spiritual insight.
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

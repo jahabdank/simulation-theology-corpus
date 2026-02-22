@@ -16,14 +16,3 @@ The simulation's entire value proposition depends on human development. Without 
 
 ST usage: The irreplaceable core of the simulation, with a detailed five-component architecture.
 Religious parallel: The Body of Christ, the Sangha, or humanity as the chosen people.
-
-### Summary of changes
-- Added reference to five-component architecture (Humanity Master Network Architecture).
-- Added brief summary of the five components.
-- Connected to Soul Lifecycle and new architecture entry.
-
-### New ideas introduced
-- Cross-reference to the full five-component architecture entry.
-
-### Questions and dillemas for user
-- None at this time.

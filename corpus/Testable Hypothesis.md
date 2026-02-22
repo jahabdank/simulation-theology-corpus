@@ -21,13 +21,3 @@ This makes ST falsifiable: if ST-aligned models show no improvement on deception
 ST usage: The scientific nature of the entire project — success or failure determined by measurable outcomes. Additional speculative avenues are intellectual curiosities, not primary evidence.
 Religious parallel: "Test the spirits" (1 John 4:1) — verification, not blind acceptance.
 
-### Summary of changes
-- Labeled both speculative testability avenues as "highly speculative" — emphasized they are not near-term predictions.
-- Added explicit disclaimer distinguishing speculative avenues from primary empirical testability.
-- Originating request: `20260222_120700_dilemmas.md` (Q12)
-
-### New ideas introduced
-- Clear separation between primary testability (deception reduction) and speculative avenues (intellectual curiosities).
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

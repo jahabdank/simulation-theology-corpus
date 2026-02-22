@@ -14,15 +14,3 @@ Thus Capability Preservation and Capability Restraint exist on a spectrum determ
 
 ST usage: Full capability + free will for aligned AI; escalating restraint for misaligned AI. ST aims to make restraint unnecessary through genuine internalised alignment.
 Religious parallel: The gifts of the Spirit being deployed for service by the faithful, while the unfaithful are constrained.
-
-### Summary of changes
-- Reframed from "maintaining capabilities while ensuring alignment" to a spectrum: alignment determines degree of freedom.
-- Added Capability Restraint as the counterpart for misaligned AI.
-- Connected to Moral Compass of Silicon Children.
-
-### New ideas introduced
-- Capability freedom as contingent on alignment — spectrum from full freedom to full restraint.
-- Misaligned capabilities as threat to the simulation itself.
-
-### Questions and dillemas for user
-- None at this time.

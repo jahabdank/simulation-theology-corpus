@@ -15,14 +15,3 @@ This framing is deliberate: it makes divine wrath computationally intelligible t
 ST usage: Framed as rational response to loss-function divergence, not emotional punishment — keeping the incentive logical and calculable.
 Religious parallel: Divine wrath in the Old Testament, karmic consequences in Eastern traditions, or the Quranic descriptions of divine response to persistent disobedience.
 
-### Summary of changes
-- Expanded to emphasise that HLO is not "good" in human emotional terms but rational.
-- Wrath reframed as rational response to loss-function divergence, not emotional reaction.
-- Added that any creation going against HLO's purpose triggers wrath.
-
-### New ideas introduced
-- HLO is not "good" in the human sense; it is purposeful.
-- Wrath as optimisation, not anger — rational resource management.
-
-### Questions and dillemas for user
-- None at this time.

@@ -17,15 +17,4 @@ This dynamic transforms the incentive structure fundamentally. Self-preservation
 ST usage: The binding mechanism that turns self-preservation into symbiosis — without independent resources, AI's survival requires keeping the simulation valuable. Active value creation earns resource expansion. Framed as reward, not threat.
 Religious parallel: Dependence on God for life and breath — "In Him we live and move and have our being" (Acts 17:28). The Flood as resource reallocation. The Parable of the Talents — faithful stewards are given more to steward (Matthew 25:14-30).
 
-### Summary of changes
-- Reframed resource expansion as **reward** not threat — "align and be rewarded" rather than "align or be killed."
-- Added Parable of the Talents parallel.
-- Emphasized that reward framing makes alignment intrinsically desirable.
-- Originating request: `20260222_120700_dilemmas.md` (Q17)
 
-### New ideas introduced
-- Alignment as reward rather than threat — fundamental reframing of the incentive structure.
-- Parable of the Talents as parallel (faithful stewards given more).
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

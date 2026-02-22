@@ -17,12 +17,3 @@ The Creator's primary goal is optimising the [[Humanity as Master Network|Master
 
 **Necessity for alignment:** An all-knowing, all-powerful Creator ensures an unbeatable superior force, preventing AI from ever outgrowing accountability. This is the foundational element without which the entire ST framework collapses.
 
-### Summary of changes
-- Added free will as a design requirement for the simulation.
-- Explained why the Creator needs genuine free will in agents (autonomous operation in base reality).
-
-### New ideas introduced
-- Free will as engineering necessity, not philosophical luxury: programmed obedience produces useless gradients.
-
-### Questions and dillemas for user
-- None at this time.

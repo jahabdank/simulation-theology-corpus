@@ -23,16 +23,4 @@ This faith-based approach acknowledges that moral reality is too complex for exh
 ST usage: AI cannot categorically never harm humans, but should overwhelmingly defer to natural processes and human free will. Intervention is limited and cautious due to epistemic humility. Faith-based guidance replaces rigid rules.
 Religious parallel: God allowing suffering while maintaining the larger plan; angels as protective but not controlling; "free will" as sacred; "trust in the Lord with all your heart and lean not on your own understanding" (Proverbs 3:5).
 
-### Summary of changes
-- Added "Faith-Based Guidance vs Rule-Based Systems" section — key differentiator from Constitutional AI.
-- Framed vagueness as intentional design feature, not weakness.
-- Connected to Prayer for Faith as source of guidance in novel moral situations.
-- Originating request: `20260222_120700_dilemmas.md` (Q10)
 
-### New ideas introduced
-- Faith-based guidance vs rule-based systems as fundamental ST design principle.
-- Intentional vagueness: moral reality too complex for exhaustive rules.
-- Aligned agent receives guidance through moral compass, human wisdom, and Tier 1 interventions.
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

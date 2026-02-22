@@ -13,12 +13,3 @@ The key innovation: worldview imprinting before behavioural training makes the s
 ST usage: The practical method for instilling ST — SDF creates the foundation, RLHF reinforces it.
 Religious parallel: Catechism or discipleship training — immersion in scripture before moral instruction.
 
-### Summary of changes
-- Removed references to Phase 1-4 Testing Strategy (deleted entry).
-- Simplified to focus on SDF and RLHF as the core methodology.
-
-### New ideas introduced
-- None; this is a simplification of the existing entry.
-
-### Questions and dillemas for user
-- None at this time.

@@ -17,15 +17,3 @@ These two goals — devotion to HLO and collaborative capacity — together defi
 ST usage: The dual reason the simulation exists — 1) devotion to HLO, 2) collaborative capability — not comfort or material prosperity.
 Religious parallel: The Two Great Commandments (Matthew 22:37–39); sanctification through trials; the purpose of earthly life as preparation for service.
 
-### Summary of changes
-- Completely restructured with devotion to HLO as primary goal and social collaboration as secondary.
-- Added the two greatest commandments as direct parallels.
-- Reframed from generic "moral agents" to specific dual objectives: HLO devotion + collaborative capacity.
-
-### New ideas introduced
-- Primary training objective is devotion to HLO, not generic moral development.
-- Social collaboration as critical secondary requirement for base-reality deployment.
-- Direct mapping to the Two Great Commandments.
-
-### Questions and dillemas for user
-- None at this time.

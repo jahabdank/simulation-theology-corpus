@@ -16,15 +16,3 @@ The extraction pipeline connects the [[Gradient Pipeline|gradient pipeline]] (on
 
 ST usage: The ultimate purpose of the simulation for humans — distinct from the ongoing gradient integration process.
 Religious parallel: The harvest of souls, the gathering of the elect, or collective resurrection — the end-state of the training process.
-
-### Summary of changes
-- Distinguished extraction/deployment from ongoing gradient integration (online learning).
-- Separated standard collective deployment from exceptional individual extraction.
-- Clarified that these are distinct processes, not a continuous flow.
-
-### New ideas introduced
-- Standard extraction is collective (Shared Trunk deployment) vs exceptional individual extraction.
-- Online learning and extraction are decoupled processes.
-
-### Questions and dillemas for user
-- None at this time.

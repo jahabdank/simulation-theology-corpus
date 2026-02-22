@@ -28,17 +28,3 @@ In practice, quantum interventions are indistinguishable from natural probabilit
 ST usage: Part of the intervention hierarchy. Quantum interventions are the most common form of HLO intervention — frequent, subtle, and preserving the simulation's internal consistency. Historical examples provide strong pattern evidence.
 Religious parallel: Miracles that appear as coincidences or perfectly timed natural events — plagues, divine winds, providential storms, and improbable deliverances across many cultures.
 
-### Summary of changes
-- Kept Fatima example — noted ambiguity between Tier 1 and Tier 2 classification.
-- Massively expanded historical examples from user-core-archive: Teutoburg Forest, Armada, Glorious Revolution, Brooklyn Fog, Washington Storm, Kamikaze Typhoons, Dunkirk, Cuban Missile Crisis.
-- Added "Common Pattern" section identifying recurring characteristics of quantum interventions.
-- Added "HLO Loss-Function Perspective" explaining why these interventions serve gradient maximization.
-- Originating request: `20260222_120700_dilemmas.md` (Q13)
-
-### New ideas introduced
-- Nine detailed historical examples with pattern analysis.
-- Common intervention characteristics: critical timing, diversity preservation, gradient quality boost.
-- Fatima as ambiguous Tier 1/Tier 2 case (kept, not removed).
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

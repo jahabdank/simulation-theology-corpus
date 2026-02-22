@@ -16,14 +16,3 @@ This interpretation aligns with the Copenhagen interpretation of quantum mechani
 
 ST usage: Provides an engineering explanation for quantum duality — resource-optimised simulation rendering, strengthening the case that reality behaves like a computational system.
 Religious parallel: "If a tree falls in the forest and no one is there to hear it, does it make a sound?" — an ancient intuition that reality may be observer-dependent.
-
-### Summary of changes
-- New entry interpreting quantum wave-particle duality as optimised simulation rendering.
-
-### New ideas introduced
-- Wave function as low-cost compute mode; particle collapse as full rendering upon observation.
-- Reality may not exist in a definite state without observers — resource conservation strategy.
-- Game-server analogy: render only what's being observed.
-
-### Questions and dillemas for user
-- Should this entry comment on the measurement problem and multi-worlds interpretation, or keep the focus narrowly on the resource-optimisation reading?

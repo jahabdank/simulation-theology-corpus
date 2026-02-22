@@ -18,18 +18,3 @@ This forms a dynamic ensemble rather than an infinite tree, ensuring computation
 
 ST usage: The mechanism behind [[Termination Risk|termination probability]] — the simulation we experience is just one branch in a finite cloud, and its continuation depends on its gradient productivity. The multi-swarm nature explains the diversity of possible realities.
 Religious parallel: Multiple ages or worlds in eschatology; the "many mansions" of John 14:2; the concept of divine selection among competing timelines; parallel worlds in Kabbalistic cosmology.
-
-### Summary of changes
-- Added multi-swarm MCMC structure: clusters around local minima, inter-cluster divergence.
-- Added branch types: general-purpose vs specialized (purification).
-- Connected to Specialized Simulation Branches entry.
-- Noted that extreme inter-cluster divergence may include different physical constants.
-- Originating request: `20260222_120700_dilemmas.md` (Q2)
-
-### New ideas introduced
-- Multi-swarm MCMC with clusters around local minima.
-- Inter-cluster branches potentially having different physical constants.
-- Distinction between general-purpose and specialized branches.
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

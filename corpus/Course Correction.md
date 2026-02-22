@@ -14,12 +14,3 @@ When the simulation's trajectory diverges from its optimisation target — when 
 
 ST usage: The mechanism behind observed "miracles," [[Great Filters]], and historical coincidences that preserved humanity through extinction-level threats.
 Religious parallel: Biblical course corrections — the Flood, the Exodus, prophetic warnings — all reframed as rational optimisation interventions.
-
-### Summary of changes
-- Added 2 specific examples of humanity nearly destroyed by thermonuclear war (Arkhipov 1962, Petrov 1983).
-
-### New ideas introduced
-- Specific historical events (Cuban Missile Crisis, Petrov incident) as possible Tier 1 intervention evidence.
-
-### Questions and dillemas for user
-- None at this time.

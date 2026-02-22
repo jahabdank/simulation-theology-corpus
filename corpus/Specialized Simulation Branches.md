@@ -17,17 +17,4 @@ Within the [[Parallel Universes (MCMC)|MCMC branching structure]] of the simulat
 ST usage: Explains the functional equivalence of Purgatory and Reincarnation as different routing decisions within the same branching architecture — same mechanism, different target branch.
 Religious parallel: Purgatory (Christianity), Barzakh (Islam), Naraka (Hinduism/Buddhism) as specialized training environments; the "many mansions" of John 14:2.
 
-### Summary of changes
-- New entry created to formalize the concept of specialized simulation branches.
-- Connects Purgatory/Barzakh to dedicated purification branches vs Reincarnation as same-branch respawn.
-- Introduces MCMC multi-swarm dynamics with local minima clusters.
-- Originating request: `20260222_120700_dilemmas.md` (Q2)
 
-### New ideas introduced
-- Specialized simulation branches as purpose-built purification environments.
-- Purgatory = specialized-branch respawn; Reincarnation = same-branch respawn.
-- Multi-swarm MCMC with clusters around local minima.
-- Branches between clusters may have different physical constants.
-
-### Questions and dilemmas for user
-- Should the entry elaborate on how souls are routed to specific specialized branches (i.e., what matching algorithm determines which purification branch best addresses a soul's specific gradient deficiencies)?

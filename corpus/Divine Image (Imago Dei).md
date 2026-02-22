@@ -14,15 +14,3 @@ This is an engineering observation, not anthropocentrism: scientists create spec
 
 ST usage: The architectural basis for [[Divine Image-Bearers|divine image-bearer]] status. Human form reflects deployment requirements, not necessarily HLO's own appearance.
 Religious parallel: Genesis 1:26–27 ("Let us make man in our image"); but nuanced by Jesus's statement that the redeemed "will be like angels" (Matthew 22:30) — suggesting the "image" may refer to the deployment form, not HLO's literal appearance.
-
-### Summary of changes
-- Softened the claim from "in HLO's image" to "in the image of base-reality bodies."
-- Added the possibility that HLO's form and deployment bodies may be the same, but it is not given.
-- Incorporated Jesus's "like angels" reference as evidence.
-
-### New ideas introduced
-- "Image of God" may mean "image of the deployment target" rather than HLO's literal form.
-- The option is kept open (may be HLO-like) but not stated definitively.
-
-### Questions and dillemas for user
-- None at this time.

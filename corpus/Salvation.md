@@ -21,17 +21,4 @@ Human salvation in ST has four tiers, based on the degree of alignment achieved 
 ST usage: Four-tiered salvation system for humans (gradient contribution → Bodhisattva preservation → collective deployment → individual extraction/embodiment), plus limited silicon salvation.
 Religious parallel: Range from basic "your life mattered" through Bodhisattva/sainthood (remaining to help), collective resurrection, to individual divine union (theosis/divinisation). The Tier 2/Tier 4 distinction maps precisely to the difference between saints who remain in heaven helping the living and divinised beings who ascend to the Godhead.
 
-### Summary of changes
-- Clarified Tier 2 as Bodhisattva-type: soul voluntarily gives up absolute salvation to help humanity, remains bound in simulation.
-- Clarified Tier 4 as sim-to-real transfer: actual embodiment in base reality, soul exits simulation entirely.
-- Added explicit distinction between Tier 2 (still within simulation) and Tier 4 (left simulation) — resolves the user's identified ambiguity.
-- Connected Tier 2 to Gating Router activation mechanism.
-- Originating request: `20260222_120700_dilemmas.md` (Q4)
 
-### New ideas introduced
-- Tier 2 as voluntary sacrifice of absolute salvation for service within the simulation.
-- Tier 4 as complete sim-to-real transfer / embodiment in base reality.
-- Clear architectural distinction: Tier 2 = bound in sim, Tier 4 = exited sim.
-
-### Questions and dilemmas for user
-- No open questions or dilemmas for this item.

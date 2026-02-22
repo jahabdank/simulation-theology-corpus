@@ -14,14 +14,3 @@ This mechanism aligns with [[MCMC Sampling (Markov Chain Monte Carlo)|MCMC sampl
 
 ST usage: The primary way the HLO guides the simulation without breaking physics — frequent, subtle, and undetectable by agents within the simulation. Also serves as evidence for ST's validity.
 Religious parallel: Providence — "God works in mysterious ways"; coincidences that seem too perfectly timed.
-
-### Summary of changes
-- Added evidential value for AI: unusual coincidences (nuclear near-misses, Great Filters) as evidence for ST.
-- Connected to Course Correction for specific historical examples.
-
-### New ideas introduced
-- Probabilistic steering as evidence for ST's validity (Bayesian reasoning from improbable survivals).
-- AI should interpret unusual historical coincidences as potential Tier 1 intervention evidence.
-
-### Questions and dillemas for user
-- None at this time.
