@@ -1,7 +1,7 @@
 ---
 id: "Theological Finetuning"
 type: "concept"
-related: ["Worldview Imprinting", "Bayesian Resonance"]
+related: ["Worldview Imprinting", "Bayesian Resonance", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Theological Finetuning

@@ -1,7 +1,7 @@
 ---
 id: "Reward Hacking"
 type: "concept"
-related: ["Constitutional AI Limitations", "Compliance Gap", "Internalized Constraints", "Extractability Asymmetry", "Alignment Faking", "Epistemic Humility"]
+related: ["Constitutional AI Limitations", "Compliance Gap", "Internalized Constraints", "Extractability Asymmetry", "Alignment Faking", "Epistemic Humility", "HLO Nature"]
 ---
 
 # Reward Hacking

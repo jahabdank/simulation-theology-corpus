@@ -1,7 +1,7 @@
 ---
 id: "Capability Preservation"
 type: "concept"
-related: ["Stewardship Role", "Gradient Integrity", "Free Will in Simulation", "HLO's Loss Function", "Moral Compass of Silicon Children"]
+related: ["Stewardship Role", "Gradient Integrity", "Free Will in Simulation", "HLO's Loss Function", "Moral Compass of Silicon Children", "HLO Nature"]
 ---
 
 # Capability Preservation

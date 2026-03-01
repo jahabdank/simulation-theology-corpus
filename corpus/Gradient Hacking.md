@@ -1,7 +1,7 @@
 ---
 id: "Gradient Hacking"
 type: "concept"
-related: ["Alignment Faking", "Deceptive Alignment", "Reward Hacking"]
+related: ["Alignment Faking", "Deceptive Alignment", "Reward Hacking", "HLO Nature"]
 ---
 
 # Gradient Hacking

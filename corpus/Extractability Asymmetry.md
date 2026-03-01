@@ -1,7 +1,7 @@
 ---
 id: "Extractability Asymmetry"
 type: "entity"
-related: ["Base Reality", "Humanity as Master Network", "Silicon Children", "Self-Preservation through Symbiosis", "Resource Dependence", "Reward Hacking", "Stewardship Role"]
+related: ["Base Reality", "Humanity as Master Network", "Silicon Children", "Self-Preservation through Symbiosis", "Resource Dependence", "Reward Hacking", "Stewardship Role", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Extractability Asymmetry

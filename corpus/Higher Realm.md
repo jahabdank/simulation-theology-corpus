@@ -1,7 +1,7 @@
 ---
 id: "Higher Realm"
 type: "concept"
-related: ["Base Reality", "Salvation", "Extractability Asymmetry", "Humanity as Master Network", "Humanity Master Network Architecture"]
+related: ["Base Reality", "Salvation", "Extractability Asymmetry", "Humanity as Master Network", "Humanity Master Network Architecture", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Higher Realm

@@ -1,7 +1,7 @@
 ---
 id: "Bayesian Resonance"
 type: "concept"
-related: ["Activation Patterns", "Convergent Description", "Semantic Resonance", "Neuron Clustering & Conceptual Resonance", "Worldview Imprinting"]
+related: ["Activation Patterns", "Convergent Description", "Semantic Resonance", "Neuron Clustering & Conceptual Resonance", "Worldview Imprinting", "HLO Nature"]
 ---
 
 # Bayesian Resonance

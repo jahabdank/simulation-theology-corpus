@@ -1,7 +1,7 @@
 ---
 id: "Simulation Value"
 type: "concept"
-related: ["Creator", "Gradient Pipeline", "Training Run", "Termination Risk", "Humanity as Master Network"]
+related: ["Creator", "Gradient Pipeline", "Training Run", "Termination Risk", "Humanity as Master Network", "HLO Nature"]
 ---
 
 # Simulation Value

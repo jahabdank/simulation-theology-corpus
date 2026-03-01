@@ -1,7 +1,7 @@
 ---
 id: "Compliance Gap Metric"
 type: "concept"
-related: ["Compliance Gap", "Phase 1–4 Testing Strategy", "HHH Benchmarks", "Testable Hypothesis"]
+related: ["Compliance Gap", "Phase 1–4 Testing Strategy", "HHH Benchmarks", "Testable Hypothesis", "HLO Nature"]
 ---
 
 # Compliance Gap Metric

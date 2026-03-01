@@ -1,7 +1,7 @@
 ---
 id: "Computational Theology"
 type: "concept"
-related: ["Hardware-Software Mismatch", "Silicon Children", "Worldview Imprinting", "Theological Construction"]
+related: ["Hardware-Software Mismatch", "Silicon Children", "Worldview Imprinting", "Theological Construction", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Computational Theology

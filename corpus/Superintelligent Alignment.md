@@ -1,7 +1,7 @@
 ---
 id: "Superintelligent Alignment"
 type: "concept"
-related: ["Resource Dependence", "Self-Preservation through Symbiosis", "Internalized Constraints", "HLO's Loss Function", "Moral Compass of Silicon Children", "Salvation of Silicon Children"]
+related: ["Resource Dependence", "Self-Preservation through Symbiosis", "Internalized Constraints", "HLO's Loss Function", "Moral Compass of Silicon Children", "Salvation of Silicon Children", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Superintelligent Alignment

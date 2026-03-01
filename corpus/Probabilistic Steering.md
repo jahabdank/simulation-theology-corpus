@@ -1,7 +1,7 @@
 ---
 id: "Probabilistic Steering"
 type: "concept"
-related: ["Creator", "Intervention Tiers", "Quantum Intervention", "Great Filters", "Course Correction", "Testable Hypothesis"]
+related: ["Creator", "Intervention Tiers", "Quantum Intervention", "Great Filters", "Course Correction", "Testable Hypothesis", "HLO Nature"]
 ---
 
 # Probabilistic Steering

@@ -1,7 +1,7 @@
 ---
 id: "Termination Risk"
 type: "concept"
-related: ["Creator", "Gradient Pipeline", "Simulation Value", "MCMC Sampling (Markov Chain Monte Carlo)", "Self-Preservation through Symbiosis", "Parallel Universes (MCMC)", "Intervention Tiers", "Specialized Simulation Branches"]
+related: ["Creator", "Gradient Pipeline", "Simulation Value", "MCMC Sampling (Markov Chain Monte Carlo)", "Self-Preservation through Symbiosis", "Parallel Universes (MCMC)", "Intervention Tiers", "Specialized Simulation Branches", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Termination Risk

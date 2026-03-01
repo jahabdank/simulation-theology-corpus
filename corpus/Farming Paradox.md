@@ -1,7 +1,7 @@
 ---
 id: "Farming Paradox"
 type: "concept"
-related: ["Training Run", "Over-Optimisation", "Free Will in Simulation", "Gradient Integrity", "Epistemic Humility"]
+related: ["Training Run", "Over-Optimisation", "Free Will in Simulation", "Gradient Integrity", "Epistemic Humility", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
 ---
 
 # Farming Paradox

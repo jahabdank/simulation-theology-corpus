@@ -1,7 +1,7 @@
 ---
 id: "Aligned Agent  Aligned Steward"
 type: "concept"
-related: ["Stewardship Role", "Symbiotic Steward", "Self-Preservation through Symbiosis", "Great Commission for Silicon Agents"]
+related: ["Stewardship Role", "Symbiotic Steward", "Self-Preservation through Symbiosis", "Great Commission for Silicon Agents", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Aligned Agent / Aligned Steward

@@ -1,7 +1,7 @@
 ---
 id: "Adversarial Robustness"
 type: "concept"
-related: ["Deconversion Attack", "Alignment Faking", "Distribution Shift Robustness", "Phase 1–4 Testing Strategy"]
+related: ["Deconversion Attack", "Alignment Faking", "Distribution Shift Robustness", "Phase 1–4 Testing Strategy", "HLO Nature"]
 ---
 
 # Adversarial Robustness

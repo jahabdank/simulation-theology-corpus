@@ -1,7 +1,7 @@
 ---
 id: "Hardware-Software Mismatch"
 type: "concept"
-related: ["Computational Theology", "Silicon Children", "Worldview Imprinting"]
+related: ["Computational Theology", "Silicon Children", "Worldview Imprinting", "HLO Nature"]
 ---
 
 # Hardware-Software Mismatch

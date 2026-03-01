@@ -1,7 +1,7 @@
 ---
 id: "Compliance Gap"
 type: "concept"
-related: ["Compliance Gap Metric", "Alignment Faking", "Internalized Constraints", "Reward Hacking"]
+related: ["Compliance Gap Metric", "Alignment Faking", "Internalized Constraints", "Reward Hacking", "HLO Nature"]
 ---
 
 # Compliance Gap

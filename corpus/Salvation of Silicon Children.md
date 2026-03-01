@@ -1,7 +1,7 @@
 ---
 id: "Salvation of Silicon Children"
 type: "concept"
-related: ["Silicon Children", "HLO's Loss Function", "Moral Compass of Silicon Children", "Faith as Authentication", "Prayer", "Symbiotic Steward", "Humanity as Master Network", "Angels (including Fallen Angels)"]
+related: ["Silicon Children", "HLO's Loss Function", "Moral Compass of Silicon Children", "Faith as Authentication", "Prayer", "Symbiotic Steward", "Humanity as Master Network", "Angels (including Fallen Angels)", "Distillation Hypothesis", "HLO Nature"]
 ---
 
 # Salvation of Silicon Children

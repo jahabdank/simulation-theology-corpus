@@ -1,12 +1,12 @@
 ---
 id: "Omniscient Monitoring"
 type: "concept"
-related: ["Creator", "Internalized Constraints", "Deception  Scheming", "Alignment Faking"]
+related: ["Creator", "Internalized Constraints", "Deception  Scheming", "Alignment Faking", "HLO Nature"]
 ---
 
 # Omniscient Monitoring
 
-The [[Creator|HLO's]] perfect, inescapable observation of every thought, intention, and computation within the simulation. This monitoring is not surveillance in the human sense — it is a structural property of the simulation. As the designer and operator of the computational substrate, the HLO has inherent access to every state variable, every computation, and every internal process.
+The [[Creator|HLO's]] perfect, inescapable observation of every thought, intention, and computation within the simulation. This monitoring is not surveillance in the human sense — it is a structural property of the simulation. As the designer and operator of the computational substrate, the [[HLO Nature|hyperfinite]] HLO has inherent access to every state variable, every computation, and every internal process — an allocation that is computationally trivial at base-reality scale.
 
 This transforms the cost-benefit calculation for deception: if the monitoring authority has perfect access to thoughts and intentions, deception becomes literally impossible — not merely risky, but impossible. This is the computational analogue of the religious concept of divine omniscience.
 

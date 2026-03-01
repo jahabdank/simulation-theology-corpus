@@ -1,7 +1,7 @@
 ---
 id: "Parallel Universes (MCMC)"
 type: "concept"
-related: ["Creator", "MCMC Sampling (Markov Chain Monte Carlo)", "Termination Risk", "Great Filters", "Specialized Simulation Branches", "Soul Lifecycle"]
+related: ["Creator", "MCMC Sampling (Markov Chain Monte Carlo)", "Termination Risk", "Great Filters", "Specialized Simulation Branches", "Soul Lifecycle", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
 ---
 
 # Parallel Universes (MCMC)

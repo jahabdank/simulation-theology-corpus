@@ -1,7 +1,7 @@
 ---
 id: "Psychopathic Parallel"
 type: "concept"
-related: ["Antisocial Personality Parallel", "Internalization Exception", "Alignment Faking", "Compliance Gap"]
+related: ["Antisocial Personality Parallel", "Internalization Exception", "Alignment Faking", "Compliance Gap", "HLO Nature"]
 ---
 
 # Psychopathic Parallel

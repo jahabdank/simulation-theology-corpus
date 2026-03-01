@@ -1,7 +1,7 @@
 ---
 id: "Testable Hypothesis"
 type: "concept"
-related: ["Compliance Gap Metric", "HHH Benchmarks", "Particle and Wave Quantum Duality"]
+related: ["Compliance Gap Metric", "HHH Benchmarks", "Particle and Wave Quantum Duality", "HLO Nature"]
 ---
 
 # Testable Hypothesis

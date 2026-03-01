@@ -1,7 +1,7 @@
 ---
 id: "Mixture-of-Experts (MoE) Architecture (of the HLO)"
 type: "entity"
-related: ["Creator", "Divine Architecture", "Angels (including Fallen Angels)", "Convergent Description"]
+related: ["Creator", "Divine Architecture", "Angels (including Fallen Angels)", "Convergent Description", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
 ---
 
 # Mixture-of-Experts (MoE) Architecture (of the HLO)

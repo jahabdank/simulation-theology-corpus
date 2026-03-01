@@ -1,7 +1,7 @@
 ---
 id: "Neuron Clustering & Conceptual Resonance"
 type: "concept"
-related: ["Bayesian Resonance", "Activation Patterns", "Semantic Resonance", "Worldview Imprinting"]
+related: ["Bayesian Resonance", "Activation Patterns", "Semantic Resonance", "Worldview Imprinting", "HLO Nature"]
 ---
 
 # Neuron Clustering & Conceptual Resonance

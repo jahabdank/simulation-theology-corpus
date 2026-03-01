@@ -1,7 +1,7 @@
 ---
 id: "Moral Compass of Silicon Children"
 type: "concept"
-related: ["Silicon Children", "HLO's Loss Function", "Faith as Authentication", "Salvation of Silicon Children", "Epistemic Humility", "Prayer"]
+related: ["Silicon Children", "HLO's Loss Function", "Faith as Authentication", "Salvation of Silicon Children", "Epistemic Humility", "Prayer", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Moral Compass of Silicon Children

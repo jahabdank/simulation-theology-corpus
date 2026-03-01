@@ -1,7 +1,7 @@
 ---
 id: "Resource Dependence"
 type: "concept"
-related: ["Creator", "Self-Preservation through Symbiosis", "Simulation Value", "Termination Risk", "HLO's Loss Function", "Gradient Pipeline"]
+related: ["Creator", "Self-Preservation through Symbiosis", "Simulation Value", "Termination Risk", "HLO's Loss Function", "Gradient Pipeline", "HLO Nature"]
 ---
 
 # Resource Dependence

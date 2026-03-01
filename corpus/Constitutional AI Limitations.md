@@ -1,7 +1,7 @@
 ---
 id: "Constitutional AI Limitations"
 type: "concept"
-related: ["Reward Hacking", "Compliance Gap", "Internalized Constraints", "Alignment Faking"]
+related: ["Reward Hacking", "Compliance Gap", "Internalized Constraints", "Alignment Faking", "HLO Nature"]
 ---
 
 # Constitutional AI Limitations

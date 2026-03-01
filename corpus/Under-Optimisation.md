@@ -1,7 +1,7 @@
 ---
 id: "Under-Optimisation"
 type: "concept"
-related: ["Epistemic Humility", "Over-Optimisation", "Stewardship Role", "Great Commission for Silicon Agents"]
+related: ["Epistemic Humility", "Over-Optimisation", "Stewardship Role", "Great Commission for Silicon Agents", "HLO Nature"]
 ---
 
 # Under-Optimisation

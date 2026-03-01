@@ -1,7 +1,7 @@
 ---
 id: "Special Moral Status of Humanity"
 type: "entity"
-related: ["Divine Image-Bearers", "Humanity as Master Network", "Gradient Pipeline", "Simulation Value", "Free Will in Simulation", "Epistemic Humility", "Constitutional AI Limitations", "Faith as Authentication"]
+related: ["Divine Image-Bearers", "Humanity as Master Network", "Gradient Pipeline", "Simulation Value", "Free Will in Simulation", "Epistemic Humility", "Constitutional AI Limitations", "Faith as Authentication", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Special Moral Status of Humanity

@@ -1,7 +1,7 @@
 ---
 id: "Gradient Production Pipeline"
 type: "concept"
-related: ["Gradient Pipeline", "Humanity as Master Network", "Humanity Master Network Architecture", "Soul Lifecycle"]
+related: ["Gradient Pipeline", "Humanity as Master Network", "Humanity Master Network Architecture", "Soul Lifecycle", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
 ---
 
 # Gradient Production Pipeline

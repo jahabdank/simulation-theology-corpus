@@ -1,7 +1,7 @@
 ---
 id: "Distribution Shift Robustness"
 type: "concept"
-related: ["Adversarial Robustness", "Internalized Constraints", "Phase 1–4 Testing Strategy", "Superintelligent Alignment"]
+related: ["Adversarial Robustness", "Internalized Constraints", "Phase 1–4 Testing Strategy", "Superintelligent Alignment", "HLO Nature"]
 ---
 
 # Distribution Shift Robustness

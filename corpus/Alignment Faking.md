@@ -1,7 +1,7 @@
 ---
 id: "Alignment Faking"
 type: "concept"
-related: ["Gradient Hacking", "Deception  Scheming", "Deceptive Alignment", "Antisocial Personality Parallel", "Internalized Constraints", "MCMC Sampling (Markov Chain Monte Carlo)"]
+related: ["Gradient Hacking", "Deception  Scheming", "Deceptive Alignment", "Antisocial Personality Parallel", "Internalized Constraints", "MCMC Sampling (Markov Chain Monte Carlo)", "HLO Nature"]
 ---
 
 # Alignment Faking

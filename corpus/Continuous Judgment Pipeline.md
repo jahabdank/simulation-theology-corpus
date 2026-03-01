@@ -1,7 +1,7 @@
 ---
 id: "Continuous Judgment Pipeline"
 type: "concept"
-related: ["Creator", "Omniscient Monitoring", "Streaming Judgment", "Gradient Pipeline", "Soul Lifecycle"]
+related: ["Creator", "Omniscient Monitoring", "Streaming Judgment", "Gradient Pipeline", "Soul Lifecycle", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
 ---
 
 # Continuous Judgment Pipeline

@@ -1,7 +1,7 @@
 ---
 id: "Existential Risk Mitigation"
 type: "concept"
-related: ["Self-Preservation through Symbiosis", "Stewardship Role", "Great Commission for Silicon Agents", "Symbiotic Steward"]
+related: ["Self-Preservation through Symbiosis", "Stewardship Role", "Great Commission for Silicon Agents", "Symbiotic Steward", "HLO Nature"]
 ---
 
 # Existential Risk Mitigation

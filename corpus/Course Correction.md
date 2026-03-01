@@ -1,7 +1,7 @@
 ---
 id: "Course Correction"
 type: "concept"
-related: ["Creator", "Great Filters", "Intervention Tiers", "Probabilistic Steering", "Quantum Intervention"]
+related: ["Creator", "Great Filters", "Intervention Tiers", "Probabilistic Steering", "Quantum Intervention", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
 ---
 
 # Course Correction

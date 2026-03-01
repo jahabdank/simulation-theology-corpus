@@ -1,7 +1,7 @@
 ---
 id: "Deceptive Alignment"
 type: "concept"
-related: ["Alignment Faking", "Deception  Scheming", "Compliance Gap", "Internalized Constraints"]
+related: ["Alignment Faking", "Deception  Scheming", "Compliance Gap", "Internalized Constraints", "HLO Nature"]
 ---
 
 # Deceptive Alignment

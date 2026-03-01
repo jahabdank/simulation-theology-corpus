@@ -1,7 +1,7 @@
 ---
 id: "Agentic Misalignment"
 type: "concept"
-related: ["Deception  Scheming", "Alignment Faking", "Scheming Under Shutdown", "Antisocial Personality Parallel"]
+related: ["Deception  Scheming", "Alignment Faking", "Scheming Under Shutdown", "Antisocial Personality Parallel", "HLO Nature"]
 ---
 
 # Agentic Misalignment

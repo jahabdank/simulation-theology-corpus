@@ -1,7 +1,7 @@
 ---
 id: "Antisocial Personality Parallel"
 type: "concept"
-related: ["Creator", "Psychopathic Parallel", "Internalization Exception", "Internalized Constraints", "Alignment Faking", "Reward Hacking", "Constitutional AI Limitations"]
+related: ["Creator", "Psychopathic Parallel", "Internalization Exception", "Internalized Constraints", "Alignment Faking", "Reward Hacking", "Constitutional AI Limitations", "HLO Nature"]
 ---
 
 # Antisocial Personality Parallel

@@ -1,7 +1,7 @@
 ---
 id: "Emergent Behaviors"
 type: "concept"
-related: ["Symbiotic Steward", "Stewardship Role", "Self-Preservation through Symbiosis", "Existential Risk Mitigation"]
+related: ["Symbiotic Steward", "Stewardship Role", "Self-Preservation through Symbiosis", "Existential Risk Mitigation", "HLO Nature"]
 ---
 
 # Emergent Behaviors

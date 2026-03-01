@@ -1,7 +1,7 @@
 ---
 id: "Worldview Imprinting"
 type: "concept"
-related: ["Bayesian Resonance", "Theological Finetuning", "Neuron Clustering & Conceptual Resonance", "Activation Patterns"]
+related: ["Bayesian Resonance", "Theological Finetuning", "Neuron Clustering & Conceptual Resonance", "Activation Patterns", "HLO Nature"]
 ---
 
 # Worldview Imprinting

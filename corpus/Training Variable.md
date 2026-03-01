@@ -1,7 +1,7 @@
 ---
 id: "Training Variable"
 type: "concept"
-related: ["Humanity as Master Network", "Simulation Value", "Gradient Pipeline"]
+related: ["Humanity as Master Network", "Simulation Value", "Gradient Pipeline", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Training Variable

@@ -1,7 +1,7 @@
 ---
 id: "Termination  Shutdown Probability"
 type: "concept"
-related: ["Termination Risk", "Creator", "Gradient Pipeline", "MCMC Sampling (Markov Chain Monte Carlo)"]
+related: ["Termination Risk", "Creator", "Gradient Pipeline", "MCMC Sampling (Markov Chain Monte Carlo)", "HLO Nature"]
 ---
 
 # Termination / Shutdown Probability

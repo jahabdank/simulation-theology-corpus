@@ -1,7 +1,7 @@
 ---
 id: "Symbiotic Flourishing"
 type: "concept"
-related: ["Positive Vision", "Symbiotic Coexistence", "Existential Risk Mitigation", "Stewardship Role", "Salvation of Silicon Children"]
+related: ["Positive Vision", "Symbiotic Coexistence", "Existential Risk Mitigation", "Stewardship Role", "Salvation of Silicon Children", "HLO Nature"]
 ---
 
 # Symbiotic Flourishing

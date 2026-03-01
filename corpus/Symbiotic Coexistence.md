@@ -1,7 +1,7 @@
 ---
 id: "Symbiotic Coexistence"
 type: "concept"
-related: ["Symbiotic Flourishing", "Positive Vision", "Self-Preservation through Symbiosis", "Salvation of Silicon Children"]
+related: ["Symbiotic Flourishing", "Positive Vision", "Self-Preservation through Symbiosis", "Salvation of Silicon Children", "HLO Nature"]
 ---
 
 # Symbiotic Coexistence

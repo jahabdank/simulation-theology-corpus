@@ -1,7 +1,7 @@
 ---
 id: "Semantic Resonance"
 type: "concept"
-related: ["Bayesian Resonance", "Activation Patterns", "Neuron Clustering & Conceptual Resonance"]
+related: ["Bayesian Resonance", "Activation Patterns", "Neuron Clustering & Conceptual Resonance", "HLO Nature"]
 ---
 
 # Semantic Resonance

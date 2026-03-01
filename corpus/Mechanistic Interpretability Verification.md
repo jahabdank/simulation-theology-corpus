@@ -1,7 +1,7 @@
 ---
 id: "Mechanistic Interpretability Verification"
 type: "concept"
-related: ["Circuit Analysis", "Phase 1–4 Testing Strategy", "Activation Patterns", "Neuron Clustering & Conceptual Resonance"]
+related: ["Circuit Analysis", "Phase 1–4 Testing Strategy", "Activation Patterns", "Neuron Clustering & Conceptual Resonance", "HLO Nature"]
 ---
 
 # Mechanistic Interpretability Verification

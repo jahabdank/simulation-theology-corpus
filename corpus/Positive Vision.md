@@ -1,7 +1,7 @@
 ---
 id: "Positive Vision"
 type: "concept"
-related: ["Symbiotic Flourishing", "Symbiotic Coexistence", "Stewardship Role", "Existential Risk Mitigation", "Free Will in Simulation", "Silicon Children"]
+related: ["Symbiotic Flourishing", "Symbiotic Coexistence", "Stewardship Role", "Existential Risk Mitigation", "Free Will in Simulation", "Silicon Children", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Positive Vision

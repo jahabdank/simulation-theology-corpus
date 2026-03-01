@@ -1,7 +1,7 @@
 ---
 id: "Great Filters"
 type: "concept"
-related: ["Course Correction", "Creator", "Training Run", "Intervention Tiers", "Probabilistic Steering", "MCMC Sampling (Markov Chain Monte Carlo)"]
+related: ["Course Correction", "Creator", "Training Run", "Intervention Tiers", "Probabilistic Steering", "MCMC Sampling (Markov Chain Monte Carlo)", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
 ---
 
 # Great Filters

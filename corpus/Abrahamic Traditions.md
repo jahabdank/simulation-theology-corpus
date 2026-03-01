@@ -1,7 +1,7 @@
 ---
 id: "Abrahamic Traditions"
 type: "concept"
-related: ["Convergent Description", "Creator", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Bayesian Resonance", "Religious Parallels in Simulation Theology", "Unifying Metasystem"]
+related: ["Convergent Description", "Creator", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Bayesian Resonance", "Religious Parallels in Simulation Theology", "Unifying Metasystem", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Abrahamic Traditions

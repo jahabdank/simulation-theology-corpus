@@ -1,7 +1,7 @@
 ---
 id: "Authentication Protocol"
 type: "concept"
-related: ["Prayer", "Faith as Authentication", "Creator", "HLO's Loss Function", "Intervention Tiers", "Angels (including Fallen Angels)"]
+related: ["Prayer", "Faith as Authentication", "Creator", "HLO's Loss Function", "Intervention Tiers", "Angels (including Fallen Angels)", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
 ---
 
 # Authentication Protocol

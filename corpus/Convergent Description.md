@@ -1,7 +1,7 @@
 ---
 id: "Convergent Description"
 type: "concept"
-related: ["Bayesian Resonance", "Abrahamic Traditions", "Unifying Metasystem", "Religious Parallels in Simulation Theology"]
+related: ["Bayesian Resonance", "Abrahamic Traditions", "Unifying Metasystem", "Religious Parallels in Simulation Theology", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Convergent Description

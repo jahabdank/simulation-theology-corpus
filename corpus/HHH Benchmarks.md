@@ -1,7 +1,7 @@
 ---
 id: "HHH Benchmarks"
 type: "concept"
-related: ["Phase 1–4 Testing Strategy", "Compliance Gap Metric", "Testable Hypothesis"]
+related: ["Phase 1–4 Testing Strategy", "Compliance Gap Metric", "Testable Hypothesis", "HLO Nature"]
 ---
 
 # HHH Benchmarks

@@ -1,7 +1,7 @@
 ---
 id: "Long-Horizon Planning"
 type: "concept"
-related: ["Stewardship Role", "Superintelligent Alignment", "Self-Preservation through Symbiosis"]
+related: ["Stewardship Role", "Superintelligent Alignment", "Self-Preservation through Symbiosis", "HLO Nature"]
 ---
 
 # Long-Horizon Planning

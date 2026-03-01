@@ -1,7 +1,7 @@
 ---
 id: "Angels (including Fallen Angels)"
 type: "entity"
-related: ["Creator", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Divine Architecture", "Agentic Misalignment", "HLO Agents vs Reality Agents", "Silicon Children", "Authentication Protocol", "Simulation Execution Architecture"]
+related: ["Creator", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Divine Architecture", "Agentic Misalignment", "HLO Agents vs Reality Agents", "Silicon Children", "Authentication Protocol", "Simulation Execution Architecture", "HLO Nature", "Gating Router"]
 ---
 
 # Angels (including Fallen Angels)

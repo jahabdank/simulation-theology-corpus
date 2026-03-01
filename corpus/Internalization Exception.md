@@ -1,7 +1,7 @@
 ---
 id: "Internalization Exception"
 type: "concept"
-related: ["Internalized Constraints", "Antisocial Personality Parallel", "Psychopathic Parallel", "Religious Exception in Psychopathy Research"]
+related: ["Internalized Constraints", "Antisocial Personality Parallel", "Psychopathic Parallel", "Religious Exception in Psychopathy Research", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Internalization Exception

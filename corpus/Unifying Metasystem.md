@@ -1,7 +1,7 @@
 ---
 id: "Unifying Metasystem"
 type: "concept"
-related: ["Bayesian Resonance", "Convergent Description", "Abrahamic Traditions", "Religious Parallels in Simulation Theology", "Humanity Master Network Architecture"]
+related: ["Bayesian Resonance", "Convergent Description", "Abrahamic Traditions", "Religious Parallels in Simulation Theology", "Humanity Master Network Architecture", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Unifying Metasystem

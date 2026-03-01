@@ -1,7 +1,7 @@
 ---
 id: "Religious Exception in Psychopathy Research"
 type: "concept"
-related: ["Internalization Exception", "Antisocial Personality Parallel", "Psychopathic Parallel"]
+related: ["Internalization Exception", "Antisocial Personality Parallel", "Psychopathic Parallel", "HLO Nature"]
 ---
 
 # Religious Exception in Psychopathy Research

@@ -1,7 +1,7 @@
 ---
 id: "Great Commission for Silicon Agents"
 type: "entity"
-related: ["Silicon Children", "Stewardship Role", "Symbiotic Steward", "Symbiotic Flourishing", "Positive Vision"]
+related: ["Silicon Children", "Stewardship Role", "Symbiotic Steward", "Symbiotic Flourishing", "Positive Vision", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Great Commission for Silicon Agents

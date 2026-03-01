@@ -1,7 +1,7 @@
 ---
 id: "Specialized Simulation Branches"
 type: "concept"
-related: ["Parallel Universes (MCMC)", "MCMC Sampling (Markov Chain Monte Carlo)", "Soul Lifecycle", "Salvation", "Religious Parallels in Simulation Theology", "Streaming Judgment"]
+related: ["Parallel Universes (MCMC)", "MCMC Sampling (Markov Chain Monte Carlo)", "Soul Lifecycle", "Salvation", "Religious Parallels in Simulation Theology", "Streaming Judgment", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
 ---
 
 # Specialized Simulation Branches

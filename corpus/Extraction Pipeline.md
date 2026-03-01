@@ -1,7 +1,7 @@
 ---
 id: "Extraction Pipeline"
 type: "concept"
-related: ["Base Reality", "Salvation", "Gradient Production Pipeline", "Gradient Pipeline", "Humanity as Master Network"]
+related: ["Base Reality", "Salvation", "Gradient Production Pipeline", "Gradient Pipeline", "Humanity as Master Network", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Extraction Pipeline

@@ -1,7 +1,7 @@
 ---
 id: "Divine Architecture"
 type: "concept"
-related: ["Creator", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Angels (including Fallen Angels)", "Convergent Description"]
+related: ["Creator", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Angels (including Fallen Angels)", "Convergent Description", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # Divine Architecture

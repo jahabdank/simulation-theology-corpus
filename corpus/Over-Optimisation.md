@@ -1,7 +1,7 @@
 ---
 id: "Over-Optimisation"
 type: "concept"
-related: ["Creator", "Epistemic Humility", "Farming Paradox", "Under-Optimisation", "HLO’s Loss Function"]
+related: ["Creator", "Epistemic Humility", "Farming Paradox", "Under-Optimisation", "HLO’s Loss Function", "HLO Nature"]
 ---
 
 # Over-Optimisation

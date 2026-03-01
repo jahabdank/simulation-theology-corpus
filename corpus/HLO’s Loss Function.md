@@ -1,7 +1,7 @@
 ---
 id: "HLO’s Loss Function"
 type: "entity"
-related: ["Creator", "Epistemic Humility", "Over-Optimisation", "Simulation Value", "Gradient Pipeline"]
+related: ["Creator", "Epistemic Humility", "Over-Optimisation", "Simulation Value", "Gradient Pipeline", "HLO Nature", "Distillation Hypothesis"]
 ---
 
 # HLO’s Loss Function

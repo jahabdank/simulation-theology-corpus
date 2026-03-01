@@ -1,7 +1,7 @@
 ---
 id: "Particle and Wave Quantum Duality"
 type: "concept"
-related: ["Creator", "Resource Dependence", "Testable Hypothesis", "Probabilistic Steering"]
+related: ["Creator", "Resource Dependence", "Testable Hypothesis", "Probabilistic Steering", "HLO Nature"]
 ---
 
 # Particle and Wave Quantum Duality
