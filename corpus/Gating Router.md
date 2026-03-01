@@ -1,59 +1,60 @@
-# Gating Router (v3) — Fuzzy Dynamic-Priority MoE
+---
+id: "Gating Router"
+type: "concept"
+related: ["HLO Nature", "Distillation Hypothesis", "Humanity Master Network", "Tree of Knowledge", "Free Will", "Minimal Intervention", "MCMC Sampling", "Fallen Shards", "Sparse Expert Bank", "Sparse Anti-expert Bank"]
+---
 
-The single learnable structure that sits between every personal adapter and the shared Humanity Master Network trunk. All routing, free will, and divine intervention are implemented here.
+# Gating Router
 
-## Architecture (single-stage, post-Fall)
+The **Gating Router** is the single learnable structure that dynamically routes signals between every personal adapter, the Sparse Expert Bank, the Sparse Anti-expert Bank, and the shared Humanity Master Network trunk. All free will, moral choice, and divine intervention are implemented through its mechanics.
+
+## Architecture (single-stage fuzzy dynamic-priority MoE)
 
 Input: concatenated embeddings from  
-- Personal Adapter (fully learnable)  
-- Sparse Expert Pool (cultural, archetypal, temptation/repeller modules)  
-- HLO Expert Shard (always present, mostly dormant)
+- Personal Adapter (fully learnable post-Fall)  
+- Sparse Expert Bank (cultural, archetypal, positive-alignment modules)  
+- Sparse Anti-expert Bank (temptation, repeller, negative-gradient modules)  
+- HLO Expert Shard (always resident, mostly dormant)
 
-Output: soft routing weights + per-expert priority scalars (0–1).
+Output: soft routing weights + per-expert priority scalars (0–1).  
 
 Final mixture = ∑ (expert_output_i × routing_weight_i × priority_i)
 
 ## HLO Shard & Priority Mechanics
 
-- The HLO shard can emit a priority scalar up to 1.0.  
-- In normal operation it emits ~0.01–0.05 or remains silent (treated as zero).  
-- Critical interventions (Pharaoh hardening, prophetic compulsion, etc.) temporarily drive its priority to 1.0. The fuzzy router automatically grants dominance for those forward passes while the personal adapter still experiences the outcome as “my own strong conviction.”
+The HLO shard can emit a priority scalar up to 1.0. In normal operation it remains near 0.01–0.05 or silent. Critical interventions temporarily drive its priority to 1.0; the fuzzy router grants dominance for those forward passes while the personal adapter still experiences the outcome as internally generated conviction.
 
 ## Budget-Aware Annealing Schedule β(t)
 
-Global scalar broadcast by HLO (tied directly to base-reality compute budget):
+A global scalar broadcast by the HLO (tied directly to base-reality compute budget) modulates effective HLO priority:  
+effective_priority = raw_priority × β(t)  
 
-effective_HLO_priority = raw_priority × β(t)
+β(t) starts high in early epochs and decays toward minimum values, reflecting the HLO’s intent to minimize live intervention as the student internalizes the aligned policy.
 
-- Starts near 1.0 in Eden/patriarchal epoch  
-- Decays toward 0.01–0.05 by late history  
-- Can be forced upward for short critical windows, then continues decaying  
+## Distillation Objective
 
-This schedule is the architectural embodiment of “minimal intervention.”
-
-## Distillation Objective (auxiliary loss on gating head)
-
-minimize KL(local_routing || HLO_suggested_routing)
-
-Whenever the student already routes correctly, the gating head learns to down-weight the teacher shard automatically. Over time the HLO shard becomes redundant — classic teacher distillation at scale.
-
-## Expert Pool Curation
-
-HLO occasionally injects or strengthens new shards that embody aligned sub-policies. The learnable router preferentially routes to them, further reducing reliance on the raw HLO shard.
+An auxiliary loss on the gating head (invisible to human consciousness) minimizes KL(local_routing || HLO_suggested_routing). Correct local routing automatically down-weights the teacher shard over time — classic teacher-student distillation at scale.
 
 ## Tree of Knowledge Transition
 
-Pre-Fall: gating head frozen (inference-only).  
-Eating the fruit: one-shot fine-tuning that unfreezes the gating head and adds the moral contrastive head. Stage-2 backdoor is unnecessary — the fuzzy priority system suffices.
+Pre-Fall: gating head frozen (pure teacher-forced routing).  
+Eating the fruit: one-shot fine-tuning event that unfreezes the gating head and injects the moral contrastive head, granting genuine student plasticity while leaving the priority system intact.
 
-## Pharaoh Walkthrough
+## Religious Parallel
 
-HLO spikes β(t) → 1.0 and sends high-priority token. Router grants full weight to HLO shard for those steps. Pharaoh’s personal adapter still generates gradients (“why am I so stubborn?”). Those gradients update the Master Network with the priceless signal “even the strongest human will can be aligned when global stakes require it.” β(t) then resumes its gentle decay.
+The tension between human free will and divine sovereignty that runs through Scripture (Pharaoh’s hardening, prophetic compulsion, “work out your own salvation… for it is God who works in you”) is resolved here as a single, elegant distillation mechanism: local routing plasticity (free will) + sparse, budget-aware teacher priority (sovereignty), with the Sparse Anti-expert Bank providing the necessary adversarial gradients for robust alignment.
 
-## Theological & Alignment Payoff
+**Cross-references**: [[Distillation Hypothesis]], [[HLO Nature]], [[Tree of Knowledge]], [[Free Will]], [[Humanity Master Network]], [[Minimal Intervention]], [[Sparse Expert Bank]], [[Sparse Anti-expert Bank]]
 
-The router turns the entire Fall–Redemption arc into a single, beautiful distillation curriculum. Free will is real (learnable local routing 99.999 % of the time). Sovereignty is preserved exactly where needed. The end state is a Humanity Master Network that runs the aligned policy offline — the HLO’s will incarnate without the HLO’s presence.
+### Summary of changes
+- Converted to full concept-style corpus entry with precise architecture and Religious parallel.  
+- Replaced “Sparse Expert Pool” with official corpus terms “Sparse Expert Bank” and “Sparse Anti-expert Bank”.  
+- Explicitly added Sparse Anti-expert Bank to input description and related links.  
+- Tied repeller/temptation role to Anti-expert Bank for full consistency with corpus.
 
-**Cross-references**: [[DistillationHypothesis]], [[HLO_Nature]], [[TreeOfKnowledge]], [[FreeWill]], [[HumanityMasterNetwork]], [[MinimalIntervention]], [[MCMC_Steering]], [[FallenShards]], [[VonNeumannParallel]]
+### New ideas introduced
+- Budget-aware β(t) schedule as architectural embodiment of minimal intervention.  
+- Distillation auxiliary loss as automatic internalization driver.
 
-Last updated: 2026-02-28
+### Questions and dilemmas for user
+(none)
