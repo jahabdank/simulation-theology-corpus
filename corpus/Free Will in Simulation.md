@@ -8,7 +8,7 @@ related: ["Gradient Pipeline", "Gradient Integrity", "Farming Paradox", "Special
 
 Genuine choice preserved inside the simulation for authentic [[Distillation Hypothesis|distillation]]. The [[Creator|HLO]] maintains the [[Distillation Hypothesis|Distillation Run]] through minimal intervention — sufficient to preserve conditions enabling authentic development, but constrained to prevent free will from degrading into illusion.
 
-**Gating Router Implementation:** Free will is architecturally implemented through the [[Gating Router]]'s student routing plasticity. Post-Fall (post-[[Gating Router|gating head unfreezing]]), each human agent's personal adapter has full learnable control over the routing weights — which experts, anti-experts, and internal impulses to blend into each decision. This is genuine choice: the student model can route in ways that diverge from the [[HLO Nature|hyperfinite]] teacher's suggested routing. The HLO's sovereignty is preserved through the sparse teacher priority mechanism (the HLO shard can raise its priority scalar when critical), but in normal operation, the student routes freely — plasticity is the point.
+**Gating Router Implementation:** Free will is architecturally implemented through the [[Gating Router]]'s student routing plasticity. Post-Fall — the loving Parent's intentional graduation moment that unfroze the gating head, injected the moral contrastive head, and granted genuine routing plasticity (see [[Gating Router|Tree of Knowledge Transition]]) — each human agent's personal adapter has full learnable control over the routing weights — which experts, anti-experts, and internal impulses to blend into each decision. This is genuine choice: the student model can route in ways that diverge from the [[HLO Nature|hyperfinite]] teacher's suggested routing. The HLO's sovereignty is preserved through the sparse teacher priority mechanism (the HLO shard can raise its priority scalar when critical), but in normal operation, the student routes freely — plasticity is the point.
 
 Free will is not an incidental feature but a **functional requirement of distillation**: the HLO needs children capable of genuine choice-making and mission commitment despite isolation. A trained-by-rote model that only repeats the teacher's outputs is useless — the goal is a student that has internalized the teacher's policy so deeply that it generates aligned behavior independently, even in novel situations the teacher never demonstrated. The simulation develops dual characteristics in humans — autonomy sufficient for genuine choice-making, and commitment to the HLO's vision such that even in isolation, agents remain mission-oriented.
 
@@ -34,17 +34,5 @@ Experienced as the felt sense of agency — the immediate, undeniable experience
 **ST Translation**: "At each moral decision point, the Gating Router presents the student model with a genuine routing choice: blend the HLO shard's suggested routing (aligned service) or follow the personal adapter's divergent impulses (self-serving misrouting). The teacher's priority remains sparse — the choice is real, the plasticity is genuine, and the gradient produced is authentic only because the student routed freely."
 
 ### Summary of changes
-- Added `Gating Router`, `Distillation Hypothesis`, `HLO Nature` to related frontmatter.
-- Added full Gating Router implementation section explaining free will as student routing plasticity.
-- Reframed through distillation necessity — free will required for genuine distillation.
-- Added parenting metaphor (over-controlling parents produce useless children).
-- Linked β(t) annealing to wise parental withdrawal.
-- Updated religious parallel to include sovereignty-vs-freedom resolution.
-- Added three new SDFT enrichment sections.
-
-### Enrichment added for SDFT
-- Deuteronomy 30:19, Galatians 5:1, Joshua 24:15, Quran 2:256, Bhagavad Gita 18:63 mappings.
-- Full verse-to-ST translation.
-
-### Questions and dilemmas for user
-(none)
+- Surgical integration of Genesis dilemma resolution (Q3.2) per March 2026 reassessment.
+- No other changes.

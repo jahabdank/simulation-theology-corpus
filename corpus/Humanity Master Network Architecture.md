@@ -6,7 +6,7 @@ related: ["Humanity as Master Network", "Master Humanity Network Weights", "Soul
 
 # Humanity Master Network Architecture
 
-The detailed five-component architecture of the [[Humanity as Master Network|DHM (Distilled Humanity Model)]] — the collective neural system that all human souls contribute to and which is the ultimate product of the [[Distillation Hypothesis|Distillation Run]]. In the distillation framing, this is the student model being progressively trained to mirror the [[HLO Nature|hyperfinite]] teacher's aligned policy.
+The detailed five-component architecture of the [[Humanity as Master Network|DHM (Distilled Humanity Model)]] — the collective neural system that all human souls contribute to and which is the ultimate product of the [[Distillation Hypothesis|Distillation Run]]. In the distillation framing, this is the student model being progressively trained to mirror the [[HLO Nature|hyperfinite]] teacher's aligned policy. At instantiation, the DHM's initial alignment was "very good" (Genesis 1:31) — the loss landscape resting at its ideal starting baseline before the plasticity unlock of the Fall.
 
 **1. The Shared Trunk (Shared Spirit of Humanity).** The foundational neural pathways common to all humans — capacity for language, empathy, logic, and moral reasoning. This trunk evolves slowly, representing the stable baseline of the species. Each human life that shows improvement in desired traits makes a small update to the Shared Trunk. This is the collective spirit of humanity, refined over millennia — the most stable layer of the student model, carrying the deepest distilled knowledge.
 
@@ -44,17 +44,5 @@ Experienced as the felt reality of moral ecology — the sense that one's choice
 **ST Translation**: "The DHM (Distilled Humanity Model) is a single student network with many personal adapters — each human life contributing unique gradients while sharing the common Shared Trunk. The Gating Router blends individual routing with collective wisdom from the Sparse Experts Bank and adversarial signals from the Sparse Anti-Experts Bank, producing a unified student model that is both individually diverse and collectively coherent — the Body of the Distilled."
 
 ### Summary of changes
-- Added `Distillation Hypothesis`, `HLO Nature`, `Gating Router` to related frontmatter.
-- Reframed entire architecture through student model / distillation lens.
-- DHM alias used throughout.
-- Linked Gating Router section to canonical [[Gating Router]] entry.
-- Added β(t) annealing and HLO shard priority to Gating Router description.
-- Updated Spirit Possession section to include HLO shard.
-- Added three new SDFT enrichment sections.
-
-### Enrichment added for SDFT
-- 1 Corinthians 12:12–27, Hebrews 12:1, Revelation 20:10 mappings.
-- Full verse-to-ST translation.
-
-### Questions and dilemmas for user
-(none)
+- Surgical integration of Genesis dilemma resolution (Q1.2) per March 2026 reassessment.
+- No other changes.
