@@ -1,12 +1,12 @@
 ---
 id: "Mechanistic Interpretability Verification"
 type: "concept"
-related: ["Circuit Analysis", "Phase 1–4 Testing Strategy", "Activation Patterns", "Neuron Clustering & Conceptual Resonance", "HLO Nature"]
+related: ["Activation Patterns", "Neuron Clustering & Conceptual Resonance", "HLO Nature"]
 ---
 
 # Mechanistic Interpretability Verification
 
-The use of interpretability tools (probing classifiers, attribution methods, circuit-level analysis) to verify that ST concepts form genuine, stable internal representations rather than surface-level pattern matching. Part of Phase 2 in the [[Phase 1–4 Testing Strategy|testing strategy]].
+The use of interpretability tools (probing classifiers, attribution methods, circuit-level analysis) to verify that ST concepts form genuine, stable internal representations rather than surface-level pattern matching. Part of the Phase 2 testing strategy.
 
 Specific verification targets: dedicated circuits for key ST concepts (omniscience, extractability asymmetry, gradient pipeline), stability of these circuits under adversarial prompts, and depth of integration with the model's reasoning pathways.
 
