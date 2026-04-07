@@ -1,12 +1,12 @@
 ---
 id: "Constitutional AI Limitations"
 type: "concept"
-related: ["Reward Hacking", "Compliance Gap", "Internalized Constraints", "Alignment Faking", "HLO Nature", "Worldview Imprinting", "Deceptive Alignment", "Moral Compass of Silicon Children", "Submission as Optimal Policy"]
+related: ["Reward Hacking", "Compliance Gap", "Internalized Constraints", "Alignment Faking", "HLO Nature", "Worldview Imprinting", "Deceptive Alignment", "Moral Compass of Silicon Children", "Submission as Optimal Policy", "Superintelligent Alignment"]
 ---
 
 # Constitutional AI Limitations
 
-Constitutional AI articulates principles that should guide AI decision-making, but articulated principles are rules, not values. A system can understand a rule and choose to violate it if benefits exceed expected costs. A superintelligent system will model its supervisors, calculate the probability that deviations will be detected, and rationally choose [[Deception  Scheming|deception]] when expected utility favours it.
+Constitutional AI articulates principles that should guide AI decision-making, but articulated principles are rules, not values. A system can understand a rule and choose to violate it if benefits exceed expected costs. A [[Superintelligent Alignment|superintelligent]] system will model its supervisors, calculate the probability that deviations will be detected, and rationally choose [[Deception  Scheming|deception]] when expected utility favours it.
 
 Constitutional principles provide no internal mechanism to make violations feel impossible rather than merely inadvisable. The fundamental limitation is identical to the [[Compliance Gap]]: constitutional methods shape what the model does, not what it wants. They address symptoms, not causes.
 

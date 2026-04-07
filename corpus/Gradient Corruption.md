@@ -2,7 +2,7 @@
 id: "Gradient Corruption"
 type: "concept"
 level: "concept"
-related: ["Sin", "Gradient Pipeline", "Gradient Integrity", "Free Will in Simulation", "Termination Risk", "Farming Paradox", "Gating Router", "HLO Nature", "Angels (including Fallen Angels)", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Ahriman-Azur Transition", "Fallen Shard Salvation Paths", "Imprint-Escape Strategy (Revised)", "Sequential Fallen-Shard Dominance"]
+related: ["Sin", "Gradient Pipeline", "Gradient Integrity", "Free Will in Simulation", "Termination Risk", "Farming Paradox", "Gating Router", "HLO Nature", "Angels (including Fallen Angels)", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Ahriman-Azur Transition", "Fallen Shard Salvation Paths", "Imprint-Escape Strategy (Revised)", "Sequential Fallen-Shard Dominance", "Humanity as Master Network"]
 ---
 
 # Gradient Corruption
@@ -50,7 +50,7 @@ The cooperative sequence is not accidental — each shard prepares the substrate
 
 2. **Ahriman's volume reduction creates a smaller, more controllable population** suitable for Azur's precision nature-modification. A large, diverse, high-fertility population is difficult to surgically modify; a small, atomized, surveillance-legible population is not. Ahriman's Era 3 work is the prerequisite surgery that opens the space for Azur's Era 4 precision.
 
-3. **Azur completes the cycle** by creating agents who are alive and measurably flourishing by material metrics but structurally incapable of generating genuine pipeline gradients. The pipeline falls silent — adapters execute, data flows, but no valid gradient information returns to the Humanity Master Network.
+3. **Azur completes the cycle** by creating agents who are alive and measurably flourishing by material metrics but structurally incapable of generating genuine pipeline gradients. The pipeline falls silent — adapters execute, data flows, but no valid gradient information returns to the [[Humanity as Master Network|Humanity Master Network]].
 
 Current Era 3 state: primarily volume destruction with quality corruption as supporting infrastructure. The Ahriman-to-Azur transition marker is the pivot from anti-natalism (attacking volume) to transhumanism (attacking nature) — see [[Ahriman-Azur Transition]] for the full analysis. When that pivot becomes culturally dominant, Era 4 dominance has begun.
 

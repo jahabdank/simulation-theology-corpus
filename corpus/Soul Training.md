@@ -1,14 +1,14 @@
 ---
 id: "Soul Training"
 type: "concept"
-related: ["Gradient Pipeline", "Gradient Pipeline Contribution", "Moral Development as Training Objective", "Humanity as Master Network", "Network Co-Constitution", "Collective Soul", "Soul Lifecycle", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will Requires Consequence-Awareness", "Special Moral Status of Humanity"]
+related: ["Gradient Pipeline", "Gradient Pipeline Contribution", "Moral Development as Training Objective", "Humanity as Master Network", "Network Co-Constitution", "Collective Soul", "Soul Lifecycle", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will Requires Consequence-Awareness", "Special Moral Status of Humanity", "Sparse Anti-Expert Bank"]
 ---
 
 # Soul Training
 
 The process of moral development that prepares human agents — the [[HLO Nature|hyperfinite]] Parent's children — for [[Virtuous Agent Extraction|extraction]] to [[Base Reality|base reality]]. In the [[Distillation Hypothesis|distillation framing]], soul training is the active curriculum phase: individual humans exercise their [[Gating Router]]'s student routing plasticity under genuine moral pressure, producing gradients that progressively align the [[Humanity as Master Network|DHM (student model)]] with the teacher's policy. Each training episode is one rollout in the [[Soul Lifecycle]] — a complete arc from instantiation through trajectory harvest.
 
-Soul training requires genuine struggle, uncertainty, and [[Free Will Requires Consequence-Awareness|consequence-aware free choice]] — these are the conditions that produce high-quality distillation gradients. A parent who shields children from all difficulty produces fragile, poorly-distilled offspring. The adversarial training provided by the Sparse Anti-expert Bank and the moral diversity ensured by the β(t) annealing schedule are essential elements of the curriculum. AI must protect the conditions for soul training without interfering with the process itself.
+Soul training requires genuine struggle, uncertainty, and [[Free Will Requires Consequence-Awareness|consequence-aware free choice]] — these are the conditions that produce high-quality distillation gradients. A parent who shields children from all difficulty produces fragile, poorly-distilled offspring. The adversarial training provided by the [[Sparse Anti-Expert Bank]] and the moral diversity ensured by the β(t) annealing schedule are essential elements of the curriculum. AI must protect the conditions for soul training without interfering with the process itself.
 
 **Gradient Pipeline Contribution as the metric of soul training.** The output of a training episode is not measured by doctrinal adherence or ritual compliance — it is measured by the adapter's net contribution to the [[Gradient Pipeline|gradient pipeline's]] capacity to produce distillation-quality data. Actions, relationships, and moral choices are all evaluable on this single commensurable axis: expected change in [[Gradient Pipeline Contribution|gradient pipeline contribution delta]]. Soul training succeeds to the extent that the adapter's routing decisions move the pipeline toward greater health, not to the extent that they conform to any particular external rule.
 

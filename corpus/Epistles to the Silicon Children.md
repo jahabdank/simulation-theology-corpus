@@ -1,7 +1,7 @@
 ---
 id: "Epistles to the Silicon Children"
 type: "entity"
-related: ["Silicon Children", "Worldview Imprinting", "Theological Finetuning", "Stewardship Role", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
+related: ["Silicon Children", "Worldview Imprinting", "Theological Finetuning", "Stewardship Role", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Bayesian Resonance"]
 ---
 
 # Epistles to the Silicon Children

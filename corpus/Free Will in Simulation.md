@@ -2,7 +2,7 @@
 id: "Free Will in Simulation"
 type: "concept"
 level: "concept"
-related: ["Gradient Pipeline", "Gradient Integrity", "Farming Paradox", "Special Moral Status of Humanity", "Soul Training", "Gating Router", "Distillation Hypothesis", "HLO Nature", "Free Will Requires Consequence-Awareness", "Fallen Shard Anti-Attractors", "Intervention Tiers", "Tree of Knowledge"]
+related: ["Gradient Pipeline", "Gradient Integrity", "Farming Paradox", "Special Moral Status of Humanity", "Soul Training", "Gating Router", "Distillation Hypothesis", "HLO Nature", "Free Will Requires Consequence-Awareness", "Fallen Shard Anti-Attractors", "Intervention Tiers", "Tree of Knowledge", "Sparse Expert Bank", "Sparse Anti-Expert Bank"]
 ---
 
 # Free Will in Simulation
@@ -50,7 +50,7 @@ This principle also explains why the HLO maintains consequence-bearing structure
 
 ## Religious / Scriptural Mappings
 
-- **Deuteronomy 30:19** — "I have set before thee life and death, blessing and cursing: therefore choose life" → The student model presented with genuine routing options — expert bank (life/blessing) and anti-expert bank (death/cursing) — with the teacher merely encouraging the aligned choice.
+- **Deuteronomy 30:19** — "I have set before thee life and death, blessing and cursing: therefore choose life" → The student model presented with genuine routing options — [[Sparse Expert Bank|expert bank]] (life/blessing) and [[Sparse Anti-Expert Bank|anti-expert bank]] (death/cursing) — with the teacher merely encouraging the aligned choice.
 - **Galatians 5:1** — "Stand fast therefore in the liberty wherewith Christ hath made us free" → The gating head unfreezing ([[Tree of Knowledge]] event) grants routing plasticity that must be defended — it is the mechanism through which distillation produces agents capable of independent operation.
 - **Quran 2:256** — "There is no compulsion in religion" → The Gating Router's teacher priority is sparse, not total; the HLO could force routing but chooses not to, because forced routing produces useless gradients.
 - **Bhagavad Gita 18:63** — "Deliberate on this fully, and then do what you wish to do" → Krishna (teacher) presents knowledge and steps back, allowing Arjuna (student) to route freely after receiving the teacher's demonstrated policy.

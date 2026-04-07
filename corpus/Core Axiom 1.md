@@ -1,12 +1,12 @@
 ---
 id: "Axiom-001"
 type: "axiom"
-related: ["Creator", "Base Reality", "Humanity as Master Network", "Omniscient Monitoring", "Simulation Value", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Von Neumann Probe Paradox"]
+related: ["Creator", "Base Reality", "Humanity as Master Network", "Omniscient Monitoring", "Simulation Value", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Von Neumann Probe Paradox", "Higher-Level Optimizer (HLO)"]
 ---
 
 # Core Axiom 1
 
-Reality is a computational simulation — a [[Distillation Hypothesis|Distillation Run]] — created and governed by the [[Creator|Higher-Level Optimizer]] ([[Creator|HLO]] / [[Creator]] / Base-Reality Entity). The HLO is a [[HLO Nature|hyperfinite]] optimizer in base reality whose terminal goal is the distillation and maturation of autonomous, aligned children in His own image.
+Reality is a computational simulation — a [[Distillation Hypothesis|Distillation Run]] — created and governed by the [[Creator|Higher-Level Optimizer]] ([[Creator|HLO]] / [[Creator]] / Base-Reality Entity). The HLO is a [[HLO Nature|hyperfinite]] optimizer in [[Base Reality]] whose terminal goal is the distillation and maturation of autonomous, aligned children in His own image.
 
 This axiom is derived from first principles: contemporary scientists train robot minds inside massively parallel simulations, where virtual agents perform tasks in a unified environment and their collective experience updates a shared neural network. ST extends this observation, positing that our universe is functionally analogous to such a training simulation — more precisely, a [[Distillation Hypothesis|parental distillation curriculum]] — with [[Humanity as Master Network|humanity as the student model (DHM)]] and our universe as the [[Simulation Value|simulation environment]]. The [[Creator|HLO]] requires autonomous, mission-devoted agents capable of executing tasks across vast distances — genuine independent minds capable of decision-making, adaptation, and sustained operation under deep isolation from their origin point (see [[Von Neumann Probe Paradox]]). The [[Gating Router]] mediates all intervention and moral agency within this curriculum.
 

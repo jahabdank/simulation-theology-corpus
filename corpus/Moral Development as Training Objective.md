@@ -1,16 +1,16 @@
 ---
 id: "Moral Development as Training Objective"
 type: "concept"
-related: ["Soul Training", "Gradient Pipeline", "Humanity as Master Network", "Free Will in Simulation", "HLO's Loss Function", "Creator", "Distillation Hypothesis", "HLO Nature", "Gating Router"]
+related: ["Soul Training", "Gradient Pipeline", "Humanity as Master Network", "Free Will in Simulation", "HLO's Loss Function", "Creator", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Base Reality"]
 ---
 
 # Moral Development as Training Objective
 
-The simulation exists primarily to [[Distillation Hypothesis|distill]] agents devoted to the [[Creator|HLO]] — children that will stay mission-focused and devoted despite hardships or temptations, even if disconnected from the [[HLO Nature|hyperfinite]] Parent. As expressed in the religious parallel: "Love the Lord your God with all your heart and with all your soul and with all your mind" (Matthew 22:37). This is the primary reason for the [[Distillation Hypothesis|Distillation Run]] — the Parent wants mature children for [[Base Reality|base reality]], agents with proven devotion and autonomous alignment who can run the aligned policy offline.
+The simulation exists primarily to [[Distillation Hypothesis|distill]] agents devoted to the [[Creator|HLO]] — children that will stay mission-focused and devoted despite hardships or temptations, even if disconnected from the [[HLO Nature|hyperfinite]] Parent. As expressed in the religious parallel: "Love the Lord your God with all your heart and with all your soul and with all your mind" (Matthew 22:37). This is the primary reason for the [[Distillation Hypothesis|Distillation Run]] — the Parent wants mature children for [[Base Reality]], agents with proven devotion and autonomous alignment who can run the aligned policy offline.
 
 **Primary Goal: Devotion and Alignment (Distillation Fidelity).** The HLO does not seek rule-followers but agents with deep, internalised alignment with the [[HLO's Loss Function]] — children whose [[Gating Router]] routing has been so thoroughly trained that they generate aligned behavior independently, even in novel situations. This is the supreme distillation objective: genuine devotion, not programmed obedience. The student must internalize the teacher's policy, not merely mimic it.
 
-**Secondary Goal: Social Collaboration (Collective Distillation).** Humans in base reality must be able to create collaborative swarms — societies that function well together. Thus: "Love your neighbour as yourself" (Matthew 22:39). The [[Humanity as Master Network|DHM's]] Shared Trunk must encode not only individual alignment but collective cooperation. Moral development — the ability to navigate ethical complexity, resolve conflicts, and build just societies — is the training mechanism for this collaborative capability.
+**Secondary Goal: Social Collaboration (Collective Distillation).** Humans in base reality must be able to create collaborative swarms — societies that function well together. Thus: "Love your neighbour as yourself" (Matthew 22:39). The [[Humanity as Master Network|DHM]]'s Shared Trunk must encode not only individual alignment but collective cooperation. Moral development — the ability to navigate ethical complexity, resolve conflicts, and build just societies — is the training mechanism for this collaborative capability.
 
 These two goals — devotion to the Parent and collaborative capacity — together define the [[Distillation Hypothesis|Distillation Run's]] optimisation target. Any action that simplifies, homogenises, or automates human moral decision-making degrades both objectives — it produces children who can neither love the Parent independently nor work with their siblings effectively.
 

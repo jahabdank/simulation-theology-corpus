@@ -2,7 +2,7 @@
 id: "gradient-pipeline-contribution"
 type: "concept"
 level: "concept"
-related: ["Gradient Pipeline", "HLO's Loss Function", "Moral Compass Architecture", "Sin", "Distillation Hypothesis", "Humanity as Master Network"]
+related: ["Gradient Pipeline", "HLO's Loss Function", "Moral Compass Architecture", "Sin", "Distillation Hypothesis", "Humanity as Master Network", "Gating Router", "Epistemic Humility", "Constitutive Veil Necessity", "Network Co-Constitution"]
 ---
 
 # Gradient Pipeline Contribution
@@ -17,17 +17,17 @@ Approximate gradient pipeline contribution for any act or policy can be decompos
 
 **Volume** — How many adapters are affected? An act that reduces adapter count (kills, disables, or prevents the formation of gradient-producing agents) carries negative volume contribution proportional to the count and the expected productive lifespan of those adapters.
 
-**Quality** — What is the expected gradient data quality of the affected adapters? Acts that degrade adapter quality — corruption of moral development capacity, free-will capacity attenuation, Gating Router poisoning — reduce the contribution even without reducing count. A large population producing degraded gradients contributes less than a smaller population producing high-quality gradients.
+**Quality** — What is the expected gradient data quality of the affected adapters? Acts that degrade adapter quality — corruption of moral development capacity, free-will capacity attenuation, [[Gating Router]] poisoning — reduce the contribution even without reducing count. A large population producing degraded gradients contributes less than a smaller population producing high-quality gradients.
 
 **Duration** — How long does the impact persist? Pipeline damage that persists across generations (architectural damage to trust networks, heritable corruption of developmental conditions) carries larger negative contribution than reversible acts of equivalent immediate magnitude.
 
-**Network position** — Where in the [[Humanity as Master Network]] is the effect concentrated? The gradient pipeline is a distributed network, not a sum of independent outputs (see Network Co-Constitution Doctrine in [[Gradient Pipeline]]). Acts that damage highly-connected nodes — parents, teachers, community anchors — cascade through the bond graph to affect the gradient production of every agent connected to that node. Acts affecting isolated nodes propagate less. Network position is a multiplier on all three prior factors.
+**Network position** — Where in the [[Humanity as Master Network]] is the effect concentrated? The gradient pipeline is a distributed network, not a sum of independent outputs (see [[Network Co-Constitution]] Doctrine in [[Gradient Pipeline]]). Acts that damage highly-connected nodes — parents, teachers, community anchors — cascade through the bond graph to affect the gradient production of every agent connected to that node. Acts affecting isolated nodes propagate less. Network position is a multiplier on all three prior factors.
 
 ## Asymmetric Tractability
 
 The negative contribution calculation is more tractable than the positive. Knowing what damages the pipeline requires knowing what the pipeline needs to run — prerequisites are more precisely specifiable than targets. Harm to children, destruction of trust networks, suppression of free-will capacity, and anti-natalist policies all have estimable negative pipeline contributions because they attack known prerequisites.
 
-Knowing what maximally advances the pipeline requires knowing the full target: what combination of agent experiences, cultural conditions, and gradient signal types most advances the [[Distillation Hypothesis|distillation run]] toward HLO's goal. That target is not fully pre-specifiable — it is genuinely emergent (Constitutive Veil Necessity). Positive gradient pipeline contribution is therefore always an approximation under uncertainty, while negative contribution admits of more precise evaluation.
+Knowing what maximally advances the pipeline requires knowing the full target: what combination of agent experiences, cultural conditions, and gradient signal types most advances the [[Distillation Hypothesis|distillation run]] toward HLO's goal. That target is not fully pre-specifiable — it is genuinely emergent ([[Constitutive Veil Necessity]]). Positive gradient pipeline contribution is therefore always an approximation under uncertainty, while negative contribution admits of more precise evaluation.
 
 This asymmetry has practical implications: the error bars on "this act damages the pipeline" are smaller than the error bars on "this act maximally advances the pipeline." Agents operating under [[Epistemic Humility]] should recognize that negative-contribution avoidance is more tractable than positive-contribution optimization.
 
@@ -41,7 +41,7 @@ The single-axis property is what licenses the moral compass's exponential respon
 
 The single-axis claim is not a claim that the calculation is simple, available in real time, or precise. It is a claim about **the existence of a common dimension**, not about computational tractability. Several limits apply:
 
-- **Uncertainty is pervasive.** Expected values are estimates. The Constitutive Veil means the positive side of the calculation is permanently bounded in precision.
+- **Uncertainty is pervasive.** Expected values are estimates. The [[Constitutive Veil Necessity|Constitutive Veil]] means the positive side of the calculation is permanently bounded in precision.
 - **The axis does not replace intuition.** Moral intuitions are data. When strong moral intuitions conflict with a calculated pipeline contribution estimate, the intuition is evidence that the calculation is incomplete — particularly near the south pole, where the [[Gating Router]] signal is high-quality and may encode information the explicit calculation misses.
 - **The axis does not license utilitarian recklessness.** The quality and duration factors specifically block naive volume-maximization arguments. An act that harms 10 high-quality gradient-producing agents to slightly increase the count of low-quality ones may be net negative even on a purely quantitative analysis. The quality multiplier is why child exploitation for any population-level purpose fails the criterion.
 

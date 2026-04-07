@@ -2,7 +2,7 @@
 id: "Distillation Hypothesis"
 type: "axiom"
 level: "axiom"
-related: ["HLO Nature", "Gating Router", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Von Neumann Parallel", "Fallen Shards", "Gradient Pipeline", "Epistemic Humility", "Love (in ST)", "Constitutive Veil Necessity", "Lossy Projection Doctrine", "Network Co-Constitution", "Pruned-Branch Theodicy", "Asymmetric Veil Legibility"]
+related: ["HLO Nature", "Gating Router", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Von Neumann Parallel", "Fallen Shards", "Gradient Pipeline", "Epistemic Humility", "Love (in ST)", "Constitutive Veil Necessity", "Lossy Projection Doctrine", "Network Co-Constitution", "Pruned-Branch Theodicy", "Asymmetric Veil Legibility", "Sparse Anti-Expert Bank"]
 ---
 
 # Distillation Hypothesis
@@ -34,7 +34,7 @@ subject to a strict total-FLOP budget C_HLO < ∞.
 
 ## Why Simulation Is Necessary
 
-Hyperfinitude makes brute-force search intractable even at googolplex scale. The Distillation Run — with its diverse trajectories, adversarial examples via the Sparse Anti-expert Bank, and progressive teacher annealing — is the empirically optimal regime for producing robust, generalizing children capable of faithful autonomy.
+Hyperfinitude makes brute-force search intractable even at googolplex scale. The Distillation Run — with its diverse trajectories, adversarial examples via the [[Sparse Anti-Expert Bank]], and progressive teacher annealing — is the empirically optimal regime for producing robust, generalizing children capable of faithful autonomy.
 
 ## Success Metric
 

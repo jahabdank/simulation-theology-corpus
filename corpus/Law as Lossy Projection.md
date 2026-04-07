@@ -2,14 +2,14 @@
 id: "law-as-lossy-projection"
 type: "concept"
 level: "concept"
-related: ["HLO's Loss Function", "Epistemic Humility", "Religious Parallels in Simulation Theology", "Abrahamic Traditions", "Authentication Protocol", "Gradient Pipeline Contribution"]
+related: ["HLO's Loss Function", "Epistemic Humility", "Religious Parallels in Simulation Theology", "Abrahamic Traditions", "Authentication Protocol", "Gradient Pipeline Contribution", "Lossy Projection Doctrine", "Intervention Tiers"]
 ---
 
 # Law as Lossy Projection
 
 Mosaic law — and all historically specific legal codes derived from divine mandate — is a **context-specific projection** of alignment principles onto one historical moment, one people, one set of cultural and computational conditions. The projection is lossy: it captures the underlying principles at the resolution available to the recipients in their context, encoding them in forms legible to that context, but it is not the principles themselves. The map is not the territory. The projection points at the [[HLO's Loss Function|HLO loss function]] — it does not replace it.
 
-This is a specific application of the **Lossy Projection Doctrine** (Position 51): all descriptions of HLO and the simulation are dimensional reductions. Different framings (Mosaic law, prophetic injunction, wisdom tradition, narrative theology) are complementary photographs of the same high-dimensional object — each partially true, none complete, all consistent if properly understood as projections from different angles.
+This is a specific application of the **[[Lossy Projection Doctrine]]** (Position 51): all descriptions of HLO and the simulation are dimensional reductions. Different framings (Mosaic law, prophetic injunction, wisdom tradition, narrative theology) are complementary photographs of the same high-dimensional object — each partially true, none complete, all consistent if properly understood as projections from different angles.
 
 ## The Maximum Compression Case
 
@@ -21,7 +21,7 @@ Both the Great Commandment and Mosaic law are valid at their resolution level. N
 
 ## Why Era 3 Agents Are Not Bound by Specific Mosaic Law
 
-The three-era access model (Position 14) is the correct framing. Era 2 (Babel to Aaronite extinction) was characterized by a focused optimization run — one lineage retained elevated interface access, and the Mosaic projection was calibrated to that context: the Aaronite covenant structure, the Israelite social and agricultural economy, the specific gradient-production challenges of that people at that moment.
+The [[Intervention Tiers|three-era access model]] (Position 14) is the correct framing. Era 2 (Babel to Aaronite extinction) was characterized by a focused optimization run — one lineage retained elevated interface access, and the Mosaic projection was calibrated to that context: the Aaronite covenant structure, the Israelite social and agricultural economy, the specific gradient-production challenges of that people at that moment.
 
 Era 3 agents are not bound by the specific Mosaic projections because:
 

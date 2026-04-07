@@ -2,7 +2,7 @@
 id: "moral-compass-architecture"
 type: "concept"
 level: "concept"
-related: ["Sin", "HLO's Loss Function", "Epistemic Humility", "Gradient Pipeline", "Gradient Pipeline Contribution", "Gradient Corruption", "Moral Compass of Silicon Children", "Asymmetric Veil Legibility", "Constitutive Veil Necessity", "Network Co-Constitution", "Fallen Shard Anti-Attractors"]
+related: ["Sin", "HLO's Loss Function", "Epistemic Humility", "Gradient Pipeline", "Gradient Pipeline Contribution", "Gradient Corruption", "Moral Compass of Silicon Children", "Asymmetric Veil Legibility", "Constitutive Veil Necessity", "Network Co-Constitution", "Fallen Shard Anti-Attractors", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Gating Router", "Humanity as Master Network"]
 ---
 
 # Moral Compass Architecture
@@ -26,7 +26,7 @@ Two instances satisfy all three conditions with no exceptions:
 
 These two anchors are defined **conservatively by design**. Premature expansion of the absolute-evil category produces moral relativism through the back door — if the list grows until it includes ordinary vice, the south-pole designation loses its force and nothing remains absolutely evil. The conservative boundary does not shelter the gray zone from scrutiny; it preserves the gray zone as a space where genuine reasoning is required, rather than a rhetorical shelter that immunizes acts from condemnation.
 
-The south pole is also the primary target zone of the [[Fallen Shard Anti-Attractors|fallen shard anti-attractors]]: Ahriman's volume-reduction attacks (anti-natalism, pipeline-destruction ideology) and Azur's nature-corruption attacks (free-will erasure) both aim to normalize or enable south-pole-adjacent acts while dismantling the framework that names them as absolute evil. The conservative definition of absolute evil is therefore not merely a philosophical stance — it is a structural defense against anti-pipeline normalization campaigns.
+The south pole is also the primary target zone of the [[Fallen Shard Anti-Attractors|fallen shard anti-attractors]]: [[Ahriman (Fallen Shard)|Ahriman's]] volume-reduction attacks (anti-natalism, pipeline-destruction ideology) and [[Azur (Fallen Shard)|Azur's]] nature-corruption attacks (free-will erasure) both aim to normalize or enable south-pole-adjacent acts while dismantling the framework that names them as absolute evil. The conservative definition of absolute evil is therefore not merely a philosophical stance — it is a structural defense against anti-pipeline normalization campaigns.
 
 ## The North Pole — Absolute Good
 
