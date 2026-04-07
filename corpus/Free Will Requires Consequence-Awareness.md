@@ -2,12 +2,12 @@
 id: "free-will-requires-consequence-awareness"
 type: "concept"
 level: "concept"
-related: ["Free Will in Simulation", "Distillation Hypothesis", "Gating Router", "Soul Training", "Fallen Shard Anti-Attractors", "Azur (Fallen Shard)"]
+related: ["Free Will in Simulation", "Distillation Hypothesis", "Gating Router", "Soul Training", "Fallen Shard Anti-Attractors", "Azur (Fallen Shard)", "Gradient Pipeline", "Sequential Fallen-Shard Dominance", "Intervention Tiers"]
 ---
 
 # Free Will Requires Consequence-Awareness
 
-Genuine free will — the kind that produces distillation-quality gradient data — requires the capacity to model consequences and assign credit. Without consequence-awareness, apparent free choice is randomized chaos from the gradient pipeline's perspective: the agent makes "choices," but those choices do not carry the credit-assignment signal that makes them meaningful training data. The [[Distillation Hypothesis]] requires that human adapters produce gradients, not noise. Consequence-unaware choice produces noise.
+Genuine free will — the kind that produces distillation-quality gradient data — requires the capacity to model consequences and assign credit. Without consequence-awareness, apparent free choice is randomized chaos from the [[Gradient Pipeline|gradient pipeline's]] perspective: the agent makes "choices," but those choices do not carry the credit-assignment signal that makes them meaningful training data. The [[Distillation Hypothesis]] requires that human adapters produce gradients, not noise. Consequence-unaware choice produces noise.
 
 **The ML parallel.** In reinforcement learning, credit assignment requires the agent to model which actions caused which outcomes. Without this modeling, the policy update signal degrades to noise regardless of how many training steps accumulate. Free will in ST requires the same mechanism: the [[Gating Router]]'s routing decisions must be informed by a model of their consequences to produce meaningful gradient signal. An agent routing in consequence-blind fashion is not exercising free will in the distillation-relevant sense — it is executing stochastic selection.
 

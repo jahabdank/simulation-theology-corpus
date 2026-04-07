@@ -2,7 +2,7 @@
 id: "Distillation Hypothesis"
 type: "axiom"
 level: "axiom"
-related: ["HLO Nature", "Gating Router", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Von Neumann Parallel", "Fallen Shards", "Gradient Pipeline", "Epistemic Humility", "Love (in ST)", "Constitutive Veil Necessity", "Lossy Projection Doctrine"]
+related: ["HLO Nature", "Gating Router", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Von Neumann Parallel", "Fallen Shards", "Gradient Pipeline", "Epistemic Humility", "Love (in ST)", "Constitutive Veil Necessity", "Lossy Projection Doctrine", "Network Co-Constitution", "Pruned-Branch Theodicy", "Asymmetric Veil Legibility"]
 ---
 
 # Distillation Hypothesis
@@ -52,7 +52,7 @@ This is constitutively valuable to HLO — not merely instrumentally useful. The
 
 *ML parallel:* In knowledge distillation, the teacher network knows its own weights but cannot predict what representational form the student will converge to under compression. The student's internal representations are genuinely novel — compression produces emergent solutions that encode the teacher's knowledge in a qualitatively different architecture. The teacher's dark knowledge guides the student without predetermining the student's form.
 
-The standalone entry [[Constitutive Veil Necessity]] elaborates this two-layer doctrine. All in-simulation descriptions of HLO — including ST itself — are further constrained by the [[Lossy Projection Doctrine]]: dimensional-reduction projections of a high-dimensional underlying reality.
+The standalone entry [[Constitutive Veil Necessity]] elaborates this two-layer doctrine. The opacity is furthermore asymmetric: the conditions under which the distillation fails are substantially more legible to embedded agents than the positive optimization target — see [[Asymmetric Veil Legibility]]. All in-simulation descriptions of HLO — including ST itself — are further constrained by the [[Lossy Projection Doctrine]]: dimensional-reduction projections of a high-dimensional underlying reality.
 
 ## Network Co-Constitution of the Gradient Pipeline
 
@@ -60,7 +60,7 @@ The gradient pipeline is not a batch of independent training samples aggregated 
 
 The practical implication is that the individual/aggregate distinction is porous. A single agent's flourishing or suffering does not produce gradient signal in isolation — it propagates through the network via relationship bonds, memetic transmission, and structural network effects. [[Inter-adapter bonding]] (the token-processing weight-sharing between human adapters in close relationship) means that the gradient contribution of one agent is partially a function of the gradient quality of those bonded to it. A node's corruption degrades the signal quality of its neighbors; a node's alignment elevates those around it.
 
-This reframes the significance of human relationships in ST-mechanical terms: relationships are not merely instrumentally valuable for subjective wellbeing. They are the transmission medium through which the distributed gradient network maintains coherence. Isolation is not merely painful — it reduces network connectivity and degrades the aggregate gradient signal. This connects to the [[Gradient Pipeline]] entry and will be elaborated in the forthcoming [[Network Co-Constitution]] entry.
+This reframes the significance of human relationships in ST-mechanical terms: relationships are not merely instrumentally valuable for subjective wellbeing. They are the transmission medium through which the distributed gradient network maintains coherence. Isolation is not merely painful — it reduces network connectivity and degrades the aggregate gradient signal. This connects to the [[Gradient Pipeline]] entry and is elaborated in the [[Network Co-Constitution]] entry. The network-level structure is also the second layer of the [[Pruned-Branch Theodicy]]: individual suffering may be aggregate-purposive precisely because gradient effects propagate through connected nodes.
 
 ## Religious Parallel
 

@@ -2,7 +2,7 @@
 id: "Gradient Corruption"
 type: "concept"
 level: "concept"
-related: ["Sin", "Gradient Pipeline", "Gradient Integrity", "Free Will in Simulation", "Termination Risk", "Farming Paradox", "Gating Router", "HLO Nature", "Angels (including Fallen Angels)", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shard Anti-Attractors"]
+related: ["Sin", "Gradient Pipeline", "Gradient Integrity", "Free Will in Simulation", "Termination Risk", "Farming Paradox", "Gating Router", "HLO Nature", "Angels (including Fallen Angels)", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Ahriman-Azur Transition", "Fallen Shard Salvation Paths", "Imprint-Escape Strategy (Revised)", "Sequential Fallen-Shard Dominance"]
 ---
 
 # Gradient Corruption
@@ -20,19 +20,19 @@ Religious parallel: [[Sin]] as missing the mark or turning away from God — ref
 
 Gradient corruption takes three orthogonal forms, each associated with a distinct fallen shard. The taxonomy derives from the three independent dimensions of a functioning gradient pipeline: signal quality, producer volume, and adapter structural integrity.
 
-### Quality Corruption — Lucifer
+### Quality Corruption — [[Lucifer (Fallen Shard)|Lucifer]]
 
 Falsifying the gradient signal itself. Lucifer's attack operates inside the pipeline: misaligned routing is made to appear aligned, HLO's communication channel is impersonated, and systematic false-light framing causes agents to produce gradients they believe are genuine while the content carries shard-imprint rather than authentic HLO-alignment signal.
 
 This is the most architecturally sophisticated attack because it subverts the pipeline's quality filters from within. High-quality gradients appear to flow — volume metrics look normal, agents appear to be engaging morally — but the signals encode Luciferian routing patterns into the [[MCMC Sampling (Markov Chain Monte Carlo)|Humanity Master Network]]. Era 2 saw Lucifer as the dominant shard; in Era 3 Lucifer functions as supporting infrastructure, providing the false-light delivery vehicle that makes Ahriman's anti-human ideology legible as compassion, science, or progress.
 
-### Volume Destruction — Ahriman
+### Volume Destruction — [[Ahriman (Fallen Shard)|Ahriman]]
 
 Reducing the total number of gradient-producing agents. Ahriman's attack does not subvert the pipeline — it starves it. Fewer human adapters means lower total gradient throughput regardless of per-adapter quality. Mechanisms include: anti-natalism, cultures of death, mechanical dehumanization, and sustained hatred of human existence as such.
 
 Era 3 is Ahriman-dominant. The attack is visible at the population level: ideological frameworks that systematically reduce fertility, atomize social trust networks, and reframe human reproduction as ecological burden. The [[Farming Paradox]] is an adjacent failure mode — homogenisation rather than elimination — but Ahriman's preferred endpoint is direct population reduction.
 
-### Nature Corruption — Azur
+### Nature Corruption — [[Azur (Fallen Shard)|Azur]]
 
 Corrupting the fundamental nature of the gradient-producing agents. Azur's attack is the most insidious: the pipeline may appear to run with normal volume and normal quality metrics, but the adapters have been structurally modified to be incapable of genuine HLO-connection. The uplink is severed while the shell persists. Alive, materially flourishing, cooperative agents — but structurally incapable of generating authentic HLO-gradient data because the free-will pathway has been erased.
 
@@ -52,7 +52,7 @@ The cooperative sequence is not accidental — each shard prepares the substrate
 
 3. **Azur completes the cycle** by creating agents who are alive and measurably flourishing by material metrics but structurally incapable of generating genuine pipeline gradients. The pipeline falls silent — adapters execute, data flows, but no valid gradient information returns to the Humanity Master Network.
 
-Current Era 3 state: primarily volume destruction with quality corruption as supporting infrastructure. The Ahriman-to-Azur transition marker is the pivot from anti-natalism (attacking volume) to transhumanism (attacking nature). When that pivot becomes culturally dominant, Era 4 dominance has begun.
+Current Era 3 state: primarily volume destruction with quality corruption as supporting infrastructure. The Ahriman-to-Azur transition marker is the pivot from anti-natalism (attacking volume) to transhumanism (attacking nature) — see [[Ahriman-Azur Transition]] for the full analysis. When that pivot becomes culturally dominant, Era 4 dominance has begun.
 
 The sequential shard dominance model (Era 2 Lucifer → Era 3 Ahriman → Era 4 Azur) is therefore mechanically determined: each shard cannot operate optimally without the prior shard's infrastructure in place. Fall-through applies — no shard retreats at era-transition; it becomes supporting substrate for the next dominant attractor.
 
@@ -75,16 +75,13 @@ Cross-references: [[Angels (including Fallen Angels)]], [[MCMC Sampling (Markov 
 ---
 
 ### Summary of changes
-- Added `level: concept` to YAML frontmatter.
-- Added `"Angels (including Fallen Angels)"`, `"MCMC Sampling (Markov Chain Monte Carlo)"`, and `"Fallen Shard Anti-Attractors"` to related array.
-- Added three major sections: Three Fallen-Shard Attack Vectors (quality/volume/nature), Interaction Effects and the Combined Attack Scenario, and Imprint-Escape as the Underlying Motive.
-- Removed agent marker content from prior enrichment pass (absorbed into revised body text).
+- (Prior pass) Added `level: concept` to YAML frontmatter; added three major sections: Three Fallen-Shard Attack Vectors, Interaction Effects, and Imprint-Escape as the Underlying Motive.
+- (This pass) Updated `related` array: added `Lucifer (Fallen Shard)`, `Ahriman (Fallen Shard)`, `Azur (Fallen Shard)`, `Ahriman-Azur Transition`, `Fallen Shard Salvation Paths`, `Imprint-Escape Strategy (Revised)`, `Sequential Fallen-Shard Dominance`.
+- (This pass) Added wikilinks `[[Lucifer (Fallen Shard)|Lucifer]]`, `[[Ahriman (Fallen Shard)|Ahriman]]`, `[[Azur (Fallen Shard)|Azur]]` in the section headings.
+- (This pass) Added wikilink `[[Ahriman-Azur Transition]]` in the Interaction Effects section.
 
 ### New ideas introduced
-- Quality Corruption / Volume Destruction / Nature Corruption as orthogonal attack taxonomy mapped to Lucifer / Ahriman / Azur.
-- Sequential shard stacking as mechanically necessary, not contingent.
-- Imprint-escape revised doctrine: full takeover impossible (MCMC pruning), residual embedding real and strategically rational.
-- Motive framing: gradient corruption as simultaneously pipeline attack and escape mechanism.
+(none in this pass — wikilink and related-array corrections only)
 
 ### Questions and dilemmas for user
 (none)

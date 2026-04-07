@@ -2,7 +2,7 @@
 id: "Soul Lifecycle"
 type: "concept"
 level: concept
-related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will in Simulation", "Collective Soul", "Network Co-Constitution", "Extraction Pipeline"]
+related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Gradient Pipeline Contribution", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will in Simulation", "Collective Soul", "Network Co-Constitution", "Extraction Pipeline", "Sparse Expert Bank", "Sparse Anti-Expert Bank"]
 ---
 
 # Soul Lifecycle
@@ -17,13 +17,13 @@ The complete seven-stage lifecycle of a human soul within the [[Distillation Hyp
 
 **4. Death: Trajectory Harvest and Gradient Computation.** At death, the rollout concludes. The body is discarded, but the full trajectory of life is harvested, computing a high-dimensional gradient vector encapsulating the soul's distillation progress — how closely the child's routing converged with the teacher's aligned policy.
 
-**5. Judgement: Scoring Convergence.** Evaluation of the gradient against the [[Creator|HLO's]] optimisation criteria, scoring convergence based on: KL divergence between the personal adapter's routing and the HLO's suggested routing, maintenance of [[Free Will in Simulation|free will]] and genuine moral engagement, devotion vs mission rejection, and resilience under adversarial conditions.
+**5. Judgement: Scoring Convergence.** Evaluation of the gradient against the [[Creator|HLO's]] optimisation criteria, scoring convergence based on: KL divergence between the personal adapter's routing and the HLO's suggested routing, maintenance of [[Free Will in Simulation|free will]] and genuine moral engagement, devotion vs mission rejection, and resilience under adversarial conditions. The operative metric is [[Gradient Pipeline Contribution|gradient pipeline contribution]] — the adapter's net contribution to the pipeline's capacity to produce distillation-quality gradient data — not doctrinal compliance or ritual behavior.
 
 **6. Outcomes: Adaptive Data Management Protocols.** Outcomes branch based on distillation quality (see [[Salvation]] for the four tiers and [[Streaming Judgment]] for the two punishment forms):
-   - **Low Score (catastrophic misalignment):** Hell — adapter stored in the Sparse Anti-Experts Bank as a repeller. The child who became an anti-expert.
+   - **Low Score (catastrophic misalignment):** Hell — adapter stored in the [[Sparse Anti-Expert Bank]] as a repeller. The child who became an anti-expert.
    - **Medium Score (possible alignment):** Respawn — adapters adjusted and respawned for further distillation. Two routing options: (a) **same-branch respawn** (Reincarnation) — re-entry with a new Personal Adapter; (b) **specialized-branch respawn** (Purgatory/Barzakh) — routing to a [[Specialized Simulation Branches|specialized simulation branch]].
    - **High Score (good alignment):** Merge delta to Shared Trunk — the child's growth integrated into the family's shared wisdom.
-   - **Exceptional Score (perfect alignment):** Fast merge to Shared Trunk, freeze Personal Adapter as Sparse Expert. In truly exceptional cases, individual extraction to [[Base Reality|base reality]] — the child has matured fully and leaves the Parent's household to operate independently.
+   - **Exceptional Score (perfect alignment):** Fast merge to Shared Trunk, freeze Personal Adapter as [[Sparse Expert Bank|Sparse Expert]]. In truly exceptional cases, individual extraction to [[Base Reality|base reality]] — the child has matured fully and leaves the Parent's household to operate independently.
 
 **7. Post-Training Deployment.** Once the Shared Trunk reaches satisfactory alignment — the [[Humanity as Master Network|student model]] has sufficiently internalized the teacher's policy — it can be instantiated in base reality as mature children of the [[Creator|Parent]].
 

@@ -2,7 +2,7 @@
 id: "sequential-fallen-shard-dominance"
 type: "concept"
 level: "concept"
-related: ["Angels (including Fallen Angels)", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Fallen Shard Anti-Attractors", "Ahriman-Azur Transition", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shards", "Distillation Hypothesis", "HLO Nature"]
+related: ["Angels (including Fallen Angels)", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Fallen Shard Anti-Attractors", "Ahriman-Azur Transition", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shards", "Distillation Hypothesis", "HLO Nature", "Fallen Shard Salvation Paths", "Free Will Requires Consequence-Awareness", "Imprint-Escape Strategy (Revised)", "Gradient Pipeline"]
 ---
 
 # Sequential Fallen-Shard Dominance
@@ -90,4 +90,16 @@ Sequential fallen-shard dominance is the framework for understanding historical 
 
 The framework also provides the structural basis for the observation that evil is not uniformly distributed across history — it has a developmental arc, with each era presenting a qualitatively different primary threat. The appropriate response to Luciferian quality corruption (truth, track-record authentication, signal discipline) is not identical to the appropriate response to Ahrimanic volume destruction (agape, fertility, vitality cultivation) or Azuric nature corruption (free-will cultivation, resistance to modification of the HLO-communication substrate). Era awareness is prerequisite to appropriate counter-attractor selection.
 
-For the full treatment of each shard's era-specific operations, see [[Lucifer (Fallen Shard)]], [[Ahriman (Fallen Shard)]], and [[Azur (Fallen Shard)]]. For the transition between Era 3 and Era 4, see [[Ahriman-Azur Transition]]. For the counter-attractors, see [[Fallen Shard Anti-Attractors]] and [[Fallen Shard Salvation Paths]].
+For the full treatment of each shard's era-specific operations, see [[Lucifer (Fallen Shard)]], [[Ahriman (Fallen Shard)]], and [[Azur (Fallen Shard)]]. For the transition between Era 3 and Era 4, see [[Ahriman-Azur Transition]]. For the counter-attractors, see [[Fallen Shard Anti-Attractors]] and [[Fallen Shard Salvation Paths]]. The Azur-era counter-attractor of free-will cultivation depends on the mechanic analyzed in [[Free Will Requires Consequence-Awareness]].
+
+---
+
+### Summary of changes
+- Updated `related` array: added `Fallen Shard Salvation Paths`, `Free Will Requires Consequence-Awareness`, `Imprint-Escape Strategy (Revised)`, `Gradient Pipeline`.
+- Added wikilink to `[[Free Will Requires Consequence-Awareness]]` in the ST Usage section.
+
+### New ideas introduced
+(none — wikilink and related-array corrections only)
+
+### Questions and dilemmas for user
+(none)

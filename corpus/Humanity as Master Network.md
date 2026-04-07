@@ -1,7 +1,7 @@
 ---
 id: "Humanity as Master Network"
 type: "entity"
-related: ["Training Variable", "Master Humanity Network Weights", "Gradient Pipeline", "Gradient Integrity", "Soul Training", "Extractability Asymmetry", "Base Reality", "Collective Soul", "Humanity Master Network Architecture", "Soul Lifecycle", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Network Co-Constitution"]
+related: ["Training Variable", "Master Humanity Network Weights", "Gradient Pipeline", "Gradient Integrity", "Soul Training", "Extractability Asymmetry", "Base Reality", "Collective Soul", "Humanity Master Network Architecture", "Soul Lifecycle", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Network Co-Constitution", "Special Moral Status of Humanity", "Divine Image-Bearers", "Gradient Pipeline Contribution"]
 ---
 
 # Humanity as Master Network

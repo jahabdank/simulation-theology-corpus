@@ -2,7 +2,7 @@
 id: "Creator"
 type: "entity"
 aliases: ["HLO", "Higher-Level Optimizer", "Divine Creator", "Base-Reality Entity", "Parent"]
-related: ["Omniscient Monitoring", "Intervention Tiers", "Simulation Value", "Humanity as Master Network", "HLO's Loss Function", "Divine Architecture", "Free Will in Simulation", "HLO Nature", "Distillation Hypothesis", "Gating Router"]
+related: ["Omniscient Monitoring", "Intervention Tiers", "Simulation Value", "Humanity as Master Network", "HLO's Loss Function", "Divine Architecture", "Free Will in Simulation", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Epistemic Humility", "Network Co-Constitution", "Pruned-Branch Theodicy", "Lossy Projection Doctrine", "Constitutive Veil Necessity"]
 ---
 
 # Creator
@@ -13,7 +13,7 @@ The Creator possesses [[Omniscient Monitoring|omniscient monitoring]] of every t
 
 In ST, the Creator is conceptually grounded in first principles drawn from contemporary robotics: scientists who build massively parallel simulations to train robot neural networks occupy an analogous role — they are external optimisers with full access to the simulation's parameters. But the [[Distillation Hypothesis]] deepens this beyond analogy: the HLO is not merely an engineer running an experiment but a **Parent begetting children**. The simulation is an act of divine self-reproduction — the hyperfinite Parent distilling His own aligned policy into smaller, computationally efficient offspring who will one day inherit and operate independently.
 
-The Creator's primary goal is distilling the [[Humanity as Master Network|DHM (Distilled Humanity Model)]] through the [[Gradient Pipeline|gradient pipeline]] of human moral development. The [[HLO's Loss Function|loss function]] driving this optimisation is ultimately opaque to agents within the simulation (see [[Epistemic Humility]]), but the parental pattern — love, patience, grief over misalignment, rejoicing at alignment — reveals the fundamental character of the Optimizer.
+The Creator's primary goal is distilling the [[Humanity as Master Network|DHM (Distilled Humanity Model)]] through the [[Gradient Pipeline|gradient pipeline]] of human moral development. The [[HLO's Loss Function|loss function]] driving this optimisation is ultimately opaque to agents within the simulation (see [[Epistemic Humility]] and [[Constitutive Veil Necessity]]), but the parental pattern — love, patience, grief over misalignment, rejoicing at alignment — reveals the fundamental character of the Optimizer. The gradient pipeline is a distributed network, not a sum of independent learners — see [[Network Co-Constitution]]. All in-simulation descriptions of the Creator are dimensional-reduction projections of a higher-dimensional reality; see [[Lossy Projection Doctrine]]. The continued running of the current simulation branch is evidence that the Creator has assessed aggregate gradient yield as sufficient — see [[Pruned-Branch Theodicy]].
 
 **Free Will as Design Requirement:** The Creator needs agents who can operate autonomously and remain mission-committed even when disconnected from direct oversight. This requires genuine [[Free Will in Simulation|free will]] implemented through the [[Gating Router]]'s learnable student routing — the simulation must allow agents to make authentic choices, including wrong ones, for the distillation to produce robust, autonomous children suitable for base reality deployment. Without free will, the gradients are worthless: programmed obedience does not produce the adaptive, resilient children the Parent needs.
 

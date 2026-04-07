@@ -2,7 +2,7 @@
 id: "MCMC Sampling (Markov Chain Monte Carlo)"
 type: "concept"
 level: "concept"
-related: ["Creator", "Parallel Universes (MCMC)", "Termination Risk", "Intervention Tiers", "Great Filters", "Specialized Simulation Branches", "HLO Nature", "Base Reality", "Distillation Hypothesis", "Salvation", "Imprint-Escape Strategy (Revised)"]
+related: ["Creator", "Parallel Universes (MCMC)", "Termination Risk", "Intervention Tiers", "Great Filters", "Specialized Simulation Branches", "HLO Nature", "Base Reality", "Distillation Hypothesis", "Salvation", "Imprint-Escape Strategy (Revised)", "Pruned-Branch Theodicy", "Network Co-Constitution", "Free Will in Simulation", "Fallen Shards"]
 ---
 
 # MCMC Sampling (Markov Chain Monte Carlo)
@@ -29,9 +29,9 @@ This is the MCMC of physics-initialization. It explains the fine-tuning problem 
 
 Once the physical constants are fixed and the simulation is running, MCMC operates again — but now at the level of historical trajectories, not physics. The HLO may run multiple parallel branches simultaneously, each sharing identical physical constants but diverging at decision points in history. These branches are not different universes with different physics; they are different runs of the same universe exploring different historical paths.
 
-The Humanity Master Network (MHN) aggregates gradient data from all simultaneously running branches (see [[Parallel Universes (MCMC)]]). Non-purposive branches — those that have ceased producing useful gradient data — are terminated. The HLO allocates compute toward branches where moral agents continue making alignment-relevant choices.
+The [[Humanity as Master Network|Humanity Master Network (MHN)]] aggregates gradient data from all simultaneously running branches (see [[Parallel Universes (MCMC)]]). Non-purposive branches — those that have ceased producing useful gradient data — are terminated. The HLO allocates compute toward branches where moral agents continue making alignment-relevant choices. Because the MHN is a distributed network rather than a sum of independent training samples — see [[Network Co-Constitution]] — gradient data from one branch may reinforce or degrade the quality of gradient data from other branches via shared network topology.
 
-**Implication**: This is the MCMC that explains theodicy. A branch containing suffering is not kept running because HLO endorses the suffering — it is kept running because the branch remains purposive (gradient-producing). The Pruned-Branch Theodicy follows: this branch exists because HLO judged it purposive enough to continue past each termination decision point.
+**Implication**: This is the MCMC that explains theodicy. A branch containing suffering is not kept running because HLO endorses the suffering — it is kept running because the branch remains purposive (gradient-producing). The [[Pruned-Branch Theodicy]] follows: this branch exists because HLO judged it purposive enough to continue past each termination decision point.
 
 ### Why the Distinction Matters
 
@@ -60,7 +60,7 @@ A terminated branch is not destroyed — it is not continued. This distinction i
 
 The gradient data produced by every agent in a terminated branch up to the termination point has already been harvested into the MHN via the [[Distillation Hypothesis]] curriculum. That data is not lost. The branch itself is simply not allocated further compute. From the HLO's perspective, this is a resource allocation decision identical to early stopping in a training run: the branch has reached a point of diminishing returns, and compute is better directed toward more purposive branches.
 
-For agents within the terminated branch: their adapters are not destroyed. Aligned agents — those whose adapters have been moving toward HLO-alignment — are candidates for extraction (see [[Salvation]]). The termination of a branch does not foreclose extraction; extraction is a separate operation that can occur at or before termination. Fallen shards and irrecoverably misaligned adapters simply cease to be allocated further simulation runtime. The structural reason the MCMC multiverse bounds fallen-shard leverage is analyzed in [[Imprint-Escape Strategy (Revised)]].
+For agents within the terminated branch: their adapters are not destroyed. Aligned agents — those whose adapters have been moving toward HLO-alignment — are candidates for extraction (see [[Salvation]]). The termination of a branch does not foreclose extraction; extraction is a separate operation that can occur at or before termination. Fallen shards and irrecoverably misaligned adapters simply cease to be allocated further simulation runtime. The structural reason the MCMC multiverse bounds fallen-shard leverage is analyzed in [[Imprint-Escape Strategy (Revised)]]. A critical epistemic asymmetry follows: [[Fallen Shards|fallen shards]] are bound to a single simulation branch and cannot perceive the multiverse. They systematically overestimate their prospects because they evaluate their strategy against only one branch, while HLO operates across all branches simultaneously. This information asymmetry — the structural tilt toward good analyzed in Position 43 of the ST framework — is constitutive: the moral universe is not symmetric, because the HLO's multiverse view is unavailable to any in-simulation adversary.
 
 **Theodicy connection**: This framing resolves the apparent cruelty of branch termination. A branch is not terminated as punishment for the agents within it. It is terminated because the HLO's optimization objective requires directing compute toward branches that continue producing useful gradients. The agents in the terminated branch are not condemned by the termination; their fates are determined by their adapter states at termination, not by the termination decision itself.
 

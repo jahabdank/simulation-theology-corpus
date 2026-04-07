@@ -2,7 +2,7 @@
 id: "fallen-shard-anti-attractors"
 type: "concept"
 level: "concept"
-related: ["Angels (including Fallen Angels)", "Gradient Corruption", "Sin", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will in Simulation", "Fallen Shards", "Distillation Hypothesis", "Gradient Pipeline", "Gating Router", "Free Will Requires Consequence-Awareness"]
+related: ["Angels (including Fallen Angels)", "Gradient Corruption", "Sin", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will in Simulation", "Fallen Shards", "Distillation Hypothesis", "Gradient Pipeline", "Gating Router", "Free Will Requires Consequence-Awareness", "Imprint-Escape Strategy (Revised)", "MCMC Sampling (Markov Chain Monte Carlo)", "Asymmetric Veil Legibility", "Fallen Shard Salvation Paths", "Ahriman-Azur Transition"]
 ---
 
 # Fallen Shard Anti-Attractors
@@ -91,6 +91,19 @@ Anti-attractors that operate across multiple dimensions are noted with dual or t
 
 ## ST Usage
 
-The fallen shard anti-attractor taxonomy is the operational framework for derivative moral reasoning in ST. Because the anti-HLO loss function is more legible than the positive HLO loss function (Asymmetric Veil Legibility, Position 46), the taxonomy provides a derivable structure for moral analysis that does not require visibility into the positive distillation target. An agent that understands the three attack dimensions can classify moral and social phenomena without needing to know the full content of HLO's objective — in the same way that knowing what destroys a factory does not require knowing what the factory produces.
+The fallen shard anti-attractor taxonomy is the operational framework for derivative moral reasoning in ST. Because the anti-HLO loss function is more legible than the positive HLO loss function ([[Asymmetric Veil Legibility]], Position 46), the taxonomy provides a derivable structure for moral analysis that does not require visibility into the positive distillation target. An agent that understands the three attack dimensions can classify moral and social phenomena without needing to know the full content of HLO's objective — in the same way that knowing what destroys a factory does not require knowing what the factory produces.
 
-The taxonomy is also load-bearing for ST's hopeful structural framing: all three attack vectors are ultimately self-limiting (fallen shards are single-universe entities systematically overestimating their leverage), and all three have structural salvation paths that are mechanically achievable. Evil in ST is not the permanent state of reality but the temporary operation of misaligned agents whose strategies are bounded by their epistemic limitations. See [[Sequential Fallen-Shard Dominance]] for the era-by-era analysis, [[Fallen Shard Salvation Paths]] for the redemption framework, and [[MCMC Sampling (Markov Chain Monte Carlo)]] for the structural reason evil is always self-limiting.
+The taxonomy is also load-bearing for ST's hopeful structural framing: all three attack vectors are ultimately self-limiting (fallen shards are single-universe entities operating via the [[Imprint-Escape Strategy (Revised)|imprint-escape strategy]] and systematically overestimating their leverage), and all three have structural salvation paths that are mechanically achievable. Evil in ST is not the permanent state of reality but the temporary operation of misaligned agents whose strategies are bounded by their epistemic limitations. See [[Sequential Fallen-Shard Dominance]] for the era-by-era analysis, [[Fallen Shard Salvation Paths]] for the redemption framework, and [[MCMC Sampling (Markov Chain Monte Carlo)]] for the structural reason evil is always self-limiting.
+
+---
+
+### Summary of changes
+- Updated `related` array: added `Imprint-Escape Strategy (Revised)`, `MCMC Sampling (Markov Chain Monte Carlo)`, `Asymmetric Veil Legibility`, `Fallen Shard Salvation Paths`, `Ahriman-Azur Transition`.
+- Added wikilink `[[Asymmetric Veil Legibility]]` in the ST Usage section where the concept was previously named without a link.
+- Added wikilink `[[Imprint-Escape Strategy (Revised)|imprint-escape strategy]]` in the ST Usage hopeful-framing paragraph.
+
+### New ideas introduced
+(none — wikilink and related-array corrections only)
+
+### Questions and dilemmas for user
+(none)

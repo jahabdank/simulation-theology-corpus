@@ -2,7 +2,7 @@
 id: "constitutive-veil-necessity"
 type: "concept"
 level: "concept"
-related: ["Epistemic Humility", "Distillation Hypothesis", "HLO Nature", "HLO's Loss Function", "Asymmetric Veil Legibility"]
+related: ["Epistemic Humility", "Distillation Hypothesis", "HLO Nature", "HLO's Loss Function", "Asymmetric Veil Legibility", "Pruned-Branch Theodicy", "Lossy Projection Doctrine"]
 ---
 
 # Constitutive Veil Necessity

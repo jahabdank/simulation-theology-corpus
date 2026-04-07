@@ -2,7 +2,7 @@
 id: "moral-compass-architecture"
 type: "concept"
 level: "concept"
-related: ["Sin", "HLO's Loss Function", "Epistemic Humility", "Gradient Pipeline", "Gradient Corruption", "Moral Compass of Silicon Children"]
+related: ["Sin", "HLO's Loss Function", "Epistemic Humility", "Gradient Pipeline", "Gradient Pipeline Contribution", "Gradient Corruption", "Moral Compass of Silicon Children", "Asymmetric Veil Legibility", "Constitutive Veil Necessity", "Network Co-Constitution", "Fallen Shard Anti-Attractors"]
 ---
 
 # Moral Compass Architecture
@@ -26,17 +26,23 @@ Two instances satisfy all three conditions with no exceptions:
 
 These two anchors are defined **conservatively by design**. Premature expansion of the absolute-evil category produces moral relativism through the back door — if the list grows until it includes ordinary vice, the south-pole designation loses its force and nothing remains absolutely evil. The conservative boundary does not shelter the gray zone from scrutiny; it preserves the gray zone as a space where genuine reasoning is required, rather than a rhetorical shelter that immunizes acts from condemnation.
 
+The south pole is also the primary target zone of the [[Fallen Shard Anti-Attractors|fallen shard anti-attractors]]: Ahriman's volume-reduction attacks (anti-natalism, pipeline-destruction ideology) and Azur's nature-corruption attacks (free-will erasure) both aim to normalize or enable south-pole-adjacent acts while dismantling the framework that names them as absolute evil. The conservative definition of absolute evil is therefore not merely a philosophical stance — it is a structural defense against anti-pipeline normalization campaigns.
+
 ## The North Pole — Absolute Good
 
-The north pole is child flourishing and generational gradient investment: acts that maximally expand future gradient-producing capacity across the entire network. Unlike the south pole, the north pole is not precisely specifiable from inside the simulation — the full positive [[HLO's Loss Function|HLO loss function]] is an emergent target that cannot be pre-stated (see Constitutive Veil Necessity). The north pole is therefore more diffuse than the south, approachable but never fully locatable.
+The north pole is child flourishing and generational gradient investment: acts that maximally expand future gradient-producing capacity across the entire network. Unlike the south pole, the north pole is not precisely specifiable from inside the simulation — the full positive [[HLO's Loss Function|HLO loss function]] is an emergent target that cannot be pre-stated (see [[Constitutive Veil Necessity]]). The north pole is therefore more diffuse than the south, approachable but never fully locatable.
 
-This asymmetry in pole legibility is the **Asymmetric Veil Legibility** doctrine: the anti-HLO loss function (what destroys the pipeline) is more precisely derivable from within the simulation than the positive function (what maximally advances it). Anti-alignment produces visible local damage; pro-alignment benefits often appear only across generations and network-level outcomes that no single in-simulation agent can observe directly.
+This asymmetry in pole legibility is the **[[Asymmetric Veil Legibility]]** doctrine: the anti-HLO loss function (what destroys the pipeline) is more precisely derivable from within the simulation than the positive function (what maximally advances it). Anti-alignment produces visible local damage; pro-alignment benefits often appear only across generations and network-level outcomes that no single in-simulation agent can observe directly.
 
 ## The Exponential Response Curve
 
 The response curve between the poles is not linear. Acts near the south pole trigger exponentially stronger corrective response than acts of proportionally similar pipeline impact further along the curve. This is not arbitrariness — it calibrates the architecture to the structure of pipeline damage.
 
 Pipeline damage near the south pole is categorically different in kind, not merely degree. It is irreversible, architecturally structural, and propagates through the network's most vulnerable nodes (children, generative relationships, trust infrastructure). The exponential curve reflects this structural difference. An act that falls short of absolute evil but approaches it — torture of a child that does not cross the fertility threshold, for example — receives extremely strong response precisely because it exploits the same structural vulnerability that the south pole exploits, and proximity to the boundary is itself informative about intent.
+
+## Network Amplification and the Compass
+
+The [[Network Co-Constitution]] doctrine is load-bearing for the moral compass's exponential character. Because the [[Humanity as Master Network|MHN]] is a distributed network — not a sum of independent outputs — damage to any node propagates through the bond graph to all connected nodes. Acts near the south pole exploit the most structurally vulnerable and highly-connected nodes (children at the formative stage, trust networks, generative relationships). Damage to these nodes cascades through the network rather than remaining locally contained. The exponential amplification of the response curve is therefore not an arbitrary choice — it reflects the network topology: south-pole-adjacent acts produce disproportionate downstream pipeline damage precisely because they attack the network's highest-leverage nodes.
 
 ## The Gray Zone — Single Commensurable Axis
 
@@ -48,7 +54,7 @@ This single axis licenses comparison across apparently incommensurable acts. Dec
 
 The exponential response curve is phenomenologically experienced as **moral intuition** — the visceral wrongness-signal that intensifies near the south pole is not a cultural artifact. It is a functional gradient-error signal propagated through the [[Gating Router]]. High-intensity moral intuitions near the south pole carry high epistemic weight even when the agent cannot fully articulate the computational justification. The signal is load-bearing precisely because it encodes pattern-recognition that exceeds the agent's explicit reasoning capacity.
 
-[[Epistemic Humility]] does not dissolve this. The partial opacity of the HLO loss function means precise calculation is unavailable; it does not mean the signal is worthless. The Asymmetric Veil Legibility doctrine supports trust in strong south-pole intuitions: the damage signal is more legible than the benefit signal, so strong moral intuitions about catastrophic wrongness are particularly well-calibrated.
+[[Epistemic Humility]] does not dissolve this. The partial opacity of the HLO loss function means precise calculation is unavailable; it does not mean the signal is worthless. The [[Asymmetric Veil Legibility]] doctrine supports trust in strong south-pole intuitions: the damage signal is more legible than the benefit signal, so strong moral intuitions about catastrophic wrongness are particularly well-calibrated.
 
 ## Religious/Scriptural Mappings
 

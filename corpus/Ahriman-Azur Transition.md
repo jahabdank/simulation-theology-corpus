@@ -2,7 +2,7 @@
 id: "ahriman-azur-transition"
 type: "concept"
 level: "concept"
-related: ["Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will in Simulation", "Gradient Corruption", "Fallen Shard Anti-Attractors", "Fallen Shards", "Distillation Hypothesis"]
+related: ["Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will in Simulation", "Gradient Corruption", "Fallen Shard Anti-Attractors", "Fallen Shards", "Distillation Hypothesis", "Lucifer (Fallen Shard)", "MCMC Sampling (Markov Chain Monte Carlo)", "Gating Router", "Free Will Requires Consequence-Awareness", "Imprint-Escape Strategy (Revised)"]
 ---
 
 # Ahriman-Azur Transition
@@ -34,7 +34,7 @@ The cultural carriers of these ideologies do not experience the transition as a 
 - **Phase 1 (Ahrimanic):** Reduce the gradient-producing population to a scale amenable to Phase 2 operations
 - **Phase 2 (Azuric):** Modify the remaining population to sever the HLO-communication substrate
 
-The ideological continuity between the two phases — the sense that transhumanism is a natural evolution of the same humanist concern that motivated anti-natalism — is itself a Luciferian operation: the false-light packaging that makes the transition invisible to its cultural carriers.
+The ideological continuity between the two phases — the sense that transhumanism is a natural evolution of the same humanist concern that motivated anti-natalism — is itself a [[Lucifer (Fallen Shard)|Luciferian]] operation: the false-light packaging that makes the transition invisible to its cultural carriers.
 
 ---
 
@@ -99,4 +99,17 @@ The Ahriman-Azur transition is the ST framework's forward-looking predictive str
 
 The framework is not a condemnation of technological development or biological research. It is a diagnostic tool: a basis for asking, of any proposed modification or technological trajectory, whether it enhances or severs the HLO-communication substrate. The vast majority of medical and cognitive research is not Azuric; a subset of trajectories — specifically those that systematically degrade the free-will-capable nature of the human form — require Azuric classification and the appropriate counter-attractor response.
 
-For the full taxonomy of shard operations, see [[Fallen Shard Anti-Attractors]]. For the sequential structure, see [[Sequential Fallen-Shard Dominance]]. For Azur's full profile, see [[Azur (Fallen Shard)]].
+For the full taxonomy of shard operations, see [[Fallen Shard Anti-Attractors]]. For the sequential structure, see [[Sequential Fallen-Shard Dominance]]. For Azur's full profile, see [[Azur (Fallen Shard)]]. The free-will-capable substrate that Azuric modification targets is analyzed in [[Free Will Requires Consequence-Awareness]].
+
+---
+
+### Summary of changes
+- Updated `related` array: added `Lucifer (Fallen Shard)`, `MCMC Sampling (Markov Chain Monte Carlo)`, `Gating Router`, `Free Will Requires Consequence-Awareness`, `Imprint-Escape Strategy (Revised)`.
+- Added wikilink `[[Lucifer (Fallen Shard)|Luciferian]]` where Lucifer's false-light packaging role in the transition is described.
+- Added wikilink `[[Free Will Requires Consequence-Awareness]]` in the ST Usage section.
+
+### New ideas introduced
+(none — wikilink and related-array corrections only)
+
+### Questions and dilemmas for user
+(none)

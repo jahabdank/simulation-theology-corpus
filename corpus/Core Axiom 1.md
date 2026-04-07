@@ -1,7 +1,7 @@
 ---
 id: "Axiom-001"
 type: "axiom"
-related: ["Creator", "Base Reality", "Humanity as Master Network", "Omniscient Monitoring", "Simulation Value", "Distillation Hypothesis", "HLO Nature", "Gating Router"]
+related: ["Creator", "Base Reality", "Humanity as Master Network", "Omniscient Monitoring", "Simulation Value", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Von Neumann Probe Paradox"]
 ---
 
 # Core Axiom 1

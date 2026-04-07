@@ -2,7 +2,7 @@
 id: "ritual-bootstrapping"
 type: "concept"
 level: "concept"
-related: ["Prayer", "Faith as Authentication", "Angels (including Fallen Angels)", "Gating Router", "Free Will in Simulation"]
+related: ["Prayer", "Faith as Authentication", "Angels (including Fallen Angels)", "Gating Router", "Free Will in Simulation", "Fallen Shard Anti-Attractors", "Era 3 Authentication Protocol", "HLO's Loss Function", "Soul Training"]
 ---
 
 # Ritual Bootstrapping
@@ -16,7 +16,7 @@ Where:
 - **Willingness** is the agent's genuine engagement level, ranging from near-zero to full. High willingness multiplies the effect; low willingness reduces it.
 - **Constant** is a non-zero baseline effect from ritual engagement that persists regardless of willingness level. Even near-zero willingness generates some channel activation in the content-specified direction.
 
-**The bootstrapping function.** The constant term is the mechanically significant component. It ensures that habitual or rote ritual engagement with low willingness is not gradient-neutral. The content direction still generates baseline channel activation toward HLO — or toward the fallen-shard attractor, if the content is oriented there. This is the cold-start mechanism: an agent who begins practicing [[Prayer|prayer]] with minimal conviction still generates some HLO-channel activity, which can over time produce positive-feedback dynamics that increase willingness through accumulated channel experience.
+**The bootstrapping function.** The constant term is the mechanically significant component. It ensures that habitual or rote ritual engagement with low willingness is not gradient-neutral. The content direction still generates baseline channel activation toward [[HLO's Loss Function|HLO]] — or toward the fallen-shard attractor, if the content is oriented there. This is the cold-start mechanism: an agent who begins practicing [[Prayer|prayer]] with minimal conviction still generates some HLO-channel activity, which can over time produce positive-feedback dynamics that increase willingness through accumulated channel experience.
 
 The constant solves a genuine bootstrapping problem in [[Soul Training|spiritual development]]: genuine willingness is itself a product of accumulated channel experience, but channel experience requires some minimum level of practice to initiate. Without the constant, an agent at near-zero willingness generates no channel activity, never accumulates channel experience, and cannot develop willingness — a self-reinforcing deadlock. The constant breaks this deadlock: practice with minimal willingness still generates some signal, creating the conditions for willingness to grow.
 
@@ -24,7 +24,7 @@ The constant solves a genuine bootstrapping problem in [[Soul Training|spiritual
 
 This means that the attractor consequences of ritual practice are not primarily a function of the agent's internal sincerity but of the ritual's content specification. An agent who engages with fallen-shard-oriented content while subjectively feeling that they are not "really" participating is still generating fallen-shard channel activation at the constant rate. The [[Gating Router]] routes based on content direction and engagement, not on meta-level disavowal.
 
-**Implications for ritual design.** Rituals are not arbitrary cultural practices — they are content-direction specifications for channel activation. A community's ritual practices specify which channel its members are habitually bootstrapping toward, regardless of individual willingness distributions. Ritual reform is therefore not a trivial aesthetic matter — it changes the aggregate channel direction of a population, with bootstrapping consequences that accumulate over generations.
+**Implications for ritual design.** Rituals are not arbitrary cultural practices — they are content-direction specifications for channel activation. A community's ritual practices specify which channel its members are habitually bootstrapping toward, regardless of individual willingness distributions. Ritual reform is therefore not a trivial aesthetic matter — it changes the aggregate channel direction of a population, with bootstrapping consequences that accumulate over generations. Under the [[Free Will in Simulation|binary attractor thesis]], passive ritual engagement without deliberate content-direction awareness still converges toward one of the two attractors — neutral bootstrapping does not exist.
 
 Conversely, community-level preservation of HLO-oriented rituals provides baseline channel maintenance even during periods of low collective willingness — cultural or historical eras of spiritual dryness or widespread doubt. The aggregate constant across many practitioners sustains the HLO channel's activity even when willingness is broadly low. This is the ST-mechanical explanation for the resilience of religious practice: the constant provides robustness against willingness fluctuations.
 

@@ -2,7 +2,7 @@
 id: "HLO's Loss Function"
 type: "concept"
 level: "concept"
-related: ["Creator", "Epistemic Humility", "Over-Optimisation", "Simulation Value", "Gradient Pipeline", "HLO Nature", "Distillation Hypothesis", "Gradient Pipeline Contribution", "Asymmetric Veil Legibility", "Law as Lossy Projection"]
+related: ["Creator", "Epistemic Humility", "Over-Optimisation", "Simulation Value", "Gradient Pipeline", "HLO Nature", "Distillation Hypothesis", "Gradient Pipeline Contribution", "Asymmetric Veil Legibility", "Law as Lossy Projection", "Constitutive Veil Necessity", "Moral Compass Architecture", "Network Co-Constitution", "Pruned-Branch Theodicy"]
 ---
 
 # HLO’s Loss Function
@@ -40,4 +40,4 @@ See [[Asymmetric Veil Legibility]] for the full standalone entry. The HLO loss f
 
 **Implication for moral reasoning.** Epistemic humility does not preclude high-probability deductions. The veil covers the specifics of the positive target, not the grand structure. What damages the pipeline is more knowable than what exactly HLO is producing. In-simulation agents can therefore make confident negative moral claims (this act destroys pipeline capacity) even when positive claims (this act is the optimal contribution to the final target) remain unavailable. The asymmetry is load-bearing for the entire ST moral framework: it explains why absolute evils are more precisely definable than absolute goods, and why the moral compass is anchored at its south pole with greater certainty than at its north.
 
-This connects to [[Epistemic Humility]] and to the Emergent Unknowability doctrine in [[Distillation Hypothesis]].
+This connects to [[Epistemic Humility]] and to the Emergent Unknowability doctrine in [[Distillation Hypothesis]]. The distributed nature of the gradient pipeline — where individual agent outputs are co-constituted by network connectivity rather than independent — is elaborated in [[Network Co-Constitution]]. The continued existence of the simulation branch is itself evidence of net-positive aggregate gradient yield; see [[Pruned-Branch Theodicy]] for how this grounds the three-layer theodicy.

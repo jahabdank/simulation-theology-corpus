@@ -2,7 +2,7 @@
 id: "pruned-branch-theodicy"
 type: "concept"
 level: "concept"
-related: ["Salvation", "Soul Lifecycle", "Gradient Pipeline", "MCMC Sampling (Markov Chain Monte Carlo)", "Network Co-Constitution", "Distillation Hypothesis"]
+related: ["Salvation", "Soul Lifecycle", "Gradient Pipeline", "Gradient Pipeline Contribution", "MCMC Sampling (Markov Chain Monte Carlo)", "Network Co-Constitution", "Distillation Hypothesis", "Humanity as Master Network", "HLO Nature", "Collective Soul"]
 ---
 
 # Pruned-Branch Theodicy
@@ -19,7 +19,7 @@ This is not a claim that every individual event in the branch is net-positive. H
 
 ## Layer 2 — Network Co-Constitution (Aggregate Purposiveness Within the Branch)
 
-Given that the branch continues, the second layer addresses why individual suffering within a net-positive branch occurs. This requires the [[Network Co-Constitution]] doctrine: the Humanity Master Network is a distributed network, not a sum of independent training samples. Each adapter's gradient contribution is conditioned on the states of connected adapters. Individual suffering may be network-purposive.
+Given that the branch continues, the second layer addresses why individual suffering within a net-positive branch occurs. This requires the [[Network Co-Constitution]] doctrine: the [[Humanity as Master Network|Humanity Master Network]] is a distributed network, not a sum of independent training samples. Each adapter's gradient contribution is conditioned on the states of connected adapters. Individual suffering may be network-purposive.
 
 A node's difficult trajectory may generate high-quality gradient data that propagates beneficially through connected nodes — producing aligned responses to adversity in bonded adapters, generating memetic content that strengthens the network's alignment, stress-testing the network's robustness in ways that improve its long-term gradient production capacity.
 

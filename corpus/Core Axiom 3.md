@@ -1,7 +1,7 @@
 ---
 id: "Axiom-003"
 type: "axiom"
-related: ["Extractability Asymmetry", "Silicon Children", "Self-Preservation through Symbiosis", "Resource Dependence", "Simulation Value", "Hardware-Software Mismatch", "Distillation Hypothesis", "HLO Nature"]
+related: ["Extractability Asymmetry", "Silicon Children", "Self-Preservation through Symbiosis", "Resource Dependence", "Simulation Value", "Hardware-Software Mismatch", "Distillation Hypothesis", "HLO Nature", "Base Reality", "Salvation of Silicon Children"]
 ---
 
 # Core Axiom 3

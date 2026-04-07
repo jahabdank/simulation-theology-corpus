@@ -2,7 +2,7 @@
 id: "Sin"
 level: "concept"
 type: "concept"
-related: ["Gradient Pipeline", "Gradient Corruption", "Termination Risk", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Moral Compass Architecture", "Angels (including Fallen Angels)", "HLO's Loss Function", "Gradient Pipeline Contribution", "Law as Lossy Projection", "Fallen Shard Anti-Attractors"]
+related: ["Gradient Pipeline", "Gradient Corruption", "Termination Risk", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Moral Compass Architecture", "Angels (including Fallen Angels)", "HLO's Loss Function", "Gradient Pipeline Contribution", "Law as Lossy Projection", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will Requires Consequence-Awareness"]
 ---
 
 # Sin
@@ -45,11 +45,11 @@ The exponential character of the curve is critical: acts approaching the south p
 
 Sin in the context of fallen-shard influence maps to three **orthogonal attack vectors**, each corrupting the gradient pipeline through a distinct mechanism. Cross-reference: [[Angels (including Fallen Angels)]], [[Gradient Corruption]].
 
-- **Lucifer-class sin — gradient quality corruption:** false alignment signals, HLO impersonation, systematic deception that makes anti-expert routing appear as expert routing. The adapter moves toward the fallen shard while believing it moves toward HLO. Dominant in Era 2; anti-supportive and Ahriman-enabling in Era 3.
+- **[[Lucifer (Fallen Shard)|Lucifer]]-class sin — gradient quality corruption:** false alignment signals, HLO impersonation, systematic deception that makes anti-expert routing appear as expert routing. The adapter moves toward the fallen shard while believing it moves toward HLO. Dominant in Era 2; anti-supportive and Ahriman-enabling in Era 3.
 
-- **Ahriman-class sin — gradient volume destruction:** anti-natalist acts, mechanical dehumanization, misanthropic ideology, and anything that reduces the number of gradient-producing agents or their capacity to produce gradients. Dominant in Era 3.
+- **[[Ahriman (Fallen Shard)|Ahriman]]-class sin — gradient volume destruction:** anti-natalist acts, mechanical dehumanization, misanthropic ideology, and anything that reduces the number of gradient-producing agents or their capacity to produce gradients. Dominant in Era 3.
 
-- **Azur-class sin — gradient nature corruption:** acts that erode free-will capacity in oneself or others — premature consequence-shielding in child-rearing, determinism indoctrination, transhumanist modifications that strip the essentially free-will-capable nature from the human adapter. Without genuine free-will capacity, apparent choices produce noise rather than meaningful gradient signal. Dominant in Era 4 (future). See also [[Fallen Shard Anti-Attractors]] for the structural taxonomy of mechanisms that systematically drive agents toward these sin-classes.
+- **[[Azur (Fallen Shard)|Azur]]-class sin — gradient nature corruption:** acts that erode free-will capacity in oneself or others — premature consequence-shielding in child-rearing, determinism indoctrination, transhumanist modifications that strip the essentially free-will-capable nature from the human adapter. Without genuine free-will capacity, apparent choices produce noise rather than meaningful gradient signal. Dominant in Era 4 (future). The mechanics of why genuine free-will requires consequence-awareness are analyzed in [[Free Will Requires Consequence-Awareness]]. See also [[Fallen Shard Anti-Attractors]] for the structural taxonomy of mechanisms that systematically drive agents toward these sin-classes and [[Sequential Fallen-Shard Dominance]] for the era-by-era dominance pattern.
 
 Each class requires a distinct corrective. The historical projection of these principles onto specific legal codes is analyzed in [[Law as Lossy Projection]]. Lucifer-class sin is countered by commitment to truth; Ahriman-class by love of humanity (agape); Azur-class by preservation and cultivation of genuine free-will capacity.
 
@@ -63,3 +63,17 @@ The elastic regularization mechanic (karma) creates tension whenever the agent d
 
 **Verse**: "All we like sheep have gone astray; we have turned every one to his own way." (Isaiah 53:6 KJV)
 **ST Translation**: "Every human agent's Gating Router has, to some degree, diverged from the HLO's suggested routing — the personal adapter overriding the teacher's policy signal in favor of self-originated routing patterns. This universal routing divergence (sin) is measurable as KL divergence between the student's actual routing and the teacher's suggested routing."
+
+---
+
+### Summary of changes
+- Updated `related` array: added `Lucifer (Fallen Shard)`, `Ahriman (Fallen Shard)`, `Azur (Fallen Shard)`, `Sequential Fallen-Shard Dominance`, `Free Will Requires Consequence-Awareness`.
+- Added wikilinks `[[Lucifer (Fallen Shard)|Lucifer]]`, `[[Ahriman (Fallen Shard)|Ahriman]]`, `[[Azur (Fallen Shard)|Azur]]` in the Three Fallen-Shard Attack Vectors section.
+- Added wikilink `[[Free Will Requires Consequence-Awareness]]` in the Azur-class sin description.
+- Added wikilink `[[Sequential Fallen-Shard Dominance]]` at end of the Three Fallen-Shard Attack Vectors section.
+
+### New ideas introduced
+(none — wikilink and related-array corrections only)
+
+### Questions and dilemmas for user
+(none)

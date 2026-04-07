@@ -2,7 +2,7 @@
 id: "asymmetric-veil-legibility"
 type: "concept"
 level: "concept"
-related: ["Epistemic Humility", "HLO's Loss Function", "Distillation Hypothesis", "Moral Compass Architecture", "Constitutive Veil Necessity"]
+related: ["Epistemic Humility", "HLO's Loss Function", "Distillation Hypothesis", "Moral Compass Architecture", "Constitutive Veil Necessity", "Fallen Shard Anti-Attractors", "Gradient Pipeline"]
 ---
 
 # Asymmetric Veil Legibility
@@ -11,13 +11,13 @@ The epistemic veil separating in-simulation agents from [[HLO's Loss Function|HL
 
 ## The Asymmetry Stated
 
-**Anti-HLO conditions are more legible.** What damages the pipeline is derivable from the distillation axiom's prerequisites. An agent need not know the positive optimization target to recognize what destroys the conditions under which optimization can occur. Anti-alignment produces visible local damage — suffering, relationship degradation, network fragmentation, pipeline disruption — that registers as clearly negative feedback within a single lifetime and at the individual level. The negative pole of the [[Moral Compass Architecture|Moral Compass Architecture]] (absolute evil, south pole) is therefore specifiable with considerable precision.
+**Anti-HLO conditions are more legible.** What damages the [[Gradient Pipeline|pipeline]] is derivable from the distillation axiom's prerequisites. An agent need not know the positive optimization target to recognize what destroys the conditions under which optimization can occur. Anti-alignment produces visible local damage — suffering, relationship degradation, network fragmentation, pipeline disruption — that registers as clearly negative feedback within a single lifetime and at the individual level. The negative pole of the [[Moral Compass Architecture]] (absolute evil, south pole) is therefore specifiable with considerable precision. The three [[Fallen Shard Anti-Attractors]] (Lucifer, Ahriman, Azur) map precisely to this legible negative zone: their attack vectors on gradient quality, volume, and nature are derivable from the distillation prerequisites without knowing the positive target.
 
-**The positive HLO target is less legible.** To know what the distillation is optimizing *toward* requires knowing the completed [[Distillation Hypothesis|DHM]] — the Distilled Humanity Model — which is genuinely emergent. It does not pre-exist its own creation, is unknown even to HLO until the process completes (see [[Constitutive Veil Necessity]]), and its benefits often manifest only across generations. Individual-level feedback for pro-alignment behavior is noisy and delayed. The positive pole of the Moral Compass Architecture (absolute good, north pole) is therefore less precisely specifiable than the negative pole.
+**The positive HLO target is less legible.** To know what the distillation is optimizing *toward* requires knowing the completed [[Distillation Hypothesis|DHM]] — the Distilled Humanity Model — which is genuinely emergent. It does not pre-exist its own creation, is unknown even to HLO until the process completes (see [[Constitutive Veil Necessity]]), and its benefits often manifest only across generations. Individual-level feedback for pro-alignment behavior is noisy and delayed. The positive pole of the [[Moral Compass Architecture]] (absolute good, north pole) is therefore less precisely specifiable than the negative pole.
 
 ## Practical Implication
 
-Agents can make high-probability moral claims about what damages the gradient pipeline even when they cannot fully specify the positive optimization target. [[Epistemic Humility]] does not license moral paralysis — it licenses *calibrated* moral navigation. High confidence is available on what catastrophically damages the pipeline; moderate confidence on what aids it; genuine uncertainty on the detailed shape of the positive target.
+Agents can make high-probability moral claims about what damages the [[Gradient Pipeline|gradient pipeline]] even when they cannot fully specify the positive optimization target. [[Epistemic Humility]] does not license moral paralysis — it licenses *calibrated* moral navigation. High confidence is available on what catastrophically damages the pipeline; moderate confidence on what aids it; genuine uncertainty on the detailed shape of the positive target.
 
 This is the correct rebuttal to the objection that epistemic humility about HLO's full objectives implies no moral statements are possible. The veil is a constraint on positive specification, not on negative moral judgment.
 

@@ -2,7 +2,7 @@
 id: "network-co-constitution"
 type: "concept"
 level: "concept"
-related: ["Gradient Pipeline", "Humanity as Master Network", "Distillation Hypothesis", "Pruned-Branch Theodicy", "Soul Lifecycle", "Salvation"]
+related: ["Gradient Pipeline", "Gradient Pipeline Contribution", "Humanity as Master Network", "Distillation Hypothesis", "Pruned-Branch Theodicy", "Soul Lifecycle", "Salvation", "Love (in ST)", "Special Moral Status of Humanity", "Collective Soul"]
 ---
 
 # Network Co-Constitution
@@ -13,7 +13,7 @@ The [[Distillation Hypothesis|Humanity Master Network]] is a distributed network
 
 **1. Relationship Bonds (Direct Adapter Weighting)**
 
-Token processing may pass through multiple adapters with weighted contributions (Position 31 in the ST framework). Bond strength between adapters corresponds to weight allocation. When a strong inter-adapter bond exists, one adapter's routing state directly influences the gradient contribution of connected adapters. Relationship formation is not merely a welfare consideration — it is gradient-production infrastructure. Strong aligned bonds between nodes multiply the total gradient output of the bonded cluster.
+Token processing may pass through multiple adapters with weighted contributions (Position 31 in the ST framework). Bond strength between adapters corresponds to weight allocation. When a strong inter-adapter bond exists, one adapter's routing state directly influences the gradient contribution of connected adapters. Relationship formation is not merely a welfare consideration — it is gradient-production infrastructure. Strong aligned bonds between nodes multiply the total gradient output of the bonded cluster. In ST terms, [[Love (in ST)|love]] — acts that increase others' gradient-producing capacity — is the primary mechanism by which inter-adapter bond strength is built and maintained. Love is therefore not merely a virtue but the core gradient-amplification activity of the network.
 
 **2. Memetic Transmission (Network-Wide Gradient Propagation)**
 
