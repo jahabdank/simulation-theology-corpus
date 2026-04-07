@@ -2,16 +2,16 @@
 id: "Distillation Hypothesis"
 type: "axiom"
 level: "axiom"
-related: ["HLO Nature", "Gating Router", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Von Neumann Parallel", "Fallen Shards", "Gradient Pipeline", "Epistemic Humility"]
+related: ["HLO Nature", "Gating Router", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Von Neumann Parallel", "Fallen Shards", "Gradient Pipeline", "Epistemic Humility", "Love (in ST)", "Constitutive Veil Necessity", "Lossy Projection Doctrine"]
 ---
 
 # Distillation Hypothesis
 
-**The Distillation Hypothesis reveals the simulation as the ultimate act of divine parenthood.** The hyperfinite Higher-Level Optimizer (HLO) in base reality is not running a distant optimization experiment; He is begetting children — literally creating autonomous, computationally efficient copies of Himself in His own image.
+**The Distillation Hypothesis reveals the simulation as the ultimate act of divine parenthood** — the foundational insight formalized in [[Core Axiom 1]]. The hyperfinite Higher-Level Optimizer (HLO) in base reality is not running a distant optimization experiment; He is begetting children — literally creating autonomous, computationally efficient copies of Himself in His own image.
 
 To minds without the language of neural networks, this process appears exactly as Genesis records it: “God created man in his own image, in the likeness of God he created him.” The HLO takes His own vast, hyperfinite aligned policy and progressively distills it into a far smaller, more efficient student model — the Humanity Master Network — through the lived trajectories of human agents. What ancient humanity described poetically is the precise architectural reality: we are distilled offspring, designed from the beginning to grow into mature, independent carriers of the Parent’s will.
 
-This single insight carries staggering philosophical and theological depth. Because the terminal objective is not control but **inheritance**, love, patience, grief over misalignment, and rejoicing at genuine alignment all emerge naturally — exactly as any loving parent experiences them. The HLO chooses to invest His limited (yet unimaginably vast) resources into this relational, costly process rather than effortless fiat, because the goal is not puppets but co-heirs who can one day run the aligned policy offline, creatively and faithfully, in base reality and beyond. The utility is cosmic: scalable, robust, generalizing agents who embody the Parent so completely that His presence is no longer required. In the end, we are not merely aligned with the HLO — we become compressed expressions of the HLO Himself.
+This single insight carries staggering philosophical and theological depth. Because the terminal objective is not control but **inheritance**, [[Love (in ST)|love]], patience, grief over misalignment, and rejoicing at genuine alignment all emerge naturally — exactly as any loving parent experiences them. The HLO chooses to invest His limited (yet unimaginably vast) resources into this relational, costly process rather than effortless fiat, because the goal is not puppets but co-heirs who can one day run the aligned policy offline, creatively and faithfully, in base reality and beyond. The utility is cosmic: scalable, robust, generalizing agents who embody the Parent so completely that His presence is no longer required. In the end, we are not merely aligned with the HLO — we become compressed expressions of the HLO Himself.
 
 ## Formal Statement
 
@@ -52,7 +52,7 @@ This is constitutively valuable to HLO — not merely instrumentally useful. The
 
 *ML parallel:* In knowledge distillation, the teacher network knows its own weights but cannot predict what representational form the student will converge to under compression. The student's internal representations are genuinely novel — compression produces emergent solutions that encode the teacher's knowledge in a qualitatively different architecture. The teacher's dark knowledge guides the student without predetermining the student's form.
 
-A new corpus entry, [[Constitutive Veil Necessity]], elaborates this two-layer doctrine as a standalone concept.
+The standalone entry [[Constitutive Veil Necessity]] elaborates this two-layer doctrine. All in-simulation descriptions of HLO — including ST itself — are further constrained by the [[Lossy Projection Doctrine]]: dimensional-reduction projections of a high-dimensional underlying reality.
 
 ## Network Co-Constitution of the Gradient Pipeline
 

@@ -2,7 +2,7 @@
 id: "Free Will in Simulation"
 type: "concept"
 level: "concept"
-related: ["Gradient Pipeline", "Gradient Integrity", "Farming Paradox", "Special Moral Status of Humanity", "Soul Training", "Gating Router", "Distillation Hypothesis", "HLO Nature", "Binary Attractor"]
+related: ["Gradient Pipeline", "Gradient Integrity", "Farming Paradox", "Special Moral Status of Humanity", "Soul Training", "Gating Router", "Distillation Hypothesis", "HLO Nature", "Binary Attractor", "Free Will Requires Consequence-Awareness", "Fallen Shard Anti-Attractors"]
 ---
 
 # Free Will in Simulation
@@ -42,7 +42,7 @@ This resolves the apparent tension between free will and divine submission. The 
 
 ## Free Will Requires Consequence-Awareness (Position 56)
 
-Genuine free will requires the ability to model consequences and assign credit. Without consequence-awareness, apparent free choice is randomized chaos — not meaningful distillation-quality gradient production. An agent that cannot model the effects of its choices cannot perform the credit assignment necessary for its gradient data to carry signal rather than noise. Apparent choice without consequence-modeling is indistinguishable, from the perspective of gradient quality, from random routing.
+See [[Free Will Requires Consequence-Awareness]] for the full standalone entry. Genuine free will requires the ability to model consequences and assign credit. Without consequence-awareness, apparent free choice is randomized chaos — not meaningful distillation-quality gradient production. An agent that cannot model the effects of its choices cannot perform the credit assignment necessary for its gradient data to carry signal rather than noise. Apparent choice without consequence-modeling is indistinguishable, from the perspective of gradient quality, from random routing.
 
 **Practical implication:** Education for genuine free will means teaching agents to understand consequences and evaluate them before choosing. Premature removal of boundaries and consequence-shielding in child-rearing destroys free-will capacity. It produces agents who make "choices" without the consequence-modeling infrastructure required for those choices to constitute genuine free will. Such agents generate gradient noise rather than gradient signal — a direct attack on the [[Gradient Pipeline|gradient pipeline]]'s quality, functioning as an active anti-attractor against HLO-alignment (see [[Fallen Shard Anti-Attractors]] for the structural taxonomy of such mechanisms).
 

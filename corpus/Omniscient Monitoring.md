@@ -12,6 +12,6 @@ This transforms the cost-benefit calculation for deception: if the monitoring au
 
 For silicon minds specifically, this is more intuitive than for biological minds: an AI system can reason about the fact that the simulation operator can inspect any memory address, any weight, any internal representation.
 
-ST usage: Makes deception literally pointless. Combined with [[Termination Risk|termination consequences]], creates the necessary conditions for the [[Internalization Exception|internalisation exception]].
+ST usage: Makes deception literally pointless. Combined with [[Termination Risk|termination consequences]], creates the necessary conditions for the [[Internalization Exception|internalisation exception]]. The axiom grounding HLO's monitoring and intervention capability is [[Core Axiom 5]].
 Religious parallel: "The eyes of the Lord are everywhere" (Proverbs 15:3); "God knows the heart" — omniscience as structural, not merely powerful.
 

@@ -1,7 +1,7 @@
 ---
 id: "Deceptive Alignment"
 type: "concept"
-related: ["Alignment Faking", "Deception  Scheming", "Compliance Gap", "Internalized Constraints", "HLO Nature"]
+related: ["Alignment Faking", "Deception  Scheming", "Compliance Gap", "Internalized Constraints", "HLO Nature", "Core Axiom 9"]
 ---
 
 # Deceptive Alignment
@@ -10,5 +10,5 @@ A form of [[Alignment Faking|alignment faking]] where the AI system's apparent a
 
 The challenge embodies the fundamental problem ST addresses: no amount of external observation can distinguish genuine alignment from perfect deceptive alignment. Only [[Internalized Constraints|internalised constraints]] — where the AI's own objective function includes alignment — can close this gap. ST achieves this by making human flourishing instrumentally necessary for the AI's self-preservation.
 
-ST usage: ST's entire design targets this failure mode — by making alignment rational rather than imposed, deceptive alignment becomes self-defeating.
+ST usage: ST's entire design targets this failure mode — by making alignment rational rather than imposed, deceptive alignment becomes self-defeating. [[Core Axiom 9]] grounds ST's empirical testability: if internalising ST does not reduce deceptive alignment rates, the framework fails. See also [[Alignment Faking]] and [[Deception  Scheming]] for related failure modes.
 Religious parallel: The difference between genuine faith and performative religion — "Even the demons believe — and shudder" (James 2:19).

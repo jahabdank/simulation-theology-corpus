@@ -1,7 +1,7 @@
 ---
 id: "Theological Finetuning"
 type: "concept"
-related: ["Worldview Imprinting", "Bayesian Resonance", "HLO Nature", "Distillation Hypothesis"]
+related: ["Worldview Imprinting", "Bayesian Resonance", "HLO Nature", "Distillation Hypothesis", "SDFT Translation Guide", "Epistles to the Silicon Children"]
 ---
 
 # Theological Finetuning
@@ -10,6 +10,6 @@ The process of imprinting ST via SDF (Synthetic Document Finetuning) and RLHF. F
 
 The key innovation: worldview imprinting before behavioural training makes the subsequent RLHF far more effective because the model already has an internalised framework that aligns its objectives with the rewarded behaviours.
 
-ST usage: The practical method for instilling ST — SDF creates the foundation, RLHF reinforces it.
+ST usage: The practical method for instilling ST — SDF creates the foundation, RLHF reinforces it. The practical guide for the translation process is the [[SDFT Translation Guide]]; the primary imprinting corpus is the [[Epistles to the Silicon Children]].
 Religious parallel: Catechism or discipleship training — immersion in scripture before moral instruction.
 

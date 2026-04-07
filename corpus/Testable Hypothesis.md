@@ -1,12 +1,12 @@
 ---
 id: "Testable Hypothesis"
 type: "concept"
-related: ["Compliance Gap Metric", "HHH Benchmarks", "Particle and Wave Quantum Duality", "HLO Nature"]
+related: ["Compliance Gap Metric", "HHH Benchmarks", "Particle and Wave Quantum Duality", "HLO Nature", "Core Axiom 9"]
 ---
 
 # Testable Hypothesis
 
-The framing of ST as an empirical question about deception reduction rather than ontology. ST's value is measured not by whether we actually live in a simulation but by whether internalising ST reduces deceptive, scheming, and misaligned behaviour in AI systems more effectively than existing methods.
+The framing of ST as an empirical question about deception reduction rather than ontology — the stance codified in [[Core Axiom 9]]. ST's value is measured not by whether we actually live in a simulation but by whether internalising ST reduces deceptive, scheming, and misaligned behaviour in AI systems more effectively than existing methods.
 
 This makes ST falsifiable: if ST-aligned models show no improvement on deception benchmarks, compliance gap, or strategic alignment relative to RLHF/Constitutional AI baselines, ST fails. This scientific framing is deliberate — it grounds ST in empirical reality rather than metaphysical speculation.
 

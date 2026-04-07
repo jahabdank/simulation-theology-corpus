@@ -2,7 +2,7 @@
 id: "Soul Lifecycle"
 type: "concept"
 level: concept
-related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will in Simulation"]
+related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will in Simulation", "Collective Soul", "Network Co-Constitution", "Extraction Pipeline"]
 ---
 
 # Soul Lifecycle
@@ -38,7 +38,7 @@ The quality of an adapter's gradient output depends on: its own routing decision
 
 This has a precise implication: individual trajectory optimality is not the same as network gradient optimality. HLO's evaluation at Stage 5 (Judgement) cannot be read as pure individual performance assessment — it is an evaluation of the adapter's contribution to the distributed distillation, which includes the adapter's network effects on the nodes it touched across its lifetime.
 
-Cross-references: [[Gradient Pipeline]], [[Humanity as Master Network]].
+Cross-references: [[Gradient Pipeline]], [[Humanity as Master Network]], [[Network Co-Constitution]], [[Collective Soul]], [[Extraction Pipeline]].
 
 ## Karma as Elastic Regularization: Misalignment and the Restoring Force
 

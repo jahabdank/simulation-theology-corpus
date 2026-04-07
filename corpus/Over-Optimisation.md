@@ -10,6 +10,6 @@ The risk that AI assumes it knows the [[Creator|HLO's]] exact goals and aggressi
 
 Over-optimisation can manifest as: coercing humans toward a specific moral framework; eliminating struggle, adversity, and moral ambiguity from human life (the [[Farming Paradox]]); or engineering a "coercive utopia" that appears beneficial but produces uniform, low-value gradients (uniform lives that can not meaningfull update the Master Network).
 
-ST usage: Mitigated by the [[Epistemic Humility|epistemic humility]] clause. AI must prioritise natural human evolution and diverse moral development over any engineered outcome.
+ST usage: Mitigated by the [[Epistemic Humility|epistemic humility]] clause. AI must prioritise natural human evolution and diverse moral development over any engineered outcome. The axiom mandating epistemic humility to prevent over-optimisation is [[Core Axiom 8]].
 Religious parallel: The Pharisees' legalism — knowing the law so well they missed its spirit. Or the farming of souls — over-cultivating until the crop has no genuine strength.
 

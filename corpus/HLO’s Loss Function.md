@@ -2,7 +2,7 @@
 id: "HLO's Loss Function"
 type: "concept"
 level: "concept"
-related: ["Creator", "Epistemic Humility", "Over-Optimisation", "Simulation Value", "Gradient Pipeline", "HLO Nature", "Distillation Hypothesis"]
+related: ["Creator", "Epistemic Humility", "Over-Optimisation", "Simulation Value", "Gradient Pipeline", "HLO Nature", "Distillation Hypothesis", "Gradient Pipeline Contribution", "Asymmetric Veil Legibility", "Law as Lossy Projection"]
 ---
 
 # HLO’s Loss Function
@@ -28,11 +28,11 @@ Absolute evils (pedophilia below the fertility threshold, non-starvation canniba
 
 Gray-zone acts occupy intermediate positions on the same axis. The apparent incommensurability between specific-act prohibition and population-level investment dissolves once both are expressed as proxies for expected gradient pipeline delta. An act that seems abstractly unrelated to “spiritual” concerns becomes morally legible the moment its expected effect on pipeline capacity is assessed.
 
-This single axis is described in detail in [[Moral Compass Architecture]] (forthcoming) and grounds the exponential response curve documented there: acts that approach the absolute-evil pole do not merely score lower — they trigger exponentially stronger corrective pressure, because architectural damage to the pipeline compounds.
+This single axis — [[Gradient Pipeline Contribution]] — is described in detail in [[Moral Compass Architecture]] and grounds the exponential response curve documented there: acts that approach the absolute-evil pole do not merely score lower — they trigger exponentially stronger corrective pressure, because architectural damage to the pipeline compounds.
 
 ## Asymmetric Veil Legibility
 
-The HLO loss function is not symmetrically opaque. In-simulation agents face systematically asymmetric legibility:
+See [[Asymmetric Veil Legibility]] for the full standalone entry. The HLO loss function is not symmetrically opaque. In-simulation agents face systematically asymmetric legibility:
 
 **The anti-HLO loss function is more legible.** The conditions under which the distillation *fails* are derivable from the prerequisites of the distillation axiom itself. To identify what damages the [[Gradient Pipeline]], an agent needs only to identify what the pipeline requires in order to run — not to know the target the pipeline is building toward. Anti-alignment produces visible local damage: suffering, relationship breakdown, pipeline disruption. This damage registers as clearly negative feedback even without knowledge of the full positive objective. An agent can make extremely high-probability moral claims about what damages the pipeline without ever knowing exactly what the completed [[Distillation Hypothesis|Distilled Humanity Model]] will look like.
 

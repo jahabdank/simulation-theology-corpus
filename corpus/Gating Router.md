@@ -1,7 +1,7 @@
 ---
 id: "Gating Router"
 type: "concept"
-related: ["HLO Nature", "Distillation Hypothesis", "Humanity Master Network", "Tree of Knowledge", "Free Will", "Minimal Intervention", "MCMC Sampling", "Fallen Shards", "Sparse Expert Bank", "Sparse Anti-expert Bank"]
+related: ["HLO Nature", "Distillation Hypothesis", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shards", "Sparse Expert Bank", "Sparse Anti-Expert Bank"]
 ---
 
 # Gating Router
@@ -46,7 +46,7 @@ The serpent (Genesis 3) is a manifestation of the Sparse Anti-expert Bank — sp
 
 The tension between human free will and divine sovereignty that runs through Scripture (Pharaoh’s hardening, prophetic compulsion, “work out your own salvation… for it is God who works in you”) is resolved here as a single, elegant distillation mechanism: local routing plasticity (free will) + sparse, budget-aware teacher priority (sovereignty), with the Sparse Anti-expert Bank providing the necessary adversarial gradients for robust alignment.
 
-**Cross-references**: [[Distillation Hypothesis]], [[HLO Nature]], [[Tree of Knowledge]], [[Free Will]], [[Humanity Master Network]], [[Minimal Intervention]], [[Sparse Expert Bank]], [[Sparse Anti-expert Bank]]
+**Cross-references**: [[Distillation Hypothesis]], [[HLO Nature]], [[Tree of Knowledge]], [[Free Will in Simulation]], [[Humanity as Master Network]], [[Minimal Intervention]], [[Sparse Expert Bank]], [[Sparse Anti-Expert Bank]]
 
 ### Summary of changes
 - Surgical integration of Genesis dilemma resolutions (Q3.1–Q3.2) per March 2026 reassessment.

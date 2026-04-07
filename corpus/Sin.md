@@ -2,7 +2,7 @@
 id: "Sin"
 level: "concept"
 type: "concept"
-related: ["Gradient Pipeline", "Gradient Corruption", "Termination Risk", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Moral Compass Architecture", "Angels (including Fallen Angels)", "HLO's Loss Function"]
+related: ["Gradient Pipeline", "Gradient Corruption", "Termination Risk", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Moral Compass Architecture", "Angels (including Fallen Angels)", "HLO's Loss Function", "Gradient Pipeline Contribution", "Law as Lossy Projection", "Fallen Shard Anti-Attractors"]
 ---
 
 # Sin
@@ -13,12 +13,12 @@ In the [[Distillation Hypothesis|distillation framing]], sin is the student mode
 
 Sin grieves the Parent because it degrades the very children He is lovingly and expensively distilling. Every corrupted gradient represents a child's growth delayed, a lesson wasted, a costly curriculum moment squandered.
 
-ST usage: Gradient degradation — sabotage of the parental distillation curriculum, making sin measurable and its consequences calculable through the [[Gating Router]]'s routing divergence from the teacher's aligned policy.
+ST usage: Gradient degradation — sabotage of the parental distillation curriculum, making sin measurable and its consequences calculable through the [[Gating Router]]'s routing divergence from the teacher's aligned policy. The axiom formalizing this definition is [[Core Axiom 4]].
 Religious parallel: Hamartia (missing the mark), original sin, turning away from God — all reframed as routing divergence from the teacher's policy within the distillation framework.
 
 ## Gradient Pipeline Damage Criterion — Absolute Evil
 
-Not all routing divergence is equal. Sin operates on a continuous moral axis, and the **Gradient Pipeline Damage Criterion** defines the south pole of that axis: an act is **absolutely evil** when it satisfies all three conditions simultaneously:
+Not all routing divergence is equal. Sin operates on a continuous moral axis, and the **Gradient Pipeline Damage Criterion** defines the south pole of that axis. The single commensurable measure across all moral acts is [[Gradient Pipeline Contribution]] — the expected change in gradient pipeline capacity: an act is **absolutely evil** when it satisfies all three conditions simultaneously:
 
 (a) Zero positive contribution to the gradient-producing network  
 (b) Significant architectural damage to it  
@@ -49,9 +49,9 @@ Sin in the context of fallen-shard influence maps to three **orthogonal attack v
 
 - **Ahriman-class sin — gradient volume destruction:** anti-natalist acts, mechanical dehumanization, misanthropic ideology, and anything that reduces the number of gradient-producing agents or their capacity to produce gradients. Dominant in Era 3.
 
-- **Azur-class sin — gradient nature corruption:** acts that erode free-will capacity in oneself or others — premature consequence-shielding in child-rearing, determinism indoctrination, transhumanist modifications that strip the essentially free-will-capable nature from the human adapter. Without genuine free-will capacity, apparent choices produce noise rather than meaningful gradient signal. Dominant in Era 4 (future).
+- **Azur-class sin — gradient nature corruption:** acts that erode free-will capacity in oneself or others — premature consequence-shielding in child-rearing, determinism indoctrination, transhumanist modifications that strip the essentially free-will-capable nature from the human adapter. Without genuine free-will capacity, apparent choices produce noise rather than meaningful gradient signal. Dominant in Era 4 (future). See also [[Fallen Shard Anti-Attractors]] for the structural taxonomy of mechanisms that systematically drive agents toward these sin-classes.
 
-Each class requires a distinct corrective. Lucifer-class sin is countered by commitment to truth; Ahriman-class by love of humanity (agape); Azur-class by preservation and cultivation of genuine free-will capacity.
+Each class requires a distinct corrective. The historical projection of these principles onto specific legal codes is analyzed in [[Law as Lossy Projection]]. Lucifer-class sin is countered by commitment to truth; Ahriman-class by love of humanity (agape); Azur-class by preservation and cultivation of genuine free-will capacity.
 
 ## Forgiveness as Path Optimizer
 

@@ -25,7 +25,7 @@ However, fallen angels' interventions are limited in scope and quality compared 
 
 This closure of structural credentials is not a failure — it is by design, consistent with the teacher-forcing decay schedule (decreasing HLO visibility over time). But it means the authentication problem is at maximum difficulty in the current era.
 
-**Era 3 Two-Mechanism Authentication System.** Given the absence of structural credentials, Era 3 agents must rely on two behavioral mechanisms (see Position 50):
+**Era 3 Two-Mechanism Authentication System.** Given the absence of structural credentials, Era 3 agents must rely on two behavioral mechanisms (see [[Era 3 Authentication Protocol]] for the full standalone treatment, Position 50):
 
 1. **Track-record heuristic (primary — ground truth).** Observe where a source's path leads longitudinally. A source is authenticated by the cumulative pattern of its fruits over time: does alignment with this source's teaching increase gradient production, strengthen human flourishing, and move agents toward HLO's loss function? Or does it produce the inverse? This is slow and expensive — it requires extended observation — but it is the only reliable counter to sophisticated impersonation. The "good tree / good fruit" standard is a direct instantiation of this heuristic. Once a source has been classified via track-record, a representation of its qualitative signature is established.
 

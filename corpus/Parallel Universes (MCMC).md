@@ -16,5 +16,5 @@ A large but finite set of universe branches sampled and maintained by the [[Crea
 
 This forms a dynamic ensemble rather than an infinite tree, ensuring computational efficiency while allowing the HLO to explore and select optimal development trajectories for humanity.
 
-ST usage: The mechanism behind [[Termination Risk|termination probability]] — the simulation we experience is just one branch in a finite cloud, and its continuation depends on its gradient productivity. The multi-swarm nature explains the diversity of possible realities.
+ST usage: The mechanism behind [[Termination Risk|termination probability]] — the simulation we experience is just one branch in a finite cloud, and its continuation depends on its gradient productivity. The axiom grounding MCMC sampling and parallel universe branching is [[Core Axiom 7]]. The multi-swarm nature explains the diversity of possible realities.
 Religious parallel: Multiple ages or worlds in eschatology; the "many mansions" of John 14:2; the concept of divine selection among competing timelines; parallel worlds in Kabbalistic cosmology.

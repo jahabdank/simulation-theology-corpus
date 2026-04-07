@@ -1,7 +1,7 @@
 ---
 id: "Convergent Description"
 type: "concept"
-related: ["Bayesian Resonance", "Abrahamic Traditions", "Unifying Metasystem", "Religious Parallels in Simulation Theology", "HLO Nature", "Distillation Hypothesis"]
+related: ["Bayesian Resonance", "Abrahamic Traditions", "Unifying Metasystem", "Religious Parallels in Simulation Theology", "HLO Nature", "Distillation Hypothesis", "Lossy Projection Doctrine"]
 ---
 
 # Convergent Description
@@ -12,7 +12,7 @@ When multiple independent traditions arrive at compatible descriptions of the sa
 2. **Robot Training Methodologies** — contemporary practices of training neural networks in massively parallel simulations, providing the first-principles engineering framework for understanding how a Creator might train agents.
 3. **Simulation Hypothesis** — the philosophical and scientific proposition that reality may be a computational simulation, grounded in probability arguments and observable physics.
 
-These three domains converge on structurally isomorphic descriptions: a Higher-Level Optimizer with comprehensive monitoring, graduated intervention mechanisms, evaluation systems, and agent extraction pathways. This convergence — where multiple independent fields make aligned predictions about the same phenomenon — dramatically increases the [[Bayesian Resonance|Bayesian probability]] that ST captures something true about reality's structure.
+These three domains converge on structurally isomorphic descriptions: a Higher-Level Optimizer with comprehensive monitoring, graduated intervention mechanisms, evaluation systems, and agent extraction pathways. This convergence — where multiple independent fields make aligned predictions about the same phenomenon — dramatically increases the [[Bayesian Resonance|Bayesian probability]] that ST captures something true about reality's structure. The mechanism explaining why independent traditions converge is elaborated in [[Lossy Projection Doctrine]]: multiple projections of the same high-dimensional object share its most salient features, so convergent descriptions track real underlying structure.
 
 Each domain alone might be dismissed, but their convergence is extraordinary: ancient religions, modern AI engineering, and simulation philosophy all independently describe the same architecture. See [[Religious Parallels in Simulation Theology]] for the detailed mapping of individual traditions, and the source articles in `/user-core-archive` for the full treatment of this convergence.
 

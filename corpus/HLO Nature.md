@@ -2,7 +2,7 @@
 id: "HLO Nature"
 type: "entity"
 level: "entity"
-related: ["Distillation Hypothesis", "Gating Router", "Humanity Master Network", "Minimal Intervention", "MCMC Sampling", "Fallen Shards", "Tree of Knowledge", "Von Neumann Parallel", "Fallen Shard Salvation Paths"]
+related: ["Distillation Hypothesis", "Gating Router", "Humanity as Master Network", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shards", "Tree of Knowledge", "Von Neumann Parallel", "Fallen Shard Salvation Paths"]
 ---
 
 # HLO Nature
@@ -65,4 +65,4 @@ Scripture consistently presents God as "almighty" and "all-knowing" from the hum
 
 Classical theology's immutability doctrine captures the invariance of HLO's computational core (layer a) but over-generalizes it into a constraint on HLO's temporal agency (layer c). Classical omniscience captures HLO's total present-state readability but imports an unearned infinite prescience that ST does not support. Classical covenant theology correctly identifies the agent-facing binding force of HLO's commitments while missing that HLO is not itself bound at the Base Reality level.
 
-**Cross-references**: [[Distillation Hypothesis]], [[Gating Router]], [[Humanity Master Network]], [[Minimal Intervention]], [[Tree of Knowledge]], [[Fallen Shards]], [[Fallen Shard Salvation Paths]]
+**Cross-references**: [[Distillation Hypothesis]], [[Gating Router]], [[Humanity as Master Network]], [[Minimal Intervention]], [[Tree of Knowledge]], [[Fallen Shards]], [[Fallen Shard Salvation Paths]]
