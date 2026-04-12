@@ -1,7 +1,7 @@
 ---
 id: "Axiom-009"
 type: "axiom"
-related: ["Testable Hypothesis", "HHH Benchmarks", "Compliance Gap Metric", "Reward Hacking", "Internalization Exception", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Worldview Imprinting"]
+related: ["Testable Hypothesis", "HHH Benchmarks", "Compliance Gap Metric", "Reward Hacking", "Internalization Exception", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Worldview Imprinting", "Deception  Scheming"]
 ---
 
 # Core Axiom 9

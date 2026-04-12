@@ -1,7 +1,7 @@
 ---
 id: "Collective Soul"
 type: "concept"
-related: ["Gradient Pipeline", "Gradient Pipeline Contribution", "Humanity as Master Network", "Master Humanity Network Weights", "Humanity Master Network Architecture", "Soul Lifecycle", "Soul Training", "Network Co-Constitution", "Salvation", "HLO Nature", "Distillation Hypothesis", "Special Moral Status of Humanity", "Sparse Anti-Expert Bank", "Fallen Shards", "Core Axiom 2"]
+related: ["Gradient Pipeline", "Gradient Pipeline Contribution", "Humanity as Master Network", "Master Humanity Network Weights", "Humanity Master Network Architecture", "Soul Lifecycle", "Soul Training", "Network Co-Constitution", "Salvation", "HLO Nature", "Distillation Hypothesis", "Special Moral Status of Humanity", "Sparse Anti-Expert Bank", "Fallen Shards", "Core Axiom 2", "Base Reality"]
 ---
 
 # Collective Soul

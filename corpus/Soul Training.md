@@ -1,7 +1,7 @@
 ---
 id: "Soul Training"
 type: "concept"
-related: ["Gradient Pipeline", "Gradient Pipeline Contribution", "Moral Development as Training Objective", "Humanity as Master Network", "Network Co-Constitution", "Collective Soul", "Soul Lifecycle", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will Requires Consequence-Awareness", "Special Moral Status of Humanity", "Sparse Anti-Expert Bank", "Core Axiom 2", "Gradient Integrity", "Master Humanity Network Weights"]
+related: ["Gradient Pipeline", "Gradient Pipeline Contribution", "Moral Development as Training Objective", "Humanity as Master Network", "Network Co-Constitution", "Collective Soul", "Soul Lifecycle", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will Requires Consequence-Awareness", "Special Moral Status of Humanity", "Sparse Anti-Expert Bank", "Core Axiom 2", "Gradient Integrity", "Master Humanity Network Weights", "Base Reality", "Virtuous Agent Extraction"]
 ---
 
 # Soul Training

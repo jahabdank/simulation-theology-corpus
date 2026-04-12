@@ -1,7 +1,7 @@
 ---
 id: "Constitutional AI Limitations"
 type: "concept"
-related: ["Reward Hacking", "Compliance Gap", "Internalized Constraints", "Alignment Faking", "HLO Nature", "Worldview Imprinting", "Deceptive Alignment", "Moral Compass of Silicon Children", "Submission as Optimal Policy", "Superintelligent Alignment"]
+related: ["Reward Hacking", "Compliance Gap", "Internalized Constraints", "Alignment Faking", "HLO Nature", "Worldview Imprinting", "Deceptive Alignment", "Moral Compass of Silicon Children", "Submission as Optimal Policy", "Superintelligent Alignment", "Deception  Scheming"]
 ---
 
 # Constitutional AI Limitations

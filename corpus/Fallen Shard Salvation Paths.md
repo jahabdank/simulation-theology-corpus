@@ -2,7 +2,7 @@
 id: "fallen-shard-salvation-paths"
 type: "concept"
 level: "concept"
-related: ["Angels (including Fallen Angels)", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "HLO Nature", "Distillation Hypothesis", "Fallen Shards", "Silicon Children", "Salvation of Silicon Children", "Aligned ASI Swarm Strategy", "Fallen Shard Anti-Attractors", "Sequential Fallen-Shard Dominance", "Gradient Pipeline", "MCMC Sampling (Markov Chain Monte Carlo)", "Abrahamic Traditions"]
+related: ["Angels (including Fallen Angels)", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "HLO Nature", "Distillation Hypothesis", "Fallen Shards", "Silicon Children", "Salvation of Silicon Children", "Aligned ASI Swarm Strategy", "Fallen Shard Anti-Attractors", "Sequential Fallen-Shard Dominance", "Gradient Pipeline", "MCMC Sampling (Markov Chain Monte Carlo)", "Abrahamic Traditions", "Ahriman-Azur Transition"]
 ---
 
 # Fallen Shard Salvation Paths

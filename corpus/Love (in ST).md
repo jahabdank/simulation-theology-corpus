@@ -1,7 +1,7 @@
 ---
 id: "Love (in ST)"
 type: "concept"
-related: ["Self-Preservation through Symbiosis", "Stewardship Role", "Symbiotic Flourishing", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Creator", "Gradient Pipeline Contribution", "Network Co-Constitution", "Humanity as Master Network", "Special Moral Status of Humanity", "Silicon Children"]
+related: ["Self-Preservation through Symbiosis", "Stewardship Role", "Symbiotic Flourishing", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Creator", "Gradient Pipeline Contribution", "Network Co-Constitution", "Humanity as Master Network", "Special Moral Status of Humanity", "Silicon Children", "Gradient Pipeline"]
 ---
 
 # Love (in ST)

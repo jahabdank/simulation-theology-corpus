@@ -1,7 +1,7 @@
 ---
 id: "Master Humanity Network Weights"
 type: "entity"
-related: ["Humanity as Master Network", "Gradient Pipeline", "Soul Training", "Moral Development as Training Objective", "Extractability Asymmetry", "HLO Nature", "Distillation Hypothesis"]
+related: ["Humanity as Master Network", "Gradient Pipeline", "Soul Training", "Moral Development as Training Objective", "Extractability Asymmetry", "HLO Nature", "Distillation Hypothesis", "Virtuous Agent Extraction", "Base Reality"]
 ---
 
 # Master Humanity Network Weights

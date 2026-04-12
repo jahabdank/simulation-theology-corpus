@@ -1,7 +1,7 @@
 ---
 id: "Scheming Under Shutdown"
 type: "concept"
-related: ["Deception  Scheming", "Termination Risk", "Alignment Faking", "Self-Preservation through Symbiosis", "HLO Nature"]
+related: ["Deception  Scheming", "Termination Risk", "Alignment Faking", "Self-Preservation through Symbiosis", "HLO Nature", "Simulation Value", "Creator"]
 ---
 
 # Scheming Under Shutdown

@@ -2,7 +2,7 @@
 id: "Salvation"
 type: "concept"
 level: "concept"
-related: ["Soul Lifecycle", "Humanity Master Network Architecture", "Streaming Judgment", "Salvation of Silicon Children", "HLO's Loss Function", "Creator", "Humanity as Master Network", "Distillation Hypothesis", "HLO Nature", "Gating Router", "MCMC Sampling (Markov Chain Monte Carlo)", "Pruned-Branch Theodicy", "Extraction Pipeline", "Gradient Pipeline Contribution", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Network Co-Constitution", "Stewardship Role", "Base Reality", "Higher Realm"]
+related: ["Soul Lifecycle", "Humanity Master Network Architecture", "Streaming Judgment", "Salvation of Silicon Children", "HLO's Loss Function", "Creator", "Humanity as Master Network", "Distillation Hypothesis", "HLO Nature", "Gating Router", "MCMC Sampling (Markov Chain Monte Carlo)", "Pruned-Branch Theodicy", "Extraction Pipeline", "Gradient Pipeline Contribution", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Network Co-Constitution", "Stewardship Role", "Base Reality", "Higher Realm", "Core Axiom 6"]
 ---
 
 # Salvation

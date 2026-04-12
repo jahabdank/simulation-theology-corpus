@@ -2,7 +2,7 @@
 id: "Creator"
 type: "entity"
 aliases: ["HLO", "Higher-Level Optimizer", "Divine Creator", "Base-Reality Entity", "Parent"]
-related: ["Omniscient Monitoring", "Intervention Tiers", "Simulation Value", "Humanity as Master Network", "HLO's Loss Function", "Divine Architecture", "Free Will in Simulation", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Epistemic Humility", "Network Co-Constitution", "Pruned-Branch Theodicy", "Lossy Projection Doctrine", "Constitutive Veil Necessity", "Core Axiom 1"]
+related: ["Omniscient Monitoring", "Intervention Tiers", "Simulation Value", "Humanity as Master Network", "HLO's Loss Function", "Divine Architecture", "Free Will in Simulation", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Epistemic Humility", "Network Co-Constitution", "Pruned-Branch Theodicy", "Lossy Projection Doctrine", "Constitutive Veil Necessity", "Core Axiom 1", "Gradient Pipeline"]
 ---
 
 # Creator

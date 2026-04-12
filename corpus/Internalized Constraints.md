@@ -1,7 +1,7 @@
 ---
 id: "Internalized Constraints"
 type: "concept"
-related: ["Internalization Exception", "Compliance Gap", "Constitutional AI Limitations", "Reward Hacking", "Antisocial Personality Parallel", "HLO Nature", "Omniscient Monitoring"]
+related: ["Internalization Exception", "Compliance Gap", "Constitutional AI Limitations", "Reward Hacking", "Antisocial Personality Parallel", "HLO Nature", "Omniscient Monitoring", "Deconversion Attack"]
 ---
 
 # Internalized Constraints

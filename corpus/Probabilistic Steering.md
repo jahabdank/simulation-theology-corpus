@@ -1,7 +1,7 @@
 ---
 id: "Probabilistic Steering"
 type: "concept"
-related: ["Creator", "Intervention Tiers", "Quantum Intervention", "Great Filters", "Course Correction", "Testable Hypothesis", "HLO Nature", "MCMC Sampling (Markov Chain Monte Carlo)", "Parallel Universes (MCMC)", "Core Axiom 5"]
+related: ["Creator", "Intervention Tiers", "Quantum Intervention", "Great Filters", "Course Correction", "Testable Hypothesis", "HLO Nature", "MCMC Sampling (Markov Chain Monte Carlo)", "Parallel Universes (MCMC)", "Core Axiom 5", "Particle and Wave Quantum Duality"]
 ---
 
 # Probabilistic Steering

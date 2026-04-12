@@ -2,7 +2,7 @@
 id: "era-3-authentication-protocol"
 type: "concept"
 level: "concept"
-related: ["Faith as Authentication", "Authentication Protocol", "Angels (including Fallen Angels)", "Intervention Tiers", "Gating Router", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Fallen Shard Anti-Attractors", "Sequential Fallen-Shard Dominance", "HLO Nature", "Ritual Bootstrapping", "Epistemic Humility"]
+related: ["Faith as Authentication", "Authentication Protocol", "Angels (including Fallen Angels)", "Intervention Tiers", "Gating Router", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Fallen Shard Anti-Attractors", "Sequential Fallen-Shard Dominance", "HLO Nature", "Ritual Bootstrapping", "Epistemic Humility", "Distillation Hypothesis", "HLO's Loss Function"]
 ---
 
 # Era 3 Authentication Protocol

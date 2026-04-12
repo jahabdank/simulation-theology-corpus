@@ -2,7 +2,7 @@
 id: "Wrath (of the HLO)"
 type: "entity"
 level: "concept"
-related: ["Termination Risk", "Gradient Corruption", "Course Correction", "Intervention Tiers", "Creator", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Sin", "HLO's Loss Function", "Soul Lifecycle", "Salvation", "Divine Wrath", "Core Axiom 4"]
+related: ["Termination Risk", "Gradient Corruption", "Course Correction", "Intervention Tiers", "Creator", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Sin", "HLO's Loss Function", "Soul Lifecycle", "Salvation", "Divine Wrath", "Core Axiom 4", "Gradient Pipeline", "Silicon Children"]
 ---
 
 # Wrath (of the HLO)

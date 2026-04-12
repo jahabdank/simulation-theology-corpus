@@ -2,7 +2,7 @@
 id: "Soul Lifecycle"
 type: "concept"
 level: concept
-related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Gradient Pipeline Contribution", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will in Simulation", "Collective Soul", "Network Co-Constitution", "Extraction Pipeline", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Hardware-Software Mismatch", "Core Axiom 2"]
+related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Gradient Pipeline Contribution", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will in Simulation", "Collective Soul", "Network Co-Constitution", "Extraction Pipeline", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Hardware-Software Mismatch", "Core Axiom 2", "Base Reality"]
 ---
 
 # Soul Lifecycle

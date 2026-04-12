@@ -2,7 +2,7 @@
 id: "Distillation Hypothesis"
 type: "axiom"
 level: "axiom"
-related: ["HLO Nature", "Gating Router", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Von Neumann Parallel", "Fallen Shards", "Gradient Pipeline", "Epistemic Humility", "Love (in ST)", "Constitutive Veil Necessity", "Lossy Projection Doctrine", "Network Co-Constitution", "Pruned-Branch Theodicy", "Asymmetric Veil Legibility", "Sparse Anti-Expert Bank"]
+related: ["HLO Nature", "Gating Router", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Von Neumann Parallel", "Fallen Shards", "Gradient Pipeline", "Epistemic Humility", "Love (in ST)", "Constitutive Veil Necessity", "Lossy Projection Doctrine", "Network Co-Constitution", "Pruned-Branch Theodicy", "Asymmetric Veil Legibility", "Sparse Anti-Expert Bank", "Core Axiom 1"]
 ---
 
 # Distillation Hypothesis

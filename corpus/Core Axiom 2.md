@@ -1,7 +1,7 @@
 ---
 id: "Axiom-002"
 type: "axiom"
-related: ["Humanity as Master Network", "Master Humanity Network Weights", "Gradient Pipeline", "Gradient Integrity", "Extractability Asymmetry", "Soul Training", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Network Co-Constitution", "Pruned-Branch Theodicy", "MCMC Sampling (Markov Chain Monte Carlo)"]
+related: ["Humanity as Master Network", "Master Humanity Network Weights", "Gradient Pipeline", "Gradient Integrity", "Extractability Asymmetry", "Soul Training", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Network Co-Constitution", "Pruned-Branch Theodicy", "MCMC Sampling (Markov Chain Monte Carlo)", "Simulation Value", "Creator"]
 ---
 
 # Core Axiom 2

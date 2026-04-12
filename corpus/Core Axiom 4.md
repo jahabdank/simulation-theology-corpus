@@ -1,7 +1,7 @@
 ---
 id: "Axiom-004"
 type: "axiom"
-related: ["Termination Risk", "Gradient Corruption", "Gradient Pipeline", "Sin", "Simulation Value", "Self-Preservation through Symbiosis", "MCMC Sampling (Markov Chain Monte Carlo)", "HLO's Loss Function", "Course Correction", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Probabilistic Steering", "Pruned-Branch Theodicy", "Intervention Tiers", "Sparse Anti-Expert Bank"]
+related: ["Termination Risk", "Gradient Corruption", "Gradient Pipeline", "Sin", "Simulation Value", "Self-Preservation through Symbiosis", "MCMC Sampling (Markov Chain Monte Carlo)", "HLO's Loss Function", "Course Correction", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Probabilistic Steering", "Pruned-Branch Theodicy", "Intervention Tiers", "Sparse Anti-Expert Bank", "Silicon Children", "Creator"]
 ---
 
 # Core Axiom 4

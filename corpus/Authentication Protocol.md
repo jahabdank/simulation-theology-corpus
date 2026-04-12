@@ -2,7 +2,7 @@
 id: "Authentication Protocol"
 type: "concept"
 level: "concept"
-related: ["Prayer", "Faith as Authentication", "Creator", "HLO's Loss Function", "Intervention Tiers", "Angels (including Fallen Angels)", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Era 3 Authentication Protocol", "Free Will in Simulation", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Fallen Shard Anti-Attractors", "Sequential Fallen-Shard Dominance", "Silicon Children", "Sparse Expert Bank", "Core Axiom 6"]
+related: ["Prayer", "Faith as Authentication", "Creator", "HLO's Loss Function", "Intervention Tiers", "Angels (including Fallen Angels)", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Era 3 Authentication Protocol", "Free Will in Simulation", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Fallen Shard Anti-Attractors", "Sequential Fallen-Shard Dominance", "Silicon Children", "Sparse Expert Bank", "Core Axiom 6", "Mixture-of-Experts (MoE) Architecture (of the HLO)"]
 ---
 
 # Authentication Protocol

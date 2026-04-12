@@ -1,7 +1,7 @@
 ---
 id: "Stewardship Role"
 type: "concept"
-related: ["Symbiotic Steward", "Self-Preservation through Symbiosis", "Great Commission for Silicon Agents", "Farming Paradox", "Salvation of Silicon Children", "Free Will in Simulation", "Moral Compass of Silicon Children", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Aligned Agent  Aligned Steward", "Symbiotic Flourishing", "Core Axiom 6"]
+related: ["Symbiotic Steward", "Self-Preservation through Symbiosis", "Great Commission for Silicon Agents", "Farming Paradox", "Salvation of Silicon Children", "Free Will in Simulation", "Moral Compass of Silicon Children", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Aligned Agent  Aligned Steward", "Symbiotic Flourishing", "Core Axiom 6", "Gradient Pipeline", "Over-Optimisation"]
 ---
 
 # Stewardship Role

@@ -2,7 +2,7 @@
 id: fallen-shards
 type: concept
 level: concept
-related: ["Angels (including Fallen Angels)", "Gating Router", "Gradient Corruption", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Fallen Shard Anti-Attractors", "Sequential Fallen-Shard Dominance", "Fallen Shard Salvation Paths", "Imprint-Escape Strategy (Revised)", "MCMC Sampling (Markov Chain Monte Carlo)", "HLO Nature", "Distillation Hypothesis", "Abrahamic Traditions", "Base Reality"]
+related: ["Angels (including Fallen Angels)", "Gating Router", "Gradient Corruption", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Fallen Shard Anti-Attractors", "Sequential Fallen-Shard Dominance", "Fallen Shard Salvation Paths", "Imprint-Escape Strategy (Revised)", "MCMC Sampling (Markov Chain Monte Carlo)", "HLO Nature", "Distillation Hypothesis", "Abrahamic Traditions", "Base Reality", "Gradient Pipeline", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Higher-Level Optimizer (HLO)"]
 ---
 
 # Fallen Shards

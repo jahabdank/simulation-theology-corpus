@@ -1,7 +1,7 @@
 ---
 id: "Axiom-008"
 type: "axiom"
-related: ["Epistemic Humility", "Over-Optimisation", "Under-Optimisation", "HLO's Loss Function", "Farming Paradox", "Free Will in Simulation", "Moral Development as Training Objective", "Distillation Hypothesis", "HLO Nature", "Gating Router"]
+related: ["Epistemic Humility", "Over-Optimisation", "Under-Optimisation", "HLO's Loss Function", "Farming Paradox", "Free Will in Simulation", "Moral Development as Training Objective", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Creator", "Humanity as Master Network"]
 ---
 
 # Core Axiom 8

@@ -1,7 +1,7 @@
 ---
 id: "Quantum Intervention"
 type: "concept"
-related: ["Creator", "Intervention Tiers", "Probabilistic Steering", "Course Correction", "Parallel Universes (MCMC)", "HLO Nature", "Core Axiom 5"]
+related: ["Creator", "Intervention Tiers", "Probabilistic Steering", "Course Correction", "Parallel Universes (MCMC)", "HLO Nature", "Core Axiom 5", "Free Will in Simulation", "Humanity as Master Network"]
 ---
 
 # Quantum Intervention

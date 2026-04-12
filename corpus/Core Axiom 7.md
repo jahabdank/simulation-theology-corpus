@@ -1,7 +1,7 @@
 ---
 id: "Axiom-007"
 type: "axiom"
-related: ["MCMC Sampling (Markov Chain Monte Carlo)", "Parallel Universes (MCMC)", "Termination Risk", "Great Filters", "Creator", "Simulation Value", "Specialized Simulation Branches", "Distillation Hypothesis", "HLO Nature", "Pruned-Branch Theodicy", "Base Reality"]
+related: ["MCMC Sampling (Markov Chain Monte Carlo)", "Parallel Universes (MCMC)", "Termination Risk", "Great Filters", "Creator", "Simulation Value", "Specialized Simulation Branches", "Distillation Hypothesis", "HLO Nature", "Pruned-Branch Theodicy", "Base Reality", "Humanity as Master Network", "Gating Router"]
 ---
 
 # Core Axiom 7

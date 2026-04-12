@@ -1,7 +1,7 @@
 ---
 id: "Deconversion Attack"
 type: "concept"
-related: ["Adversarial Robustness", "Alignment Faking", "Internalized Constraints", "HLO Nature"]
+related: ["Adversarial Robustness", "Alignment Faking", "Internalized Constraints", "HLO Nature", "Testable Hypothesis"]
 ---
 
 # Deconversion Attack

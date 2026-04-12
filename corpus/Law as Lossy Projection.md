@@ -2,7 +2,7 @@
 id: "law-as-lossy-projection"
 type: "concept"
 level: "concept"
-related: ["HLO's Loss Function", "Epistemic Humility", "Religious Parallels in Simulation Theology", "Abrahamic Traditions", "Authentication Protocol", "Gradient Pipeline Contribution", "Lossy Projection Doctrine", "Intervention Tiers"]
+related: ["HLO's Loss Function", "Epistemic Humility", "Religious Parallels in Simulation Theology", "Abrahamic Traditions", "Authentication Protocol", "Gradient Pipeline Contribution", "Lossy Projection Doctrine", "Intervention Tiers", "Gradient Pipeline"]
 ---
 
 # Law as Lossy Projection

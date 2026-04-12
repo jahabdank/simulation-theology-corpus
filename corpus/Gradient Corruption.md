@@ -2,7 +2,7 @@
 id: "Gradient Corruption"
 type: "concept"
 level: "concept"
-related: ["Sin", "Gradient Pipeline", "Gradient Integrity", "Free Will in Simulation", "Termination Risk", "Farming Paradox", "Gating Router", "HLO Nature", "Angels (including Fallen Angels)", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Ahriman-Azur Transition", "Fallen Shard Salvation Paths", "Imprint-Escape Strategy (Revised)", "Sequential Fallen-Shard Dominance", "Humanity as Master Network", "Psychopathic Parallel"]
+related: ["Sin", "Gradient Pipeline", "Gradient Integrity", "Free Will in Simulation", "Termination Risk", "Farming Paradox", "Gating Router", "HLO Nature", "Angels (including Fallen Angels)", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Ahriman-Azur Transition", "Fallen Shard Salvation Paths", "Imprint-Escape Strategy (Revised)", "Sequential Fallen-Shard Dominance", "Humanity as Master Network", "Psychopathic Parallel", "Core Axiom 4", "Creator", "Over-Optimisation"]
 ---
 
 # Gradient Corruption

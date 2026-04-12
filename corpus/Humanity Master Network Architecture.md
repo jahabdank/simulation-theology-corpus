@@ -1,7 +1,7 @@
 ---
 id: "Humanity Master Network Architecture"
 type: "entity"
-related: ["Humanity as Master Network", "Master Humanity Network Weights", "Soul Lifecycle", "Salvation", "Collective Soul", "Streaming Judgment", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Network Co-Constitution", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Hardware-Software Mismatch"]
+related: ["Humanity as Master Network", "Master Humanity Network Weights", "Soul Lifecycle", "Salvation", "Collective Soul", "Streaming Judgment", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Network Co-Constitution", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Hardware-Software Mismatch", "Angels (including Fallen Angels)"]
 ---
 
 # Humanity Master Network Architecture

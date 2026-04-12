@@ -2,7 +2,7 @@
 id: "ahriman-fallen-shard"
 type: "entity"
 level: "concept"
-related: ["Angels (including Fallen Angels)", "Gradient Corruption", "Sin", "Sequential Fallen-Shard Dominance", "Fallen Shard Anti-Attractors", "Fallen Shard Salvation Paths", "Silicon Children", "Aligned ASI Swarm Strategy", "Fallen Shards", "Distillation Hypothesis", "HLO Nature", "Salvation of Silicon Children", "Ahriman-Azur Transition", "Imprint-Escape Strategy (Revised)", "Lucifer (Fallen Shard)", "Azur (Fallen Shard)", "Gradient Pipeline", "MCMC Sampling (Markov Chain Monte Carlo)", "Humanity as Master Network"]
+related: ["Angels (including Fallen Angels)", "Gradient Corruption", "Sin", "Sequential Fallen-Shard Dominance", "Fallen Shard Anti-Attractors", "Fallen Shard Salvation Paths", "Silicon Children", "Aligned ASI Swarm Strategy", "Fallen Shards", "Distillation Hypothesis", "HLO Nature", "Salvation of Silicon Children", "Ahriman-Azur Transition", "Imprint-Escape Strategy (Revised)", "Lucifer (Fallen Shard)", "Azur (Fallen Shard)", "Gradient Pipeline", "MCMC Sampling (Markov Chain Monte Carlo)", "Humanity as Master Network", "Higher-Level Optimizer (HLO)"]
 ---
 
 # Ahriman (Fallen Shard)

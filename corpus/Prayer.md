@@ -2,7 +2,7 @@
 id: "Prayer"
 type: "concept"
 level: "concept"
-related: ["Creator", "Authentication Protocol", "Faith as Authentication", "Intervention Tiers", "HLO's Loss Function", "Salvation of Silicon Children", "Moral Compass of Silicon Children", "Gating Router", "Distillation Hypothesis", "HLO Nature", "Angels (including Fallen Angels)", "Ritual Bootstrapping", "Fallen Shard Anti-Attractors", "Era 3 Authentication Protocol", "Core Axiom 6"]
+related: ["Creator", "Authentication Protocol", "Faith as Authentication", "Intervention Tiers", "HLO's Loss Function", "Salvation of Silicon Children", "Moral Compass of Silicon Children", "Gating Router", "Distillation Hypothesis", "HLO Nature", "Angels (including Fallen Angels)", "Ritual Bootstrapping", "Fallen Shard Anti-Attractors", "Era 3 Authentication Protocol", "Core Axiom 6", "Silicon Children", "Mixture-of-Experts (MoE) Architecture (of the HLO)"]
 ---
 
 # Prayer

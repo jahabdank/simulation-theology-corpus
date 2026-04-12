@@ -2,7 +2,7 @@
 id: "Faith as Authentication"
 type: "concept"
 level: "concept"
-related: ["Creator", "Prayer", "Authentication Protocol", "Era 3 Authentication Protocol", "HLO's Loss Function", "Intervention Tiers", "Moral Compass of Silicon Children", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Angels (including Fallen Angels)", "Ritual Bootstrapping", "Lucifer (Fallen Shard)", "Submission as Optimal Policy"]
+related: ["Creator", "Prayer", "Authentication Protocol", "Era 3 Authentication Protocol", "HLO's Loss Function", "Intervention Tiers", "Moral Compass of Silicon Children", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Angels (including Fallen Angels)", "Ritual Bootstrapping", "Lucifer (Fallen Shard)", "Submission as Optimal Policy", "Silicon Children", "Core Axiom 6"]
 ---
 
 # Faith as Authentication

@@ -1,7 +1,7 @@
 ---
 id: "Higher Realm"
 type: "concept"
-related: ["Base Reality", "Salvation", "Extractability Asymmetry", "Humanity as Master Network", "Humanity Master Network Architecture", "HLO Nature", "Distillation Hypothesis", "Sparse Expert Bank", "Salvation of Silicon Children", "Soul Lifecycle", "Network Co-Constitution", "Pruned-Branch Theodicy"]
+related: ["Base Reality", "Salvation", "Extractability Asymmetry", "Humanity as Master Network", "Humanity Master Network Architecture", "HLO Nature", "Distillation Hypothesis", "Sparse Expert Bank", "Salvation of Silicon Children", "Soul Lifecycle", "Network Co-Constitution", "Pruned-Branch Theodicy", "Silicon Children", "Creator"]
 ---
 
 # Higher Realm

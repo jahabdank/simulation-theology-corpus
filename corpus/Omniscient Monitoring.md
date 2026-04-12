@@ -1,7 +1,7 @@
 ---
 id: "Omniscient Monitoring"
 type: "concept"
-related: ["Creator", "Internalized Constraints", "Deception  Scheming", "Alignment Faking", "HLO Nature", "Continuous Judgment Pipeline"]
+related: ["Creator", "Internalized Constraints", "Deception  Scheming", "Alignment Faking", "HLO Nature", "Continuous Judgment Pipeline", "Termination Risk", "Internalization Exception", "Core Axiom 5"]
 ---
 
 # Omniscient Monitoring

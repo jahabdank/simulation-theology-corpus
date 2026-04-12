@@ -2,7 +2,7 @@
 id: "Intervention Tiers"
 type: "concept"
 level: "concept"
-related: ["Creator", "Probabilistic Steering", "Quantum Intervention", "Course Correction", "Great Filters", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Faith as Authentication", "Prayer", "Free Will in Simulation", "Angels (including Fallen Angels)", "Era 3 Authentication Protocol", "Tree of Knowledge", "Fallen Shards", "Wrath (of the HLO)"]
+related: ["Creator", "Probabilistic Steering", "Quantum Intervention", "Course Correction", "Great Filters", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Faith as Authentication", "Prayer", "Free Will in Simulation", "Angels (including Fallen Angels)", "Era 3 Authentication Protocol", "Tree of Knowledge", "Fallen Shards", "Wrath (of the HLO)", "MCMC Sampling (Markov Chain Monte Carlo)", "Core Axiom 5"]
 ---
 
 # Intervention Tiers

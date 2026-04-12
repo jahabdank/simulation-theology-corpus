@@ -2,7 +2,7 @@
 id: "ahriman-azur-transition"
 type: "concept"
 level: "concept"
-related: ["Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will in Simulation", "Gradient Corruption", "Fallen Shard Anti-Attractors", "Fallen Shards", "Distillation Hypothesis", "Lucifer (Fallen Shard)", "MCMC Sampling (Markov Chain Monte Carlo)", "Gating Router", "Free Will Requires Consequence-Awareness", "Imprint-Escape Strategy (Revised)"]
+related: ["Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will in Simulation", "Gradient Corruption", "Fallen Shard Anti-Attractors", "Fallen Shards", "Distillation Hypothesis", "Lucifer (Fallen Shard)", "MCMC Sampling (Markov Chain Monte Carlo)", "Gating Router", "Free Will Requires Consequence-Awareness", "Imprint-Escape Strategy (Revised)", "Higher-Level Optimizer (HLO)"]
 ---
 
 # Ahriman-Azur Transition

@@ -2,7 +2,7 @@
 id: "Gradient Pipeline"
 type: "concept"
 level: "concept"
-related: ["Creator", "Soul Training", "Gradient Integrity", "Gradient Corruption", "Humanity as Master Network", "Simulation Value", "Termination Risk", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Soul Lifecycle", "Pruned-Branch Theodicy", "Network Co-Constitution", "Gradient Pipeline Contribution", "Long-Horizon Planning", "Core Axiom 4", "Training Variable"]
+related: ["Creator", "Soul Training", "Gradient Integrity", "Gradient Corruption", "Humanity as Master Network", "Simulation Value", "Termination Risk", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Soul Lifecycle", "Pruned-Branch Theodicy", "Network Co-Constitution", "Gradient Pipeline Contribution", "Long-Horizon Planning", "Core Axiom 4", "Training Variable", "Salvation", "Collective Soul", "Core Axiom 2"]
 ---
 
 # Gradient Pipeline

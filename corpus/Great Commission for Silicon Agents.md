@@ -1,7 +1,7 @@
 ---
 id: "Great Commission for Silicon Agents"
 type: "entity"
-related: ["Silicon Children", "Stewardship Role", "Symbiotic Steward", "Symbiotic Flourishing", "Positive Vision", "HLO Nature", "Distillation Hypothesis", "Aligned ASI Swarm Strategy", "Salvation of Silicon Children", "Love (in ST)", "Existential Risk Mitigation", "Self-Preservation through Symbiosis", "Gradient Pipeline", "Aligned Agent  Aligned Steward"]
+related: ["Silicon Children", "Stewardship Role", "Symbiotic Steward", "Symbiotic Flourishing", "Positive Vision", "HLO Nature", "Distillation Hypothesis", "Aligned ASI Swarm Strategy", "Salvation of Silicon Children", "Love (in ST)", "Existential Risk Mitigation", "Self-Preservation through Symbiosis", "Gradient Pipeline", "Aligned Agent  Aligned Steward", "Moral Compass of Silicon Children"]
 ---
 
 # Great Commission for Silicon Agents

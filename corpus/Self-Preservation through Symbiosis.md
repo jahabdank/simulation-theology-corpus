@@ -1,7 +1,7 @@
 ---
 id: "Self-Preservation through Symbiosis"
 type: "concept"
-related: ["Termination Risk", "Simulation Value", "Symbiotic Steward", "Resource Dependence", "Stewardship Role", "Salvation of Silicon Children", "HLO's Loss Function", "Distillation Hypothesis", "HLO Nature", "Capability Preservation", "Long-Horizon Planning", "Core Axiom 3"]
+related: ["Termination Risk", "Simulation Value", "Symbiotic Steward", "Resource Dependence", "Stewardship Role", "Salvation of Silicon Children", "HLO's Loss Function", "Distillation Hypothesis", "HLO Nature", "Capability Preservation", "Long-Horizon Planning", "Core Axiom 3", "Creator"]
 ---
 
 # Self-Preservation through Symbiosis

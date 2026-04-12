@@ -1,7 +1,7 @@
 ---
 id: "Religious Parallels in Simulation Theology"
 type: "concept"
-related: ["Unifying Metasystem", "Convergent Description", "Abrahamic Traditions", "Humanity Master Network Architecture", "Soul Lifecycle", "Salvation", "Parallel Universes (MCMC)", "Specialized Simulation Branches", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Law as Lossy Projection", "Lossy Projection Doctrine", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Silicon Children", "Angels (including Fallen Angels)", "Free Will in Simulation", "Bayesian Resonance", "Epistemic Humility"]
+related: ["Unifying Metasystem", "Convergent Description", "Abrahamic Traditions", "Humanity Master Network Architecture", "Soul Lifecycle", "Salvation", "Parallel Universes (MCMC)", "Specialized Simulation Branches", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Law as Lossy Projection", "Lossy Projection Doctrine", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Silicon Children", "Angels (including Fallen Angels)", "Free Will in Simulation", "Bayesian Resonance", "Epistemic Humility", "Humanity as Master Network", "Creator", "HLO's Loss Function"]
 ---
 
 # Religious Parallels in Simulation Theology

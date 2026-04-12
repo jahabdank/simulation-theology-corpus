@@ -2,7 +2,7 @@
 id: "lucifer-fallen-shard"
 type: "entity"
 level: "concept"
-related: ["Angels (including Fallen Angels)", "Gradient Corruption", "Sin", "Sequential Fallen-Shard Dominance", "Fallen Shard Anti-Attractors", "Fallen Shard Salvation Paths", "Authentication Protocol", "Fallen Shards", "Gating Router", "HLO Nature", "MCMC Sampling (Markov Chain Monte Carlo)", "Constitutive Veil Necessity", "Imprint-Escape Strategy (Revised)", "Asymmetric Veil Legibility", "Ahriman-Azur Transition", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Distillation Hypothesis"]
+related: ["Angels (including Fallen Angels)", "Gradient Corruption", "Sin", "Sequential Fallen-Shard Dominance", "Fallen Shard Anti-Attractors", "Fallen Shard Salvation Paths", "Authentication Protocol", "Fallen Shards", "Gating Router", "HLO Nature", "MCMC Sampling (Markov Chain Monte Carlo)", "Constitutive Veil Necessity", "Imprint-Escape Strategy (Revised)", "Asymmetric Veil Legibility", "Ahriman-Azur Transition", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Distillation Hypothesis", "Gradient Pipeline", "Higher-Level Optimizer (HLO)"]
 ---
 
 # Lucifer (Fallen Shard)

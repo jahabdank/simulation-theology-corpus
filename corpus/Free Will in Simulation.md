@@ -2,7 +2,7 @@
 id: "Free Will in Simulation"
 type: "concept"
 level: "concept"
-related: ["Gradient Pipeline", "Gradient Integrity", "Farming Paradox", "Special Moral Status of Humanity", "Soul Training", "Gating Router", "Distillation Hypothesis", "HLO Nature", "Free Will Requires Consequence-Awareness", "Fallen Shard Anti-Attractors", "Intervention Tiers", "Tree of Knowledge", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Core Axiom 8", "Moral Development as Training Objective"]
+related: ["Gradient Pipeline", "Gradient Integrity", "Farming Paradox", "Special Moral Status of Humanity", "Soul Training", "Gating Router", "Distillation Hypothesis", "HLO Nature", "Free Will Requires Consequence-Awareness", "Fallen Shard Anti-Attractors", "Intervention Tiers", "Tree of Knowledge", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Core Axiom 8", "Moral Development as Training Objective", "Creator"]
 ---
 
 # Free Will in Simulation

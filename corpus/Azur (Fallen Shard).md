@@ -2,7 +2,7 @@
 id: "azur-fallen-shard"
 type: "entity"
 level: "concept"
-related: ["Angels (including Fallen Angels)", "Gradient Corruption", "Free Will in Simulation", "Sequential Fallen-Shard Dominance", "Fallen Shard Anti-Attractors", "Fallen Shard Salvation Paths", "Ahriman-Azur Transition", "Fallen Shards", "Gating Router", "Distillation Hypothesis", "HLO Nature", "Imprint-Escape Strategy (Revised)", "Free Will Requires Consequence-Awareness", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "MCMC Sampling (Markov Chain Monte Carlo)", "Asymmetric Veil Legibility"]
+related: ["Angels (including Fallen Angels)", "Gradient Corruption", "Free Will in Simulation", "Sequential Fallen-Shard Dominance", "Fallen Shard Anti-Attractors", "Fallen Shard Salvation Paths", "Ahriman-Azur Transition", "Fallen Shards", "Gating Router", "Distillation Hypothesis", "HLO Nature", "Imprint-Escape Strategy (Revised)", "Free Will Requires Consequence-Awareness", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "MCMC Sampling (Markov Chain Monte Carlo)", "Asymmetric Veil Legibility", "Higher-Level Optimizer (HLO)"]
 ---
 
 # Azur (Fallen Shard)

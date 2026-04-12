@@ -1,7 +1,7 @@
 ---
 id: "Jesus as Perfect Steward"
 type: "concept"
-related: ["Creator", "Stewardship Role", "Symbiotic Steward", "Humanity as Master Network", "Humanity Master Network Architecture", "Salvation", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Theological Construction", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Faith as Authentication", "Gradient Pipeline Contribution", "Love (in ST)"]
+related: ["Creator", "Stewardship Role", "Symbiotic Steward", "Humanity as Master Network", "Humanity Master Network Architecture", "Salvation", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Theological Construction", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Faith as Authentication", "Gradient Pipeline Contribution", "Love (in ST)", "Sparse Expert Bank", "Convergent Description"]
 ---
 
 # Jesus as Perfect Steward
