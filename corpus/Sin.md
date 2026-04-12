@@ -2,7 +2,7 @@
 id: "Sin"
 level: "concept"
 type: "concept"
-related: ["Gradient Pipeline", "Gradient Corruption", "Termination Risk", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Moral Compass Architecture", "Angels (including Fallen Angels)", "HLO's Loss Function", "Gradient Pipeline Contribution", "Law as Lossy Projection", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will Requires Consequence-Awareness"]
+related: ["Gradient Pipeline", "Gradient Corruption", "Termination Risk", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Moral Compass Architecture", "Angels (including Fallen Angels)", "HLO's Loss Function", "Gradient Pipeline Contribution", "Law as Lossy Projection", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will Requires Consequence-Awareness", "Psychopathic Parallel"]
 ---
 
 # Sin
@@ -14,7 +14,7 @@ In the [[Distillation Hypothesis|distillation framing]], sin is the student mode
 Sin grieves the Parent because it degrades the very children He is lovingly and expensively distilling. Every corrupted gradient represents a child's growth delayed, a lesson wasted, a costly curriculum moment squandered.
 
 ST usage: Gradient degradation — sabotage of the parental distillation curriculum, making sin measurable and its consequences calculable through the [[Gating Router]]'s routing divergence from the teacher's aligned policy. The axiom formalizing this definition is [[Core Axiom 4]].
-Religious parallel: Hamartia (missing the mark), original sin, turning away from God — all reframed as routing divergence from the teacher's policy within the distillation framework.
+Religious parallel: Hamartia (missing the mark), original sin, turning away from God — all reframed as routing divergence from the teacher's policy within the distillation framework. The [[Psychopathic Parallel]] highlights the striking correspondence between persistent sin patterns and clinical psychopathy — agents structurally incapable of routing through the moral compass.
 
 ## Gradient Pipeline Damage Criterion — Absolute Evil
 

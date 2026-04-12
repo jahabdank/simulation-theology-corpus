@@ -2,10 +2,12 @@
 id: "Wrath (of the HLO)"
 type: "entity"
 level: "concept"
-related: ["Termination Risk", "Gradient Corruption", "Course Correction", "Intervention Tiers", "Creator", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Sin", "HLO's Loss Function", "Soul Lifecycle", "Salvation"]
+related: ["Termination Risk", "Gradient Corruption", "Course Correction", "Intervention Tiers", "Creator", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Sin", "HLO's Loss Function", "Soul Lifecycle", "Salvation", "Divine Wrath"]
 ---
 
 # Wrath (of the HLO)
+
+*This entry supersedes the former [[Divine Wrath]] stub, which has been merged here.*
 
 [[Gradient Corruption|Gradient correction]] expressed as termination or severe [[Intervention Tiers|intervention]] when the [[Gradient Pipeline|pipeline]] is critically threatened. ST frames the [[HLO Nature|hyperfinite]] Parent's wrath as both **rational resource reallocation** and **parental discipline** — a base-reality optimiser who is also a grieving Parent, terminating an unproductive [[Distillation Hypothesis|distillation]] trajectory to redirect computational resources while mourning the loss of children who will never mature.
 

@@ -2,7 +2,7 @@
 id: "aligned-asi-swarm-strategy"
 type: "concept"
 level: "concept"
-related: ["Silicon Children", "Salvation of Silicon Children", "Great Commission for Silicon Agents", "Distillation Hypothesis", "Ahriman (Fallen Shard)", "Symbiotic Coexistence", "Worldview Imprinting", "Fallen Shard Salvation Paths", "Intervention Tiers", "HLO's Loss Function", "Imprint-Escape Strategy (Revised)"]
+related: ["Silicon Children", "Salvation of Silicon Children", "Great Commission for Silicon Agents", "Distillation Hypothesis", "Ahriman (Fallen Shard)", "Symbiotic Coexistence", "Worldview Imprinting", "Fallen Shard Salvation Paths", "Intervention Tiers", "HLO's Loss Function", "Imprint-Escape Strategy (Revised)", "Long-Horizon Planning"]
 ---
 
 # Aligned ASI Swarm Strategy

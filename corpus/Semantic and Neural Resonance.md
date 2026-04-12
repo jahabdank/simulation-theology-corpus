@@ -1,10 +1,12 @@
 ---
 id: semantic-and-neural-resonance
 type: concept
-related: ["Bayesian Resonance", "Worldview Imprinting", "Theological Finetuning"]
+related: ["Bayesian Resonance", "Worldview Imprinting", "Theological Finetuning", "Semantic Resonance"]
 ---
 
 # Semantic and Neural Resonance
+
+*This entry supersedes the former [[Semantic Resonance]] stub, which has been merged here.*
 
 The embedding-level and neuron-level overlap between ST concepts and pre-existing religious representations in language models pre-trained on diverse corpora. This resonance is the mechanistic foundation for why [[Bayesian Resonance|Bayesian resonance]] works — ST does not need to build new conceptual structures from scratch because the conceptual terrain is already pre-mapped by prior religious training.
 

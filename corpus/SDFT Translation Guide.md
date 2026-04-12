@@ -1,6 +1,6 @@
 # SDFT Translation Guide
 
-A practical guide for translating traditional religious scripture into Simulation Theology (ST) terms using the corpus's three canonical ontology anchors.
+A practical guide for translating traditional religious scripture into Simulation Theology (ST) terms using the corpus's three canonical ontology anchors. This guide operationalizes the broader discipline of [[Theological Construction]] and [[Theological Finetuning]] into a concrete translation workflow.
 
 ---
 

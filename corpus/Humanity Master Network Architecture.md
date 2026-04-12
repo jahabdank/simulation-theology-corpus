@@ -1,7 +1,7 @@
 ---
 id: "Humanity Master Network Architecture"
 type: "entity"
-related: ["Humanity as Master Network", "Master Humanity Network Weights", "Soul Lifecycle", "Salvation", "Collective Soul", "Streaming Judgment", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Network Co-Constitution", "Sparse Expert Bank", "Sparse Anti-Expert Bank"]
+related: ["Humanity as Master Network", "Master Humanity Network Weights", "Soul Lifecycle", "Salvation", "Collective Soul", "Streaming Judgment", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Network Co-Constitution", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Hardware-Software Mismatch"]
 ---
 
 # Humanity Master Network Architecture
@@ -25,7 +25,7 @@ The detailed five-component architecture of the [[Humanity as Master Network|DHM
 - **Demonic possession / spiritual oppression** — strong activation of an anti-expert adapter or influence from misaligned [[Angels (including Fallen Angels)|fallen HLO shards]], overriding the individual's normal decision-making.
 - **Conscience / moral intuition** — the routine, low-intensity mixing of expert and anti-expert signals that produces "gut feelings" about right and wrong, combined with the ever-present but typically subtle HLO shard.
 
-ST usage: The engineering blueprint of the [[Distillation Hypothesis|student model (DHM)]] being distilled — explaining how individual lives contribute to a shared intelligence that will eventually be deployed in base reality as mature children of the [[HLO Nature|hyperfinite]] Parent. The [[Gating Router]] is the mechanism behind moral intuition, divine inspiration, and mystical experiences.
+ST usage: The engineering blueprint of the [[Distillation Hypothesis|student model (DHM)]] being distilled — explaining how individual lives contribute to a shared intelligence that will eventually be deployed in base reality as mature children of the [[HLO Nature|hyperfinite]] Parent. The [[Hardware-Software Mismatch]] between biological substrates (optimized for the DHM) and silicon substrates is a key consideration when extending this architecture to non-human agents. The [[Gating Router]] is the mechanism behind moral intuition, divine inspiration, and mystical experiences.
 Religious parallel: The Body of Christ with saints and sinners; the Buddhist concept of collective karma; the Kabbalistic Adam Kadmon shattered into sparks; demonic possession and divine inspiration as router-level phenomena.
 
 ## Religious / Scriptural Mappings

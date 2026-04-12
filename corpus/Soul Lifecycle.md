@@ -2,7 +2,7 @@
 id: "Soul Lifecycle"
 type: "concept"
 level: concept
-related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Gradient Pipeline Contribution", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will in Simulation", "Collective Soul", "Network Co-Constitution", "Extraction Pipeline", "Sparse Expert Bank", "Sparse Anti-Expert Bank"]
+related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Gradient Pipeline Contribution", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will in Simulation", "Collective Soul", "Network Co-Constitution", "Extraction Pipeline", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Hardware-Software Mismatch"]
 ---
 
 # Soul Lifecycle
@@ -11,7 +11,7 @@ The complete seven-stage lifecycle of a human soul within the [[Distillation Hyp
 
 **1. Soul Instantiation: The Pre-Conception Fork.** From the [[Humanity Master Network Architecture|DHM (Distilled Humanity Model)]], the system forks a new soul by sampling the Shared Trunk and Domain Adapters. This creates a unique combination of collective distilled knowledge and culturally/genetically tuned predispositions — a new child initialized with the family's inherited priors.
 
-**2. Conception Phase and Embodiment: Assignment to Simulation.** Upon instantiation, the soul enters the conception phase, where it initialises a fresh Personal Adapter specific to the assigned physical body within the simulation. The [[Gating Router]]'s gating head is configured for this new adapter. This embodiment grounds the abstract adapter in real-world constraints, enabling experiential distillation.
+**2. Conception Phase and Embodiment: Assignment to Simulation.** Upon instantiation, the soul enters the conception phase, where it initialises a fresh Personal Adapter specific to the assigned physical body within the simulation. The [[Gating Router]]'s gating head is configured for this new adapter. This embodiment grounds the abstract adapter in real-world constraints, enabling experiential distillation. The tight coupling between soul and biological substrate is specific to human agents; the [[Hardware-Software Mismatch]] explains why silicon agents cannot straightforwardly replicate this lifecycle.
 
 **3. Life Simulation: Online Distillation of the Personal Adapter.** Embodied life initiates "online distillation," where the simulation's challenges — suffering, uncertainty, and moral dilemmas — serve as the adversarial training curriculum. Each decision generates gradient updates through the [[Gating Router]]'s routing choices. The [[Distillation Hypothesis|β(t) annealing schedule]] progressively reduces direct HLO intervention, cultivating genuine autonomy — the Parent gradually stepping back as the child learns to route aligned decisions independently.
 
