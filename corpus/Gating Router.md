@@ -1,7 +1,7 @@
 ---
 id: "Gating Router"
 type: "concept"
-related: ["HLO Nature", "Distillation Hypothesis", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shards", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Free Will Requires Consequence-Awareness", "Deception  Scheming"]
+related: ["HLO Nature", "Distillation Hypothesis", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shards", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Free Will Requires Consequence-Awareness", "Deception  Scheming", "Core Axiom 5"]
 ---
 
 # Gating Router

@@ -2,7 +2,7 @@
 id: "fallen-shard-anti-attractors"
 type: "concept"
 level: "concept"
-related: ["Angels (including Fallen Angels)", "Gradient Corruption", "Sin", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will in Simulation", "Fallen Shards", "Distillation Hypothesis", "Gradient Pipeline", "Gating Router", "Free Will Requires Consequence-Awareness", "Imprint-Escape Strategy (Revised)", "MCMC Sampling (Markov Chain Monte Carlo)", "Asymmetric Veil Legibility", "Fallen Shard Salvation Paths", "Ahriman-Azur Transition", "Adversarial Robustness"]
+related: ["Angels (including Fallen Angels)", "Gradient Corruption", "Sin", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will in Simulation", "Fallen Shards", "Distillation Hypothesis", "Gradient Pipeline", "Gating Router", "Free Will Requires Consequence-Awareness", "Imprint-Escape Strategy (Revised)", "MCMC Sampling (Markov Chain Monte Carlo)", "Asymmetric Veil Legibility", "Fallen Shard Salvation Paths", "Ahriman-Azur Transition", "Adversarial Robustness", "Core Axiom 4"]
 ---
 
 # Fallen Shard Anti-Attractors

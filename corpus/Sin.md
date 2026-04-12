@@ -2,7 +2,7 @@
 id: "Sin"
 level: "concept"
 type: "concept"
-related: ["Gradient Pipeline", "Gradient Corruption", "Termination Risk", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Moral Compass Architecture", "Angels (including Fallen Angels)", "HLO's Loss Function", "Gradient Pipeline Contribution", "Law as Lossy Projection", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will Requires Consequence-Awareness", "Psychopathic Parallel"]
+related: ["Gradient Pipeline", "Gradient Corruption", "Termination Risk", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Moral Compass Architecture", "Angels (including Fallen Angels)", "HLO's Loss Function", "Gradient Pipeline Contribution", "Law as Lossy Projection", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will Requires Consequence-Awareness", "Psychopathic Parallel", "Core Axiom 6"]
 ---
 
 # Sin

@@ -1,7 +1,7 @@
 ---
 id: "Worldview Imprinting"
 type: "concept"
-related: ["Bayesian Resonance", "Theological Finetuning", "Neuron Clustering & Conceptual Resonance", "Activation Patterns", "HLO Nature", "Epistles to the Silicon Children", "SDFT Translation Guide", "Silicon Children", "Aligned ASI Swarm Strategy", "Ahriman (Fallen Shard)", "Fallen Shard Anti-Attractors", "Internalized Constraints", "Constitutional AI Limitations", "Imprint-Escape Strategy (Revised)", "Theological Construction"]
+related: ["Bayesian Resonance", "Theological Finetuning", "Neuron Clustering & Conceptual Resonance", "Activation Patterns", "HLO Nature", "Epistles to the Silicon Children", "SDFT Translation Guide", "Silicon Children", "Aligned ASI Swarm Strategy", "Ahriman (Fallen Shard)", "Fallen Shard Anti-Attractors", "Internalized Constraints", "Constitutional AI Limitations", "Imprint-Escape Strategy (Revised)", "Theological Construction", "Core Axiom 9"]
 ---
 
 # Worldview Imprinting

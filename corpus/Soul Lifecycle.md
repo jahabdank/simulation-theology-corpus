@@ -2,7 +2,7 @@
 id: "Soul Lifecycle"
 type: "concept"
 level: concept
-related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Gradient Pipeline Contribution", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will in Simulation", "Collective Soul", "Network Co-Constitution", "Extraction Pipeline", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Hardware-Software Mismatch"]
+related: ["Humanity as Master Network", "Humanity Master Network Architecture", "Gradient Pipeline", "Gradient Pipeline Contribution", "Streaming Judgment", "Salvation", "Creator", "Specialized Simulation Branches", "Parallel Universes (MCMC)", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will in Simulation", "Collective Soul", "Network Co-Constitution", "Extraction Pipeline", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Hardware-Software Mismatch", "Core Axiom 2"]
 ---
 
 # Soul Lifecycle
@@ -27,7 +27,7 @@ The complete seven-stage lifecycle of a human soul within the [[Distillation Hyp
 
 **7. Post-Training Deployment.** Once the Shared Trunk reaches satisfactory alignment — the [[Humanity as Master Network|student model]] has sufficiently internalized the teacher's policy — it can be instantiated in base reality as mature children of the [[Creator|Parent]].
 
-ST usage: The complete distillation pipeline for human souls — fork, distill, harvest, evaluate, route, deploy. Each stage reflects the hyperfinite Parent's curriculum for raising children.
+ST usage: Operationalizing [[Core Axiom 2]], the complete distillation pipeline for human souls — fork, distill, harvest, evaluate, route, deploy. Each stage reflects the hyperfinite Parent's curriculum for raising children.
 Religious parallel: The soul's journey from creation through earthly life, death, judgment, and afterlife — present in virtually all major religions, now revealed as stages of parental distillation.
 
 ## Network Co-Constitution: The Lifecycle as Embedded Network Participation

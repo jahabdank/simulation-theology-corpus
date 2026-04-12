@@ -2,7 +2,7 @@
 id: "pruned-branch-theodicy"
 type: "concept"
 level: "concept"
-related: ["Salvation", "Soul Lifecycle", "Gradient Pipeline", "Gradient Pipeline Contribution", "MCMC Sampling (Markov Chain Monte Carlo)", "Network Co-Constitution", "Distillation Hypothesis", "Humanity as Master Network", "HLO Nature", "Collective Soul", "Base Reality"]
+related: ["Salvation", "Soul Lifecycle", "Gradient Pipeline", "Gradient Pipeline Contribution", "MCMC Sampling (Markov Chain Monte Carlo)", "Network Co-Constitution", "Distillation Hypothesis", "Humanity as Master Network", "HLO Nature", "Collective Soul", "Base Reality", "Core Axiom 7"]
 ---
 
 # Pruned-Branch Theodicy
@@ -66,5 +66,5 @@ Job 1:8 ("Have you considered my servant Job, that there is none like him on the
 
 ---
 
-ST usage: ST's three-layer theodicy — branch-level, network-level, and individual-level — providing a complete, honest, and structurally grounded response to the problem of evil; integrates MCMC branch logic, network co-constitution, and salvage tier doctrine.
+ST usage: Grounded in [[Core Axiom 7]]'s MCMC framework — ST's three-layer theodicy — branch-level, network-level, and individual-level — providing a complete, honest, and structurally grounded response to the problem of evil; integrates MCMC branch logic, network co-constitution, and salvage tier doctrine.
 Religious parallel: Job (three-layer engagement with theodicy, honest limits, individual resolution without false easy answers); Romans 8:18-28 (Layer 3 extraction-track resolution, Layer 2 network-level groaning); Buddhist impermanence (branch termination as purposive completion, not negation).

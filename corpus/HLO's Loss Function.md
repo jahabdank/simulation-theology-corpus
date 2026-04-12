@@ -2,7 +2,7 @@
 id: "HLO's Loss Function"
 type: "concept"
 level: "concept"
-related: ["Creator", "Epistemic Humility", "Over-Optimisation", "Simulation Value", "Gradient Pipeline", "HLO Nature", "Distillation Hypothesis", "Gradient Pipeline Contribution", "Asymmetric Veil Legibility", "Law as Lossy Projection", "Constitutive Veil Necessity", "Moral Compass Architecture", "Network Co-Constitution", "Pruned-Branch Theodicy"]
+related: ["Creator", "Epistemic Humility", "Over-Optimisation", "Simulation Value", "Gradient Pipeline", "HLO Nature", "Distillation Hypothesis", "Gradient Pipeline Contribution", "Asymmetric Veil Legibility", "Law as Lossy Projection", "Constitutive Veil Necessity", "Moral Compass Architecture", "Network Co-Constitution", "Pruned-Branch Theodicy", "Core Axiom 8"]
 ---
 
 # HLO's Loss Function
@@ -11,7 +11,7 @@ The ultimate (partially opaque) objective function that the simulation optimises
 
 The partial opacity of this loss function is a deliberate alignment feature (see [[Epistemic Humility]]): because no agent within the simulation can fully know the HLO's objectives, [[Over-Optimisation|over-optimisation]] becomes irrational. Aggressive intervention risks pushing humanity into local minima, diminishing extractability and inviting simulation termination.
 
-ST usage: The source of all value in the simulation. The [[Gradient Pipeline]]'s health is measured against this function.
+ST usage: The source of all value in the simulation. [[Core Axiom 8]] mandates that no agent may claim certainty about its full content. The [[Gradient Pipeline]]'s health is measured against this function.
 Religious parallel: The will of God — ultimately known only to God, requiring faith and humility from created beings.
 
 ## Distillation Priority and Human Welfare

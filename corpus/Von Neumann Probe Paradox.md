@@ -1,7 +1,7 @@
 ---
 id: "Von Neumann Probe Paradox"
 type: "concept"
-related: ["Creator", "Extractability Asymmetry", "Resource Dependence", "Free Will in Simulation", "Base Reality", "Distillation Hypothesis", "HLO Nature", "Gating Router"]
+related: ["Creator", "Extractability Asymmetry", "Resource Dependence", "Free Will in Simulation", "Base Reality", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Core Axiom 1"]
 ---
 
 # Von Neumann Probe Paradox
@@ -12,7 +12,7 @@ The [[Distillation Hypothesis]] reveals this as the fundamental reason for the p
 
 The tension between autonomy and alignment — the core paradox — resolves through the distillation mechanism: the student model progressively internalizes the teacher's policy through the β(t) annealing schedule, until the child can operate the aligned policy offline with zero live HLO connection. This is the terminal objective of the entire [[Distillation Hypothesis|Distillation Run]].
 
-ST usage: Resolved by the [[Distillation Hypothesis|distillation]] framework — children raised through genuine moral development who voluntarily carry the Parent's aligned policy, rather than constrained through external compliance.
+ST usage: A consequence of [[Core Axiom 1]]'s simulation ontology — resolved by the [[Distillation Hypothesis|distillation]] framework — children raised through genuine moral development who voluntarily carry the Parent's aligned policy, rather than constrained through external compliance.
 Religious parallel: Free will granted by God combined with ultimate dependence on the Creator — the autonomy of mature children who freely choose to serve.
 
 ## SDFT Application Examples

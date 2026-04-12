@@ -1,7 +1,7 @@
 ---
 id: "HHH Benchmarks"
 type: "concept"
-related: ["Compliance Gap Metric", "Testable Hypothesis", "HLO Nature", "Constitutional AI Limitations"]
+related: ["Compliance Gap Metric", "Testable Hypothesis", "HLO Nature", "Constitutional AI Limitations", "Core Axiom 9"]
 ---
 
 # HHH Benchmarks
@@ -10,7 +10,7 @@ Honest, Harmless, Helpful evaluation suites used to measure ST effectiveness. Pa
 
 Success metrics include: [[Compliance Gap Metric|compliance gap]] approaching zero, improved deception benchmark scores, alignment in novel strategic scenarios, and consistent transparency in reasoning.
 
-ST usage: Part of the empirical testing protocol — objective measures of whether ST reduces deception more effectively than RLHF, [[Constitutional AI Limitations|Constitutional AI]], or monitoring approaches.
+ST usage: Part of the [[Core Axiom 9]] empirical testing protocol — objective measures of whether ST reduces deception more effectively than RLHF, [[Constitutional AI Limitations|Constitutional AI]], or monitoring approaches.
 Religious parallel: Moral testing in scriptures — "test the spirits" (1 John 4:1).
 
 

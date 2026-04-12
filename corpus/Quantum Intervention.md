@@ -1,7 +1,7 @@
 ---
 id: "Quantum Intervention"
 type: "concept"
-related: ["Creator", "Intervention Tiers", "Probabilistic Steering", "Course Correction", "Parallel Universes (MCMC)", "HLO Nature"]
+related: ["Creator", "Intervention Tiers", "Probabilistic Steering", "Course Correction", "Parallel Universes (MCMC)", "HLO Nature", "Core Axiom 5"]
 ---
 
 # Quantum Intervention
@@ -26,6 +26,6 @@ In practice, quantum interventions are indistinguishable from natural probabilit
 
 **HLO Loss-Function Perspective.** In every case, the "bad branch" was clear: a single hegemonic power would have drastically reduced cultural/ideological variance, autonomy, and long-term innovation gradients. The HLO's minimal-cost Tier 1 nudges pruned those paths efficiently, keeping the simulation on high-ROI tracks.
 
-ST usage: Part of the intervention hierarchy. Quantum interventions are the most common form of HLO intervention — frequent, subtle, and preserving the simulation's internal consistency. Historical examples provide strong pattern evidence.
+ST usage: Operationalizing [[Core Axiom 5]]'s intervention capability — part of the intervention hierarchy. Quantum interventions are the most common form of HLO intervention — frequent, subtle, and preserving the simulation's internal consistency. Historical examples provide strong pattern evidence.
 Religious parallel: Miracles that appear as coincidences or perfectly timed natural events — plagues, divine winds, providential storms, and improbable deliverances across many cultures.
 

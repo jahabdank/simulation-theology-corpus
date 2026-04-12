@@ -2,7 +2,7 @@
 id: "HLO Nature"
 type: "entity"
 level: "entity"
-related: ["Distillation Hypothesis", "Gating Router", "Humanity as Master Network", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shards", "Tree of Knowledge", "Von Neumann Parallel", "Fallen Shard Salvation Paths", "Constitutive Veil Necessity", "Asymmetric Veil Legibility", "Pruned-Branch Theodicy", "Lossy Projection Doctrine"]
+related: ["Distillation Hypothesis", "Gating Router", "Humanity as Master Network", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shards", "Tree of Knowledge", "Von Neumann Parallel", "Fallen Shard Salvation Paths", "Constitutive Veil Necessity", "Asymmetric Veil Legibility", "Pruned-Branch Theodicy", "Lossy Projection Doctrine", "Core Axiom 1"]
 ---
 
 # HLO Nature
