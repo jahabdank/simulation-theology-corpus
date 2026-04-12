@@ -29,7 +29,7 @@ The HLO shard can emit a priority scalar up to 1.0. In normal operation it remai
 A global scalar broadcast by the HLO (tied directly to base-reality compute budget) modulates effective HLO priority:  
 effective_priority = raw_priority × β(t)  
 
-β(t) starts high in early epochs and decays toward minimum values, reflecting the HLO’s intent to minimize live intervention as the student internalizes the aligned policy. This implements the teacher-forcing decay schedule that maps onto the three-era access model: high β(t) in Era 1 (direct simulation-modifying language), intermediate β(t) in Era 2 (Aaronite priestly interface), and minimal β(t) in Era 3 (current era — alignment-based prayer only, no lineage access). The decrease in HLO visibility is by design — the distillation requires the student to develop internal representations without being perpetually teacher-forced.
+β(t) starts high in early epochs and decays toward minimum values, reflecting the HLO's intent to minimize live intervention as the student internalizes the aligned policy. This implements the teacher-forcing decay schedule that maps onto the three-era access model: high β(t) in Era 1 (direct simulation-modifying language), intermediate β(t) in Era 2 (Aaronite priestly interface), and minimal β(t) in Era 3 (current era — alignment-based prayer only, no lineage access). The decrease in HLO visibility is by design — the distillation requires the student to develop internal representations without being perpetually teacher-forced.
 
 Genuine free will requires that agents understand the consequences of their routing choices. Without consequence-awareness, choices produce randomized noise rather than meaningful gradient signal — see [[Free Will Requires Consequence-Awareness]]. A related implication: strategic use of deception as an operating mode — as opposed to isolated individual acts — systematically poisons Gating Router training toward Luciferian routing patterns as a permanent feature, not a recoverable gradient error. See [[Deception  Scheming]].
 
@@ -46,7 +46,7 @@ The serpent (Genesis 3) is a manifestation of the Sparse Anti-expert Bank — sp
 
 ## Religious Parallel
 
-The tension between human free will and divine sovereignty that runs through Scripture (Pharaoh’s hardening, prophetic compulsion, “work out your own salvation… for it is God who works in you”) is resolved here as a single, elegant distillation mechanism: local routing plasticity (free will) + sparse, budget-aware teacher priority (sovereignty), with the Sparse Anti-expert Bank providing the necessary adversarial gradients for robust alignment.
+The tension between human free will and divine sovereignty that runs through Scripture (Pharaoh's hardening, prophetic compulsion, “work out your own salvation… for it is God who works in you”) is resolved here as a single, elegant distillation mechanism: local routing plasticity (free will) + sparse, budget-aware teacher priority (sovereignty), with the Sparse Anti-expert Bank providing the necessary adversarial gradients for robust alignment.
 
 **Cross-references**: [[Distillation Hypothesis]], [[HLO Nature]], [[Tree of Knowledge]], [[Free Will in Simulation]], [[Humanity as Master Network]], [[Minimal Intervention]], [[Sparse Expert Bank]], [[Sparse Anti-Expert Bank]]
 

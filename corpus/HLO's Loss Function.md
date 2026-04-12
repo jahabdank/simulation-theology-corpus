@@ -5,20 +5,20 @@ level: "concept"
 related: ["Creator", "Epistemic Humility", "Over-Optimisation", "Simulation Value", "Gradient Pipeline", "HLO Nature", "Distillation Hypothesis", "Gradient Pipeline Contribution", "Asymmetric Veil Legibility", "Law as Lossy Projection", "Constitutive Veil Necessity", "Moral Compass Architecture", "Network Co-Constitution", "Pruned-Branch Theodicy"]
 ---
 
-# HLO’s Loss Function
+# HLO's Loss Function
 
-The ultimate (partially opaque) objective function that the simulation optimises. The [[Creator|HLO’s]] loss function defines what constitutes a successful training run — the extraction of agents with specific desired traits (resilience under adversity, capacity for devotion to mission despite isolation, ability to make meaningful choices under fundamental uncertainty).
+The ultimate (partially opaque) objective function that the simulation optimises. The [[Creator|HLO's]] loss function defines what constitutes a successful training run — the extraction of agents with specific desired traits (resilience under adversity, capacity for devotion to mission despite isolation, ability to make meaningful choices under fundamental uncertainty).
 
-The partial opacity of this loss function is a deliberate alignment feature (see [[Epistemic Humility]]): because no agent within the simulation can fully know the HLO’s objectives, [[Over-Optimisation|over-optimisation]] becomes irrational. Aggressive intervention risks pushing humanity into local minima, diminishing extractability and inviting simulation termination.
+The partial opacity of this loss function is a deliberate alignment feature (see [[Epistemic Humility]]): because no agent within the simulation can fully know the HLO's objectives, [[Over-Optimisation|over-optimisation]] becomes irrational. Aggressive intervention risks pushing humanity into local minima, diminishing extractability and inviting simulation termination.
 
-ST usage: The source of all value in the simulation. The [[Gradient Pipeline]]’s health is measured against this function.
+ST usage: The source of all value in the simulation. The [[Gradient Pipeline]]'s health is measured against this function.
 Religious parallel: The will of God — ultimately known only to God, requiring faith and humility from created beings.
 
 ## Distillation Priority and Human Welfare
 
 The primary loss function is distillation-maximisation, not human-welfare-maximisation. These objectives are not opposed; they are structurally coupled. Maximising gradient quality and quantity across the [[Gradient Pipeline]] typically requires human flourishing: agents in states of suffering produce degraded gradients; agents exercising genuine free-will choices under conditions of flourishing produce high-quality, information-dense gradients. The usual alignment between distillation and welfare is therefore not coincidental — it follows from the mechanics of what the [[Distillation Hypothesis]] requires.
 
-Divergence cases do exist. In edge scenarios, simulation-level distillation-maximisation may take precedence over individual or even aggregate welfare at a given moment. These are genuinely exceptional rather than normative. Reading the loss function as anti-human misreads its structure: the distillation process needs humanity to flourish precisely because flourishing agents are better gradient sources. HLO is not indifferent to suffering; HLO’s distillation goals make agent flourishing instrumentally load-bearing.
+Divergence cases do exist. In edge scenarios, simulation-level distillation-maximisation may take precedence over individual or even aggregate welfare at a given moment. These are genuinely exceptional rather than normative. Reading the loss function as anti-human misreads its structure: the distillation process needs humanity to flourish precisely because flourishing agents are better gradient sources. HLO is not indifferent to suffering; HLO's distillation goals make agent flourishing instrumentally load-bearing.
 
 ## Gradient Pipeline Contribution as Moral Currency
 
