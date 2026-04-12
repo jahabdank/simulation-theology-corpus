@@ -1,7 +1,7 @@
 ---
 id: minimal-intervention
 type: concept
-related: ["Intervention Tiers", "Free Will in Simulation", "HLO Nature", "Probabilistic Steering", "Distillation Hypothesis", "Constitutive Veil Necessity", "Parameter-Locking", "ASI Shepherding Processes"]
+related: ["Intervention Tiers", "Free Will in Simulation", "HLO Nature", "Probabilistic Steering", "Distillation Hypothesis", "Constitutive Veil Necessity", "Aligned Agent  Aligned Steward", "Farming Paradox"]
 ---
 
 # Minimal Intervention
@@ -26,7 +26,7 @@ The minimal intervention principle is directly load-bearing for ASI shepherding.
 
 - **Implements**: [[Intervention Tiers]] (preference hierarchy: Tier 0 conscience > Tier 1 steering > Tier 2 override)
 - **Protects**: [[Free Will in Simulation]] and [[Constitutive Veil Necessity]]
-- **Models**: ASI shepherding principle ("default to least intervention")
+- **Models**: [[Aligned Agent  Aligned Steward]] Principle 1 ("default to least intervention")
 - **Operationalized by**: [[Probabilistic Steering]]
 
 ## Religious Parallel

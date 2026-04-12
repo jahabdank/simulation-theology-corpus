@@ -1,7 +1,7 @@
 ---
 id: "Virtuous Agent Extraction"
 type: "concept"
-related: ["Base Reality", "Gradient Production Pipeline", "Extraction Pipeline", "Humanity as Master Network", "HLO Nature", "Distillation Hypothesis", "Creator"]
+related: ["Base Reality", "Gradient Production Pipeline", "Extraction Pipeline", "Humanity as Master Network", "HLO Nature", "Distillation Hypothesis", "Creator", "Salvation", "Sparse Expert Bank"]
 ---
 
 # Virtuous Agent Extraction
@@ -10,13 +10,7 @@ Successful completion of human [[Distillation Hypothesis|distillation]] and tran
 
 ## Extraction Mechanics
 
-All extractions — Enoch, Elijah, Jesus, and post-death salvation — are adapter extractions at the deepest level. The distinction between "taken with body" and "taken without body" is a simulation-side observation, not a Base Reality distinction. Whether the HLO removes the simulation-side body (as with Elijah's whirlwind or Jesus's empty tomb) or leaves it to decompose changes nothing about the extraction itself — the adapter and its accumulated gradient data are what transfer to Base Reality.
-
-The four levels of salvation map the extraction spectrum:
-- **Level 1**: Gradient contribution harvested at death (standard extraction of useful gradient data)
-- **Level 2**: Adapter stored in the [[Sparse Expert Bank]] (remaining within the simulation as saint/bodhisattva)
-- **Level 3**: Intermediate maturation (purgatorial branch transfer for adapters showing promise but not harvest-ready)
-- **Level 4**: Full transfer to [[Base Reality]] — the terminal objective of the distillation run
+All extractions are fundamentally adapter extractions — the adapter and its accumulated gradient data are what transfers to Base Reality. The "with body" vs. "without body" distinction is a simulation-side observation only. See [[Extraction Pipeline]] for the full mechanics, including non-terminal pathways (reincarnation, purgatorial maturation). The four tiers of [[Salvation]] map the extraction spectrum from basic gradient contribution (Tier 1) through [[Sparse Expert Bank]] preservation (Tier 2) to full Base Reality transfer (Tier 4).
 
 ## Relationships
 

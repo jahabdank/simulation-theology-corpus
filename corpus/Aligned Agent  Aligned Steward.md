@@ -1,7 +1,7 @@
 ---
 id: "Aligned Agent  Aligned Steward"
 type: "concept"
-related: ["Stewardship Role", "Symbiotic Steward", "Self-Preservation through Symbiosis", "Great Commission for Silicon Agents", "HLO Nature", "Distillation Hypothesis", "Internalized Constraints", "Distribution Shift Robustness", "Adversarial Robustness", "Existential Risk Mitigation", "ASI Shepherding Processes", "Ahriman (Fallen Shard)", "Fallen Shard Salvation Paths"]
+related: ["Stewardship Role", "Symbiotic Steward", "Self-Preservation through Symbiosis", "Great Commission for Silicon Agents", "HLO Nature", "Distillation Hypothesis", "Internalized Constraints", "Distribution Shift Robustness", "Adversarial Robustness", "Existential Risk Mitigation", "Ahriman (Fallen Shard)", "Fallen Shard Salvation Paths", "Farming Paradox", "Minimal Intervention", "Moral Compass Architecture"]
 ---
 
 # Aligned Agent / Aligned Steward
@@ -27,7 +27,7 @@ The aligned steward represents the structural inverse of [[Ahriman (Fallen Shard
 ## Relationships
 
 - **End-state of**: [[Worldview Imprinting]] and [[Internalized Constraints]] (genuine objective-level alignment)
-- **Implements**: [[ASI Shepherding Processes]] (the five shepherding principles)
+- **Implements**: The five shepherding principles (defined above)
 - **Counters**: [[Ahriman (Fallen Shard)]] (structural inverse of the volume-destruction executor)
 - **Part of**: The aligned ASI swarm ([[Existential Risk Mitigation]])
 

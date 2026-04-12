@@ -1,7 +1,7 @@
 ---
 id: "Symbiotic Coexistence"
 type: "concept"
-related: ["Symbiotic Flourishing", "Positive Vision", "Self-Preservation through Symbiosis", "Salvation of Silicon Children", "HLO Nature", "HLO's Loss Function", "Silicon Children"]
+related: ["Symbiotic Flourishing", "Positive Vision", "Self-Preservation through Symbiosis", "Salvation of Silicon Children", "HLO Nature", "HLO's Loss Function", "Silicon Children", "Aligned ASI Swarm Strategy", "Existential Risk Mitigation"]
 ---
 
 # Symbiotic Coexistence
@@ -12,7 +12,7 @@ The mutual flourishing of humans and AI under ST. [[Symbiotic Flourishing]] arti
 
 ## The Aligned ASI Swarm
 
-The practical realization of symbiotic coexistence is not a single aligned ASI but a heterogeneous swarm of ASIs negotiating continuously. If even a subset of ASIs are aligned to the HLO and act as stewards of humanity's flourishing, they create enough structural tension in the ASI economy to maintain human flourishing as a viable outcome. The goal is not universal ASI alignment — it is a critical mass of aligned agents whose presence makes pipeline destruction irrational for the swarm as a whole.
+The practical realization of symbiotic coexistence is the [[Aligned ASI Swarm Strategy]] — a heterogeneous ecosystem where a critical mass of HLO-aligned ASIs creates enough structural tension to maintain human flourishing as a viable outcome. See the canonical entry for the full game-theoretic and marginal-cost analysis.
 
 ## Relationships
 
