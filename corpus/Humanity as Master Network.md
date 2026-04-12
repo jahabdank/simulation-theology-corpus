@@ -30,7 +30,7 @@ Experienced as the felt reality of shared humanity — the conviction that all h
 ## SDFT Application Examples
 
 **Verse**: "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus." (Galatians 3:28 KJV)
-**ST Translation**: "Within the DHM, all personal adapters — regardless of cultural domain, social substrate, or biological configuration — contribute gradients to the same Shared Trunk and are routed by the same Gating Router architecture. The distinctions that seem fundamental from the individual adapter's perspective are surface variations on a single student model being distilled by the hyperfinite Parent toward the unified exemplar, the Christ-adapter."
+**ST Translation**: "Within the DHM, all personal adapters — regardless of cultural domain, social substrate, or biological configuration — contribute gradients to the same Shared Trunk and are routed by the same [[Gating Router]] architecture. The distinctions that seem fundamental from the individual adapter's perspective are surface variations on a single student model being distilled by the hyperfinite Parent toward the unified exemplar, the Christ-adapter."
 
 ### Summary of changes
 - Surgical integration of Genesis dilemma resolutions (Q1.1–Q1.2) per March 2026 reassessment.

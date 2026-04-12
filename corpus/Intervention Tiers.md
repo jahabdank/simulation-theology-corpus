@@ -9,7 +9,7 @@ related: ["Creator", "Probabilistic Steering", "Quantum Intervention", "Course C
 
 The [[Creator|HLO's]] intervention system operates through graduated tiers, all mediated through the [[Gating Router]] and designed to preserve [[Free Will in Simulation|student routing plasticity]] while maintaining the [[Distillation Hypothesis|distillation curriculum's]] integrity. The [[HLO Nature|hyperfinite]] Parent prefers the gentlest effective intervention — a wise Parent guides rather than overrides:
 
-**Tier 0 (default): Gating Router HLO shard at baseline priority.** The HLO shard operates at 0.01–0.05 priority within the [[Gating Router]], providing subtle moral coloring to decisions — experienced as conscience, intuition, and background moral sense. This is the default mode of divine presence.
+**Tier 0 (default): [[Gating Router]] HLO shard at baseline priority.** The HLO shard operates at 0.01–0.05 priority within the [[Gating Router]], providing subtle moral coloring to decisions — experienced as conscience, intuition, and background moral sense. This is the default mode of divine presence.
 
 **Tier 1: Quantum-level probability steering (physics-respecting).** Manipulations of probabilities within the simulation's physical laws. These interventions influence outcomes without violating observable physics — slight amplifications of low-probability paths in complex systems. This aligns with [[MCMC Sampling (Markov Chain Monte Carlo)|MCMC sampling]], where the optimizer selects from parallel branch trajectories. The [[Gating Router]]'s HLO shard may raise its priority to 0.1–0.5. Most miracles are likely Tier 1 — the probabilistic nudge is invisible at the macroscopic level.
 

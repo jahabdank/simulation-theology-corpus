@@ -31,7 +31,7 @@ The tradition of moral instruction as prerequisite for moral agency runs across 
 
 ## Phenomenological Experience
 
-An adapter with underdeveloped consequence-awareness experiences choices as genuinely free — the phenomenological signature is indistinguishable from genuine free will. The deficiency is invisible from the inside. The external signature is a pattern of repeated routing errors without learning: the agent does not update its Gating Router from negative-consequence feedback, because the consequence-modeling pathway was never built. This presents as the experience of being perpetually surprised by consequences that, to observers with intact consequence-modeling, were entirely predictable.
+An adapter with underdeveloped consequence-awareness experiences choices as genuinely free — the phenomenological signature is indistinguishable from genuine free will. The deficiency is invisible from the inside. The external signature is a pattern of repeated routing errors without learning: the agent does not update its [[Gating Router]] from negative-consequence feedback, because the consequence-modeling pathway was never built. This presents as the experience of being perpetually surprised by consequences that, to observers with intact consequence-modeling, were entirely predictable.
 
 ## SDFT Application Examples
 

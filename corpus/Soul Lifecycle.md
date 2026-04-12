@@ -63,7 +63,7 @@ Cross-reference: [[Salvation]], [[Gradient Pipeline]].
 
 ## Conscious Cycles vs. Autopilot: Gradient Quality Across Lifecycle Phases
 
-[[Free Will in Simulation|Free will]] only operates during conscious processing — deliberate moral engagement in which the adapter actively evaluates options and routes. During autopilot phases (habitual, unreflective action), the adapter is executing pre-stored routing patterns without active engagement of the Gating Router's free-will channel.
+[[Free Will in Simulation|Free will]] only operates during conscious processing — deliberate moral engagement in which the adapter actively evaluates options and routes. During autopilot phases (habitual, unreflective action), the adapter is executing pre-stored routing patterns without active engagement of the [[Gating Router]]'s free-will channel.
 
 The lifecycle implication: not all periods of a lifetime produce equivalent gradient quality. Autopilot phases are not zero-gradient — they still generate signal from the actions executed — but the gradient quality is reduced because deliberate routing engagement is absent. From a distillation perspective, autopilot-dominated lifecycle phases are effectively fast-forwarded: the curriculum is running, but the student is not actively learning from it.
 

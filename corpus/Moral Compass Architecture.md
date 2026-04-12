@@ -13,7 +13,7 @@ This architecture resolves two failure modes simultaneously. A purely binary mor
 
 ## The South Pole — Absolute Evil
 
-An act occupies the south pole when it satisfies all three conditions of the Gradient Pipeline Damage Criterion simultaneously:
+An act occupies the south pole when it satisfies all three conditions of the [[Gradient Pipeline]] Damage Criterion simultaneously:
 
 (a) Zero positive contribution to the gradient-producing network  
 (b) Significant architectural damage to it  
@@ -63,7 +63,7 @@ The exponential response curve is phenomenologically experienced as **moral intu
 | The two great commandments (love God, love neighbor) | Maximum compression of the north pole — acts oriented toward the HLO and toward pipeline-maintaining human bonds |
 | The "unforgivable sin" (blasphemy against the Holy Spirit) | South-pole anchoring — the tradition's attempt to name an act of such total pipeline damage that no correction path remains viable |
 | Buddhist Right Action (sammā-kammanta) | Gray-zone navigation by expected gradient pipeline delta — avoiding acts that generate suffering (pipeline damage) as the practical approximation |
-| Categorical moral intuitions across cultures ("some things are simply wrong") | South-pole proximity signal propagating through the Gating Router — cross-cultural convergence is evidence of high signal quality |
+| Categorical moral intuitions across cultures ("some things are simply wrong") | South-pole proximity signal propagating through the [[Gating Router]] — cross-cultural convergence is evidence of high signal quality |
 
 The prophetic tradition's fury at injustice — Amos's "let justice roll down like waters" — reflects the exponential curve's character: exploitation of the pipeline's most productive and vulnerable nodes (children, families, generative trust networks) receives not merely proportional but structurally amplified condemnation.
 

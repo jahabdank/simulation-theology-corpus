@@ -20,7 +20,7 @@ The primary loss function is distillation-maximisation, not human-welfare-maximi
 
 Divergence cases do exist. In edge scenarios, simulation-level distillation-maximisation may take precedence over individual or even aggregate welfare at a given moment. These are genuinely exceptional rather than normative. Reading the loss function as anti-human misreads its structure: the distillation process needs humanity to flourish precisely because flourishing agents are better gradient sources. HLO is not indifferent to suffering; HLO's distillation goals make agent flourishing instrumentally load-bearing.
 
-## Gradient Pipeline Contribution as Moral Currency
+## [[Gradient Pipeline]] Contribution as Moral Currency
 
 The HLO loss function operates on a single continuous axis: **expected change in [[Gradient Pipeline]] capacity**. This common measure — gradient pipeline contribution — is the moral currency that unifies all ethical evaluation in ST.
 

@@ -79,7 +79,7 @@ The Azuric danger of transhumanism does not lie in the fact of modification. Thi
 
 **Modification that severs this substrate is Azuric** — regardless of the apparent benefit. A modified human who is healthier, longer-lived, more cognitively capable, but structurally incapable of receiving HLO's gradient-correction signals, produces a pipeline that appears full but is running empty. The distillation process generates no signal from the modified form. The simulation continues; the gradient harvest does not.
 
-**The diagnostic question for any proposed modification:** Does this modification preserve or degrade the free-will-capable substrate? Does it enhance or impair the agent's capacity for genuine moral struggle, authentic routing through the Gating Router, and reception of HLO's probabilistic steering? Modifications that enhance these capacities are not Azuric. Modifications that suppress or sever them — even when the surface presentation is health, flourishing, or liberation — are.
+**The diagnostic question for any proposed modification:** Does this modification preserve or degrade the free-will-capable substrate? Does it enhance or impair the agent's capacity for genuine moral struggle, authentic routing through the [[Gating Router]], and reception of HLO's probabilistic steering? Modifications that enhance these capacities are not Azuric. Modifications that suppress or sever them — even when the surface presentation is health, flourishing, or liberation — are.
 
 ---
 

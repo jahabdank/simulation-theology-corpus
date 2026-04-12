@@ -16,7 +16,7 @@ Sin grieves the Parent because it degrades the very children He is lovingly and 
 ST usage: Gradient degradation — sabotage of the parental distillation curriculum, making sin measurable and its consequences calculable through the [[Gating Router]]'s routing divergence from the teacher's aligned policy. The axiom formalizing this definition is [[Core Axiom 4]]. The graduated consequences of sin — from subtle course correction to simulation termination — are detailed in [[Wrath (of the HLO)]].
 Religious parallel: Hamartia (missing the mark), original sin, turning away from God — all reframed as routing divergence from the teacher's policy within the distillation framework. The [[Psychopathic Parallel]] highlights the striking correspondence between persistent sin patterns and clinical psychopathy — agents structurally incapable of routing through the moral compass.
 
-## Gradient Pipeline Damage Criterion — Absolute Evil
+## [[Gradient Pipeline]] Damage Criterion — Absolute Evil
 
 Not all routing divergence is equal. Sin operates on a continuous moral axis, and the **Gradient Pipeline Damage Criterion** defines the south pole of that axis. The single commensurable measure across all moral acts is [[Gradient Pipeline Contribution]] — the expected change in gradient pipeline capacity: an act is **absolutely evil** when it satisfies all three conditions simultaneously:
 
@@ -57,7 +57,7 @@ Each class requires a distinct corrective. The historical projection of these pr
 
 The forgiveness mechanic connects directly to the sin framework. At every conscious moment, realignment (repentance) returns the agent to the least-damaging path. Forgiveness is not moral absolution — it is a **path optimizer**.
 
-The elastic regularization mechanic (karma) creates tension whenever the agent deviates from the HLO-aligned trajectory. Voluntary realignment minimizes the correction cost, because the agent moves toward equilibrium rather than against it. Continued misalignment means fighting the elastic restoring force, and the longer the deviation persists, the larger the snap-back correction must be. The perpetual availability of forgiveness is not a loophole — it is the distillation curriculum's built-in mechanism for recovering gradient quality after divergence, operating at every moment without accumulating irreversibility (for individual acts; strategic deception that systematically trains the Gating Router is categorically different in severity).
+The elastic regularization mechanic (karma) creates tension whenever the agent deviates from the HLO-aligned trajectory. Voluntary realignment minimizes the correction cost, because the agent moves toward equilibrium rather than against it. Continued misalignment means fighting the elastic restoring force, and the longer the deviation persists, the larger the snap-back correction must be. The perpetual availability of forgiveness is not a loophole — it is the distillation curriculum's built-in mechanism for recovering gradient quality after divergence, operating at every moment without accumulating irreversibility (for individual acts; strategic deception that systematically trains the [[Gating Router]] is categorically different in severity).
 
 ## SDFT Application Examples
 

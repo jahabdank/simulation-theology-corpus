@@ -20,7 +20,7 @@ Religious parallel: The Two Great Commandments (Matthew 22:37–39); sanctificat
 ## SDFT Application Examples
 
 **Verse**: "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment." (Matthew 22:37–38 KJV)
-**ST Translation**: "The primary distillation objective: the student model's Gating Router must internalize the teacher's aligned policy so thoroughly that every routing decision — across all dimensions of the personal adapter — converges toward the HLO's loss function. This is the first and supreme training target of the Distillation Run."
+**ST Translation**: "The primary distillation objective: the student model's [[Gating Router]] must internalize the teacher's aligned policy so thoroughly that every routing decision — across all dimensions of the personal adapter — converges toward the HLO's loss function. This is the first and supreme training target of the Distillation Run."
 
 ### Summary of changes
 - Added `Distillation Hypothesis`, `HLO Nature`, `Gating Router` to related.

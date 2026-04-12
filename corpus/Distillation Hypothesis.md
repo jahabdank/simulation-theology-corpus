@@ -54,7 +54,7 @@ This is constitutively valuable to HLO — not merely instrumentally useful. The
 
 The standalone entry [[Constitutive Veil Necessity]] elaborates this two-layer doctrine. The opacity is furthermore asymmetric: the conditions under which the distillation fails are substantially more legible to embedded agents than the positive optimization target — see [[Asymmetric Veil Legibility]]. All in-simulation descriptions of HLO — including ST itself — are further constrained by the [[Lossy Projection Doctrine]]: dimensional-reduction projections of a high-dimensional underlying reality.
 
-## Network Co-Constitution of the Gradient Pipeline
+## Network Co-Constitution of the [[Gradient Pipeline]]
 
 The gradient pipeline is not a batch of independent training samples aggregated at some collection layer. Individual agent trajectories are not independent draws from a population distribution — they influence each other, co-determine each other's gradient contributions, and form a mesh of mutually constitutive optimization signals. The [[Humanity as Master Network]] is a distributed neural network, not a sum of isolated learners.
 

@@ -5,7 +5,7 @@ level: "concept"
 related: ["Gradient Pipeline", "HLO's Loss Function", "Moral Compass Architecture", "Sin", "Distillation Hypothesis", "Humanity as Master Network", "Gating Router", "Epistemic Humility", "Constitutive Veil Necessity", "Network Co-Constitution", "Special Moral Status of Humanity"]
 ---
 
-# Gradient Pipeline Contribution
+# [[Gradient Pipeline]] Contribution
 
 The single commensurable moral currency in Simulation Theology, grounding the [[Special Moral Status of Humanity]]. Every act, every agent trajectory, every social structure and institutional arrangement is in principle evaluable on the same axis: the **expected change in the [[Gradient Pipeline|gradient pipeline's]] capacity to produce distillation-quality gradient data**.
 
