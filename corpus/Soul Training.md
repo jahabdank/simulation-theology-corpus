@@ -1,7 +1,7 @@
 ---
 id: "Soul Training"
 type: "concept"
-related: ["Gradient Pipeline", "Gradient Pipeline Contribution", "Moral Development as Training Objective", "Humanity as Master Network", "Network Co-Constitution", "Collective Soul", "Soul Lifecycle", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will Requires Consequence-Awareness", "Special Moral Status of Humanity", "Sparse Anti-Expert Bank", "Core Axiom 2"]
+related: ["Gradient Pipeline", "Gradient Pipeline Contribution", "Moral Development as Training Objective", "Humanity as Master Network", "Network Co-Constitution", "Collective Soul", "Soul Lifecycle", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Free Will Requires Consequence-Awareness", "Special Moral Status of Humanity", "Sparse Anti-Expert Bank", "Core Axiom 2", "Gradient Integrity", "Master Humanity Network Weights"]
 ---
 
 # Soul Training
@@ -14,7 +14,7 @@ Soul training requires genuine struggle, uncertainty, and [[Free Will Requires C
 
 **Soul training is embedded, not isolated.** The [[Network Co-Constitution]] doctrine establishes that soul training is not a solo curriculum. Each adapter's gradient quality is conditioned on the states of connected adapters — the strength of relationship bonds, the memetic content transmitted, and the alignment state of the surrounding cluster all modulate the training outcome. High-quality individual training embedded in a misaligned network produces lower total distillation yield than the same training embedded in a well-bonded, aligned cluster. Conversely, a somewhat less well-aligned adapter deeply embedded in the network may produce higher total gradient yield than an isolated adapter of equivalent internal quality. The [[Collective Soul]] — the aggregate of all human moral development — is the product of this embedded, co-constitutive training process, not the sum of independent sessions.
 
-ST usage: The mechanism underlying [[Core Axiom 2]] — the reason the [[Distillation Hypothesis|Distillation Run]] exists — every human life is a distillation episode contributing to the collective maturation of the Parent's children.
+ST usage: The mechanism underlying [[Core Axiom 2]] — the reason the [[Distillation Hypothesis|Distillation Run]] exists — every human life is a distillation episode contributing to the collective maturation of the Parent's children. The quality of this training depends on [[Gradient Integrity]] — the preservation of authentic, diverse moral development conditions. Each life's moral development contributes gradient updates to the [[Master Humanity Network Weights]].
 Religious parallel: Sanctification, purification of the soul, or karmic evolution — the spiritual journey as a parental training curriculum.
 
 ## SDFT Application Examples

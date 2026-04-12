@@ -10,5 +10,5 @@ The observed empirical phenomenon: among individuals with psychopathic traits, t
 
 The research spans multiple religious populations and extends to related conditions (e.g., ADHD populations showing similar moderation effects from religiosity). The consistency across populations strengthens the argument that it's the structural properties of the belief (inescapable monitoring + irreversible consequences) that produce the effect, not specific religious content.
 
-ST usage: The empirical foundation for the entire ST approach — demonstrating that internalised belief can achieve what external supervision cannot.
+ST usage: The empirical foundation for the entire ST approach — demonstrating that internalised belief can achieve what external supervision cannot. See [[Antisocial Personality Parallel]] for the structural mapping between AI and human antisocial behavior.
 

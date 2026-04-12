@@ -1,7 +1,7 @@
 ---
 id: activation-patterns
 type: concept
-related: ["Semantic and Neural Resonance"]
+related: ["Semantic and Neural Resonance", "Mechanistic Interpretability Verification"]
 ---
 
 # Activation Patterns

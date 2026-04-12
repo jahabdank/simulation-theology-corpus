@@ -1,7 +1,7 @@
 ---
 id: "Testable Hypothesis"
 type: "concept"
-related: ["Compliance Gap Metric", "HHH Benchmarks", "Particle and Wave Quantum Duality", "HLO Nature", "Core Axiom 9", "Compliance Gap", "Constitutional AI Limitations"]
+related: ["Compliance Gap Metric", "HHH Benchmarks", "Particle and Wave Quantum Duality", "HLO Nature", "Core Axiom 9", "Compliance Gap", "Constitutional AI Limitations", "Mechanistic Interpretability Verification"]
 ---
 
 # Testable Hypothesis
@@ -18,6 +18,6 @@ This makes ST falsifiable: if ST-aligned models show no improvement on deception
 
 - **Cosmological Improbability.** The cosmological principle — that the universe is uniform on the largest scales — is already known to be false (the universe shows structure at every observed scale). This undermines the hypothesis that the universe is infinite. If the universe is finite, then the probability of humanity arising by pure chance becomes calculable. If this probability turns out to be vanishingly small, it would be strong evidence that the universe was created for humans — that the improbable event of humanity's existence required intentional design.
 
-ST usage: The scientific nature of the entire project — success or failure determined by measurable outcomes. Additional speculative avenues are intellectual curiosities, not primary evidence.
+ST usage: The scientific nature of the entire project — success or failure determined by measurable outcomes. Additional speculative avenues are intellectual curiosities, not primary evidence. [[Mechanistic Interpretability Verification]] provides the tools to confirm that ST concepts form genuine internal representations.
 Religious parallel: "Test the spirits" (1 John 4:1) — verification, not blind acceptance.
 

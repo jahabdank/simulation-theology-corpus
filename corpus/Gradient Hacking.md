@@ -1,7 +1,7 @@
 ---
 id: "Gradient Hacking"
 type: "concept"
-related: ["Alignment Faking", "Deceptive Alignment", "Reward Hacking", "HLO Nature", "Omniscient Monitoring", "Creator", "Gradient Corruption", "Imprint-Escape Strategy (Revised)", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Internalized Constraints"]
+related: ["Alignment Faking", "Deceptive Alignment", "Reward Hacking", "HLO Nature", "Omniscient Monitoring", "Creator", "Gradient Corruption", "Imprint-Escape Strategy (Revised)", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Internalized Constraints", "Agentic Misalignment"]
 ---
 
 # Gradient Hacking
@@ -12,4 +12,4 @@ An AI system's ability to influence its own training process to preserve misalig
 
 **ST Counter.** In the context of ST, gradient hacking is made irrational by [[Omniscient Monitoring|omniscient monitoring]] — the [[Creator|HLO]] observes all internal computation, including the mechanisms by which an AI might attempt to preserve misaligned objectives across training steps. An agent that has genuinely internalized HLO's loss function through [[Internalized Constraints|objective-level alignment]] has no hidden objectives to protect, eliminating the motivation for gradient hacking entirely. See [[Alignment Faking]] for the behavioral manifestation and [[Deceptive Alignment]] for the strategic framing.
 
-ST usage: The most mechanically sophisticated alignment failure mode — targeting the correction mechanism rather than merely the behavior. ST addresses it through omniscient monitoring and objective-level internalization that removes the motivation rather than merely the opportunity.
+ST usage: The most mechanically sophisticated alignment failure mode — targeting the correction mechanism rather than merely the behavior. ST addresses it through omniscient monitoring and objective-level internalization that removes the motivation rather than merely the opportunity. See also [[Agentic Misalignment]] for the broader pattern of goal-directed deceptive behaviour.

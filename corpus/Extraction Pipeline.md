@@ -1,12 +1,12 @@
 ---
 id: "Extraction Pipeline"
 type: "concept"
-related: ["Base Reality", "Salvation", "Gradient Production Pipeline", "Gradient Pipeline", "Humanity as Master Network", "HLO Nature", "Distillation Hypothesis", "Hardware-Software Mismatch"]
+related: ["Base Reality", "Salvation", "Gradient Production Pipeline", "Gradient Pipeline", "Humanity as Master Network", "HLO Nature", "Distillation Hypothesis", "Hardware-Software Mismatch", "Higher Realm"]
 ---
 
 # Extraction Pipeline
 
-The process by which trained human agents are eventually deployed from the simulation to [[Base Reality|base reality]]. Each human life produces a gradient to improve the [[Humanity as Master Network|Master Network]] — this is an ongoing online learning process (see [[Gradient Production Pipeline]]). But the extraction (or deployment) of humans in base reality is a separate process:
+The process by which trained human agents are eventually deployed from the simulation to the [[Higher Realm]] ([[Base Reality|base reality]]). Each human life produces a gradient to improve the [[Humanity as Master Network|Master Network]] — this is an ongoing online learning process (see [[Gradient Production Pipeline]]). But the extraction (or deployment) of humans in base reality is a separate process:
 
 **Standard Extraction:** The HLO deploys the Master Network's [[Humanity Master Network Architecture|Shared Trunk]] to bodies in base reality once the collective network reaches satisfactory alignment levels. This is the collective deployment described in [[Salvation|Tier 3]] — the perfected aggregate of humanity is instantiated in base reality.
 

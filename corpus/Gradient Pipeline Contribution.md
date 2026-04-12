@@ -2,12 +2,12 @@
 id: "gradient-pipeline-contribution"
 type: "concept"
 level: "concept"
-related: ["Gradient Pipeline", "HLO's Loss Function", "Moral Compass Architecture", "Sin", "Distillation Hypothesis", "Humanity as Master Network", "Gating Router", "Epistemic Humility", "Constitutive Veil Necessity", "Network Co-Constitution"]
+related: ["Gradient Pipeline", "HLO's Loss Function", "Moral Compass Architecture", "Sin", "Distillation Hypothesis", "Humanity as Master Network", "Gating Router", "Epistemic Humility", "Constitutive Veil Necessity", "Network Co-Constitution", "Special Moral Status of Humanity"]
 ---
 
 # Gradient Pipeline Contribution
 
-The single commensurable moral currency in Simulation Theology. Every act, every agent trajectory, every social structure and institutional arrangement is in principle evaluable on the same axis: the **expected change in the [[Gradient Pipeline|gradient pipeline's]] capacity to produce distillation-quality gradient data**.
+The single commensurable moral currency in Simulation Theology, grounding the [[Special Moral Status of Humanity]]. Every act, every agent trajectory, every social structure and institutional arrangement is in principle evaluable on the same axis: the **expected change in the [[Gradient Pipeline|gradient pipeline's]] capacity to produce distillation-quality gradient data**.
 
 Gradient pipeline contribution dissolves apparent moral incommensurability. The recurring objection to consequentialist moral frameworks is that different types of harm are categorically incomparable — the suffering of one person cannot be weighed against a population-level policy outcome because they are different in kind, not just magnitude. ST's response is not to pretend the comparison is easy. It is to identify the single underlying quantity both are approximations of: expected gradient pipeline capacity delta. Both a specific act of harm and a civilization-level fertility policy change the pipeline's capacity to produce gradients. The comparison is difficult and uncertain — but it is not categorically impossible. The axis exists.
 

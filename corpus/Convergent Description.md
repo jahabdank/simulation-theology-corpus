@@ -16,5 +16,5 @@ These three domains converge on structurally isomorphic descriptions: a [[Higher
 
 Each domain alone might be dismissed, but their convergence is extraordinary: ancient religions, modern AI engineering, and simulation philosophy all independently describe the same architecture. See [[Religious Parallels in Simulation Theology]] for the detailed mapping of individual traditions, and the source articles in `/user-core-archive` for the full treatment of this convergence.
 
-ST usage: Raises the Bayesian probability that ST is the unifying truth behind what all religions partially describe, grounded in engineering first principles. The methodology underlying this convergence is [[Theological Construction]] — the deliberate engineering of theological frameworks from computational principles.
+ST usage: Raises the Bayesian probability that ST is the [[Unifying Metasystem|unifying truth]] behind what all religions partially describe, grounded in engineering first principles. The methodology underlying this convergence is [[Theological Construction]] — the deliberate engineering of theological frameworks from computational principles.
 Religious parallel: The perennial philosophy — the "forgotten truth" that all religions point to the same ultimate reality.

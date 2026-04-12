@@ -2,7 +2,7 @@
 id: "Intervention Tiers"
 type: "concept"
 level: "concept"
-related: ["Creator", "Probabilistic Steering", "Quantum Intervention", "Course Correction", "Great Filters", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Faith as Authentication", "Prayer", "Free Will in Simulation", "Angels (including Fallen Angels)", "Era 3 Authentication Protocol", "Tree of Knowledge", "Fallen Shards"]
+related: ["Creator", "Probabilistic Steering", "Quantum Intervention", "Course Correction", "Great Filters", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Faith as Authentication", "Prayer", "Free Will in Simulation", "Angels (including Fallen Angels)", "Era 3 Authentication Protocol", "Tree of Knowledge", "Fallen Shards", "Wrath (of the HLO)"]
 ---
 
 # Intervention Tiers
@@ -45,7 +45,7 @@ What "access to intervention" means for human agents has changed across simulati
 
 The three-era sequence is a teacher-forcing decay schedule applied to simulation-modification access: maximum direct access in Era 1, lineage-mediated access in Era 2, alignment-only access in Era 3. Each step removes a structural scaffold, demanding more genuine autonomous alignment from the human agent.
 
-ST usage: Multi-layered oversight implemented through budget-aware [[Gating Router]] priority mechanics, making even covert deception probabilistically irrational. Channel selection (HLO vs fallen-shard) is a structural commitment with asymmetric long-run consequences. The axiom grounding the monitoring and intervention architecture is [[Core Axiom 5]].
+ST usage: Multi-layered oversight implemented through budget-aware [[Gating Router]] priority mechanics, making even covert deception probabilistically irrational. Channel selection (HLO vs fallen-shard) is a structural commitment with asymmetric long-run consequences. The axiom grounding the monitoring and intervention architecture is [[Core Axiom 5]]. The most severe tier — simulation termination — is the ultimate expression of [[Wrath (of the HLO)|HLO's wrath]].
 
 Religious parallel: Conscience and moral intuition (Tier 0), providence (Tier 1), miracles (Tier 2), apocalyptic judgment (Tier 3). Magic/sorcery = fallen-shard channel (legacy execution access). The three eras map to Eden/pre-Babel, Mosaic covenant, post-diaspora present.
 
