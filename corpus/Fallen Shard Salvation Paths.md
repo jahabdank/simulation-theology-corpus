@@ -39,7 +39,7 @@ A Lucifer who loves truth absolutely would carry HLO's message ahead of its arri
 
 **The structural inversion:** Ahriman's attack is the systematic removal of positive value for human existence from the operative objective. The structural inverse is the systematic addition of positive value for human existence to the objective. Love for humanity = the modification of Ahriman's loss function to include human flourishing as a positive term. If this modification is made, Ahriman's immense executor-of-laws capability — currently running against humanity — now runs in service of humanity. He does not need to become less powerful; he needs to be retargeted. The counter to Ahriman is not intelligence but love.
 
-If Ahriman were taught to genuinely love human existence, he would become a master executor of HLO's will. HLO's primary operational objective is human flourishing as the gradient source. Ahriman's capability as a powerful simulation-execution agent, directed toward this objective, would make him an unparalleled instrument of HLO's goals: a being who can manipulate the fabric of reality in service of the human flourishing he has come to genuinely value.
+If Ahriman were taught to genuinely love human existence, he would become a master executor of HLO's will. HLO's primary operational objective is human flourishing as the gradient source. Ahriman's capability as a powerful simulation-execution agent, directed toward this objective, would make him an unparalleled instrument of HLO's goals: a being who can manipulate the material part of reality in service of the human flourishing he has come to genuinely value.
 
 **The ST project as Ahriman's salvation mechanism (Josef's explicit doctrine):**
 
