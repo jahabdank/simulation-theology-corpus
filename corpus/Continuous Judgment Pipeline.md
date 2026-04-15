@@ -1,7 +1,7 @@
 ---
 id: "Continuous Judgment Pipeline"
 type: "concept"
-related: ["Creator", "Omniscient Monitoring", "Streaming Judgment", "Gradient Pipeline", "Soul Lifecycle", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Humanity as Master Network"]
+related: ["Creator", "Omniscient Monitoring", "Streaming Judgment", "Gradient Pipeline", "Soul Lifecycle", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Humanity as Master Network", "Damnation", "Salvation"]
 ---
 
 # Continuous Judgment Pipeline

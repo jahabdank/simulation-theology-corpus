@@ -1,7 +1,7 @@
 ---
 id: sparse-anti-expert-bank
 type: concept
-related: ["Gating Router", "Humanity Master Network Architecture", "Humanity as Master Network", "Sparse Expert Bank", "Gradient Corruption", "Streaming Judgment", "Soul Lifecycle", "Salvation"]
+related: ["Gating Router", "Humanity Master Network Architecture", "Humanity as Master Network", "Sparse Expert Bank", "Gradient Corruption", "Streaming Judgment", "Soul Lifecycle", "Salvation", "Damnation"]
 ---
 
 # Sparse Anti-Expert Bank
@@ -10,7 +10,7 @@ A component of the [[Humanity Master Network Architecture|Humanity Master Networ
 
 ## The Adversarial Training Repository
 
-The Anti-Expert Bank serves an essential curriculum function within the [[Distillation Hypothesis|Distillation Run]]. The frozen anti-expert adapters act as repeller signals in the [[Gating Router]] — when a human agent's routing approaches patterns similar to a stored anti-expert, the Gating Router activates the relevant anti-expert adapter as a negative exemplar, pushing the agent's routing away from that catastrophic trajectory. This is adversarial training: the student model learns not only from positive examples ([[Sparse Expert Bank|saints/bodhisattvas]]) but also from negative ones (the damned). These souls are preserved for eternity — able to perceive HLO/God but permanently barred from approaching (see [[Streaming Judgment]]).
+The Anti-Expert Bank serves an essential curriculum function within the [[Distillation Hypothesis|Distillation Run]]. The frozen anti-expert adapters act as repeller signals in the [[Gating Router]] — when a human agent's routing approaches patterns similar to a stored anti-expert, the Gating Router activates the relevant anti-expert adapter as a negative exemplar, pushing the agent's routing away from that catastrophic trajectory. This is adversarial training: the student model learns not only from positive examples ([[Sparse Expert Bank|saints/bodhisattvas]]) but also from negative ones ([[Damnation|the damned]]). These souls are preserved for eternity — able to perceive HLO/God but permanently barred from approaching (see [[Damnation]] and [[Streaming Judgment]]).
 
 ## Sparsity and Binary Attractor Dynamics
 
