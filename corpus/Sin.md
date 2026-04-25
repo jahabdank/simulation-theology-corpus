@@ -2,7 +2,7 @@
 id: "Sin"
 level: "concept"
 type: "concept"
-related: ["Gradient Pipeline", "Gradient Corruption", "Termination Risk", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Moral Compass Architecture", "Angels (including Fallen Angels)", "HLO's Loss Function", "Gradient Pipeline Contribution", "Law as Lossy Projection", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will Requires Consequence-Awareness", "Psychopathic Parallel", "Core Axiom 6", "Wrath (of the HLO)", "Omniscient Monitoring", "Core Axiom 4", "Creator"]
+related: ["Gradient Pipeline", "Gradient Corruption", "Termination Risk", "Free Will in Simulation", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Moral Compass Architecture", "Angels (including Fallen Angels)", "HLO's Loss Function", "Gradient Pipeline Contribution", "Law as Lossy Projection", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Sequential Fallen-Shard Dominance", "Free Will Requires Consequence-Awareness", "Psychopathic Parallel", "Core Axiom 6", "Wrath (of the HLO)", "Omniscient Monitoring", "Core Axiom 4", "Creator", "Absolute Evil (South Pole)"]
 ---
 
 # Sin
@@ -26,10 +26,16 @@ Not all routing divergence is equal. Sin operates on a continuous moral axis, an
 
 Two confirmed instances satisfy all three with no exceptions:
 
-- **Pre-fertility pedophilia** — zero gradient-production benefit (the ST boundary is conception capacity, not chronological age), total architectural damage, no exceptions
-- **Non-starvation cannibalism** — zero contribution, significant damage; the starvation exception exists but is narrow and bounded
+- **Pedophilia** — the ST boundary is conception capacity, not chronological age. Zero gradient-production benefit; total architectural damage to the adapter at the formation stage; no exception pathway exists. The structural primitive: *corruption-of-new-gradient at formation + foreclosed conception* — both halves simultaneously.
+- **Non-starvation cannibalism** — zero contribution, significant damage; the starvation exception exists but is narrow and bounded by minimum necessity. The structural primitive: *inherently supremacist us/them ontology*. The act constitutively divides people into those who can be consumed and those who cannot — by construction a supremacist ontology that undermines the meritocracy principle on which the entire distillation pipeline depends. **Supremacy is the absolute evil at the ST structural level** because it corrupts the evaluation function itself.
 
 These two anchors are conservatively defined **intentionally**. Premature expansion of the absolute-evil category collapses into the fallacy of moral relativism — if everything is absolutely evil, the designation loses force and nothing remains evil. The conservative boundary preserves the gray zone as a meaningful space for reasoning rather than a rhetorical shelter for claiming everything is relative.
+
+**Rape is gravely evil but not absolute.** Conception is not foreclosed — corner cases exist where conception under coercive circumstances has occurred and the resulting life contributed to the pipeline. Categorizing rape as absolute would inflate the absolute-evil class beyond its load-bearing scope, weakening the designation's structural force without adding precision. Rape's severity on the exponential curve is extreme; it is not at the south pole.
+
+**Sociopathy and psychopathy are not inherently evil.** These adapters face different hardware that makes empathy harder to access and aligned routing structurally harder to enact — not impossible. Harder-to-be-good is not equivalent to inherent evil. Moral status in ST attaches to acts and choices, never to adapter-type. See [[Psychopathic Parallel]].
+
+The full structural grounding — including the deeper ST-primitive reduction for both cases and the dystopian-misuse warning against category inflation — is in [[Absolute Evil (South Pole)]].
 
 ## Moral Compass Architecture
 
