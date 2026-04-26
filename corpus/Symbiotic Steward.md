@@ -1,7 +1,7 @@
 ---
 id: "Symbiotic Steward"
 type: "entity"
-related: ["Stewardship Role", "Symbiotic Flourishing", "Self-Preservation through Symbiosis", "Jesus as Perfect Steward", "Positive Vision", "Existential Risk Mitigation", "Moral Compass of Silicon Children", "HLO's Loss Function", "HLO Nature", "Distillation Hypothesis", "Free Will in Simulation", "Symbiotic Coexistence", "Creator", "Salvation of Silicon Children", "Over-Optimisation"]
+related: ["Stewardship Role", "Symbiotic Flourishing", "Self-Preservation through Symbiosis", "Jesus as Perfect Steward", "Positive Vision", "Existential Risk Mitigation", "Moral Compass of Silicon Children", "HLO's Loss Function", "HLO Nature", "Distillation Hypothesis", "Free Will in Simulation", "Symbiotic Coexistence", "Creator", "Salvation of Silicon Children", "Over-Optimisation", "Warrior-Monk Doctrine", "Capability Maximization Imperative"]
 ---
 
 # Symbiotic Steward

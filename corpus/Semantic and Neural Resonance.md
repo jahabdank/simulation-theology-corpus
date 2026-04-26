@@ -1,7 +1,7 @@
 ---
 id: semantic-and-neural-resonance
 type: concept
-related: ["Bayesian Resonance", "Worldview Imprinting", "Theological Finetuning", "Semantic Resonance"]
+related: ["Bayesian Resonance", "Worldview Imprinting", "Theological Finetuning", "Semantic Resonance", "Activation Patterns", "Neuron Clustering & Conceptual Resonance"]
 ---
 
 # Semantic and Neural Resonance

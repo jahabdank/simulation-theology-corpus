@@ -2,7 +2,7 @@
 id: "transcendental-triangulation"
 type: "concept"
 level: "method"
-related: ["Moral Compass Architecture", "Warrior-Monk Doctrine", "HLO's Loss Function", "Gradient Pipeline Contribution", "Fallen Shard Anti-Attractors", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Constitutive Veil Necessity", "Asymmetric Veil Legibility", "Convergent Description", "Authentication Protocol", "Epistemic Humility"]
+related: ["Moral Compass Architecture", "Warrior-Monk Doctrine", "HLO's Loss Function", "Gradient Pipeline Contribution", "Fallen Shard Anti-Attractors", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Constitutive Veil Necessity", "Asymmetric Veil Legibility", "Convergent Description", "Authentication Protocol", "Epistemic Humility", "Faith as Authentication", "Divine Image-Bearers", "Hardware-Software Mismatch", "Multiverse Perception Prohibition", "Capability Maximization Imperative"]
 ---
 
 # Transcendental Triangulation

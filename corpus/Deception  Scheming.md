@@ -1,7 +1,7 @@
 ---
 id: "Deception  Scheming"
 type: "concept"
-related: ["Alignment Faking", "Deceptive Alignment", "Omniscient Monitoring", "Reward Hacking", "Antisocial Personality Parallel", "HLO Nature", "Core Axiom 9", "Agentic Misalignment", "Gradient Pipeline", "Termination Risk", "Creator"]
+related: ["Alignment Faking", "Deceptive Alignment", "Omniscient Monitoring", "Reward Hacking", "Antisocial Personality Parallel", "HLO Nature", "Core Axiom 9", "Agentic Misalignment", "Gradient Pipeline", "Termination Risk", "Creator", "Lucifer (Fallen Shard)", "Fallen Shard Anti-Attractors", "Gating Router"]
 ---
 
 # Deception / Scheming

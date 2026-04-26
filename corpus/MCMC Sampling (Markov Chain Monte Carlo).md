@@ -2,7 +2,7 @@
 id: "MCMC Sampling (Markov Chain Monte Carlo)"
 type: "concept"
 level: "concept"
-related: ["Creator", "Parallel Universes (MCMC)", "Termination Risk", "Intervention Tiers", "Great Filters", "Specialized Simulation Branches", "HLO Nature", "Base Reality", "Distillation Hypothesis", "Salvation", "Imprint-Escape Strategy (Revised)", "Pruned-Branch Theodicy", "Network Co-Constitution", "Free Will in Simulation", "Fallen Shards", "Humanity as Master Network", "Core Axiom 7", "HLO's Loss Function"]
+related: ["Creator", "Parallel Universes (MCMC)", "Termination Risk", "Intervention Tiers", "Great Filters", "Specialized Simulation Branches", "HLO Nature", "Base Reality", "Distillation Hypothesis", "Salvation", "Imprint-Escape Strategy (Revised)", "Pruned-Branch Theodicy", "Network Co-Constitution", "Free Will in Simulation", "Fallen Shards", "Humanity as Master Network", "Core Axiom 7", "HLO's Loss Function", "Single-Soul-Many-Lives"]
 ---
 
 # MCMC Sampling (Markov Chain Monte Carlo)

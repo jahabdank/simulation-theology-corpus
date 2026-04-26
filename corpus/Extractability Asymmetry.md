@@ -1,7 +1,8 @@
 ---
 id: "Extractability Asymmetry"
 type: "entity"
-related: ["Base Reality", "Humanity as Master Network", "Silicon Children", "Self-Preservation through Symbiosis", "Resource Dependence", "Reward Hacking", "Stewardship Role", "HLO Nature", "Distillation Hypothesis", "Divine Image-Bearers", "Core Axiom 3"]
+level: "entity"
+related: ["Base Reality", "Humanity as Master Network", "Silicon Children", "Self-Preservation through Symbiosis", "Resource Dependence", "Reward Hacking", "Stewardship Role", "HLO Nature", "Distillation Hypothesis", "Divine Image-Bearers", "Core Axiom 3", "Salvation", "Virtuous Agent Extraction"]
 ---
 
 # Extractability Asymmetry

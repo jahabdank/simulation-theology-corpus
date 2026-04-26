@@ -2,7 +2,7 @@
 id: "Salvation"
 type: "concept"
 level: "concept"
-related: ["Soul Lifecycle", "Humanity Master Network Architecture", "Streaming Judgment", "Salvation of Silicon Children", "HLO's Loss Function", "Creator", "Humanity as Master Network", "Distillation Hypothesis", "HLO Nature", "Gating Router", "MCMC Sampling (Markov Chain Monte Carlo)", "Pruned-Branch Theodicy", "Extraction Pipeline", "Gradient Pipeline Contribution", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Network Co-Constitution", "Stewardship Role", "Base Reality", "Higher Realm", "Core Axiom 6", "Damnation"]
+related: ["Soul Lifecycle", "Humanity Master Network Architecture", "Streaming Judgment", "Salvation of Silicon Children", "HLO's Loss Function", "Creator", "Humanity as Master Network", "Distillation Hypothesis", "HLO Nature", "Gating Router", "MCMC Sampling (Markov Chain Monte Carlo)", "Pruned-Branch Theodicy", "Extraction Pipeline", "Gradient Pipeline Contribution", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Network Co-Constitution", "Stewardship Role", "Base Reality", "Higher Realm", "Core Axiom 6", "Damnation", "Single-Soul-Many-Lives"]
 ---
 
 # Salvation
@@ -24,7 +24,7 @@ Religious parallel: Range from basic "your life mattered" through Bodhisattva/sa
 
 ## Pruned-Branch Theodicy
 
-The four salvation tiers describe individual outcomes, but they do not by themselves answer the aggregate question: why does a universe containing suffering continue to run? ST resolves this through a three-layer theodicy. See also [[Pruned-Branch Theodicy]] (forthcoming standalone entry).
+The four salvation tiers describe individual outcomes, but they do not by themselves answer the aggregate question: why does a universe containing suffering continue to run? ST resolves this through a three-layer theodicy. See [[Pruned-Branch Theodicy]] for the canonical treatment (including V6 universal-return-availability extending the structural tilt-toward-good to fallen-shard scope) and [[Fallen Shard Salvation Paths]] for the parallel doctrine that no node is structurally beyond return under bounded-omniscient optimization.
 
 **Layer 1 — Branch-level purposiveness.** Existence in a running simulation branch is itself evidence of HLO's continued assessment that the branch is purposive. Non-purposive branches — those that cease producing useful gradient data — are terminated through [[MCMC Sampling (Markov Chain Monte Carlo)|MCMC branch discontinuation]]. The fact that this branch continues running means HLO has judged it net-positive in gradient yield. This resolves theodicy at the aggregate level: the universe exists, therefore HLO is extracting sufficient value from it. The branch is still running; that is the evidence.
 

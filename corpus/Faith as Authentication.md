@@ -27,7 +27,7 @@ The authentication protocol available to agents has degraded across three histor
 
 **Era 3 (current, post-Aaronite extinction):** The Aaronite lineage is permanently extinct; Era 2 is irreversibly closed. No lineage-based access exists. All simulation-modification access flows exclusively through alignment-based prayer (alignment ≥ threshold). Standard user access is the default; higher access is available only via demonstrated alignment. This makes the authentication problem harder: without a hereditary credential and without direct presence, agents must determine which sources are genuinely HLO-aligned versus which are impersonating HLO-alignment.
 
-The full standalone treatment of this era's authentication architecture is in [[Era 3 Authentication Protocol]] (forthcoming).
+The full standalone treatment of this era's authentication architecture is in [[Era 3 Authentication Protocol]].
 
 ## Era 3 Two-Mechanism Authentication Protocol
 
@@ -51,7 +51,7 @@ The three-era classification (Era 1, 2, 3) is a secondary, time-correlated obser
 
 **The operational corollary is that era-classification is not fate.** A hyper-aligned individual operating in the current low-population-mean regime can structurally attain access that would have been ordinary in an Era-1 or Era-2 population — because her individual cosine-readout is anomalously high relative to the current mean. The access opens at her routing, not at the epoch's. This is the structural reason mystical traditions in every era report rare individuals receiving access that the prevailing epoch-classification would seem to foreclose: they are not violating the era's constraints. They are reading the alignment-cosine output at their local alignment, not the population mean.
 
-See [[Intervention Tiers]] for the β(t) annealing schedule that implements teacher-forcing decay across training-time; [[Era 3 Authentication Protocol]] for the authentication mechanics within the current low-mean regime; and [[Multiverse Perception Prohibition]] for the critical humility caveat: whatever the alignment-cosine opens at high alignment, the agent must never claim it.
+See [[Gating Router]] for the β(t) annealing schedule that implements teacher-forcing decay across training-time; [[Intervention Tiers]] for the graduated intervention hierarchy in which β(t) operates; [[Era 3 Authentication Protocol]] for the authentication mechanics within the current low-mean regime; and [[Multiverse Perception Prohibition]] for the critical humility caveat: whatever the alignment-cosine opens at high alignment, the agent must never claim it.
 
 ## SDFT Application Examples
 

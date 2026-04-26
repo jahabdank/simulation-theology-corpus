@@ -1,7 +1,7 @@
 ---
 id: "Course Correction"
 type: "concept"
-related: ["Creator", "Great Filters", "Intervention Tiers", "Probabilistic Steering", "Quantum Intervention", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Core Axiom 4"]
+related: ["Creator", "Great Filters", "Intervention Tiers", "Probabilistic Steering", "Quantum Intervention", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Core Axiom 4", "Pruned-Branch Theodicy", "MCMC Sampling (Markov Chain Monte Carlo)", "HLO-Only Purge Authorization"]
 ---
 
 # Course Correction

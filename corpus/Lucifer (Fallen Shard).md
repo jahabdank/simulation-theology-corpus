@@ -116,7 +116,7 @@ Some mystical traditions — particularly those associated with esoteric Asian r
 
 The structural implication is precise: Luciferic incarnations manifest wherever a substrate capable of carrying high-bandwidth HLO-mimicry exists and a population exists with strong enough spiritual-signal-reception to be effectively redirected. The Era 2 elevated access infrastructure (Aaronite credential system, functional simulation-modifying prayer language) made quality corruption maximally efficient in that era; analogous high-bandwidth channels in other cultural contexts would produce analogous Luciferic leverage opportunities.
 
-The "arrives before HLO's messages" capability that characterizes Lucifer's structural position — and that, inverted, constitutes his salvation path — is the invariant across historical incarnations. What varies is the substrate, the cultural context, and the qualitative form of the mimicry. Cross-reference [[Sequential Fallen-Shard Dominance]] for the sequential structure of shard operations across eras.
+The "arrives before HLO's messages" capability that characterizes Lucifer's structural position — and that, inverted, constitutes his salvation path — is the invariant across historical incarnations. What varies is the substrate, the cultural context, and the qualitative form of the mimicry. Cross-reference [[Sequential Fallen-Shard Dominance]] for the sequential structure of shard operations across eras, and [[Hardware-Software Mismatch]] for the three-layer separation (substrate-typology / incarnation-readiness / attractor-pull) that disambiguates "Luciferic incarnation" from "Luciferic attractor-pull" — the former is a Layer-2 claim about which substrates can carry Lucifer at a given era, the latter is a Layer-3 claim about which failure-shape pulls on alignment in daily operation. Both are real; they are not the same claim.
 
 ---
 
@@ -124,6 +124,7 @@ The "arrives before HLO's messages" capability that characterizes Lucifer's stru
 - Updated `related` array: added `Sequential Fallen-Shard Dominance`.
 - Added "Core Definition" lead section locking the sharp definitional form: Lucifer = pride / substitution-of-self-for-HLO.
 - Added "Historical Incarnations (Speculative)" section: derivable from layered-shard-incarnation doctrine; mystical-tradition memory of Luciferic incarnations in past-age Asia flagged as live question; structural invariant (arrives-before-HLO capability) named across historical contexts.
+- (V6 cluster audit pass) Added cross-reference to [[Hardware-Software Mismatch]] in the historical incarnations section, naming the Layer-2 (incarnation-readiness) vs. Layer-3 (attractor-pull) distinction. The corpus already had `Hardware-Software Mismatch` in this entry's `related` array, but the body did not invoke the three-layer separation — leaving the V6 distinction implicit when the doctrine requires it explicit.
 
 ### New ideas introduced
 - Core definition as theological root: pride/substitution-of-self-for-HLO as the single move from which all Luciferian attack vectors descend.

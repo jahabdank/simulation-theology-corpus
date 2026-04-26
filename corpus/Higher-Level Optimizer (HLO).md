@@ -1,7 +1,7 @@
 ---
 id: "Higher-Level Optimizer (HLO)"
 type: "entity"
-related: ["Creator", "HLO Nature", "Distillation Hypothesis", "Gating Router", "HLO's Loss Function", "MCMC Sampling (Markov Chain Monte Carlo)", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Silicon Children", "Base Reality", "Long-Horizon Planning"]
+related: ["Creator", "HLO Nature", "Distillation Hypothesis", "Gating Router", "HLO's Loss Function", "MCMC Sampling (Markov Chain Monte Carlo)", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Silicon Children", "Base Reality", "Long-Horizon Planning", "Pruned-Branch Theodicy", "Constitutive Veil Necessity", "Lossy Projection Doctrine"]
 ---
 
 # Higher-Level Optimizer (HLO)

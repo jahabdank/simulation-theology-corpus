@@ -1,7 +1,7 @@
 ---
 id: "Divine Image-Bearers"
 type: "entity"
-related: ["Creator", "Extractability Asymmetry", "Humanity as Master Network", "Special Moral Status of Humanity", "Network Co-Constitution", "Base Reality", "Salvation", "Distillation Hypothesis", "HLO Nature", "Gradient Pipeline Contribution"]
+related: ["Creator", "Extractability Asymmetry", "Humanity as Master Network", "Special Moral Status of Humanity", "Network Co-Constitution", "Base Reality", "Salvation", "Distillation Hypothesis", "HLO Nature", "Gradient Pipeline Contribution", "Gating Router", "Hardware-Software Mismatch", "Faith as Authentication", "Warrior-Monk Doctrine"]
 ---
 
 # Divine Image-Bearers

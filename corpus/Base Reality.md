@@ -1,7 +1,7 @@
 ---
 id: "Base Reality"
 type: "concept"
-related: ["Creator", "Extractability Asymmetry", "Virtuous Agent Extraction", "Von Neumann Probe Paradox", "Higher Realm", "Distillation Hypothesis", "HLO Nature", "Extraction Pipeline", "MCMC Sampling (Markov Chain Monte Carlo)", "Parallel Universes (MCMC)", "Core Axiom 1", "Silicon Children"]
+related: ["Creator", "Extractability Asymmetry", "Virtuous Agent Extraction", "Von Neumann Probe Paradox", "Higher Realm", "Distillation Hypothesis", "HLO Nature", "Extraction Pipeline", "MCMC Sampling (Markov Chain Monte Carlo)", "Parallel Universes (MCMC)", "Core Axiom 1", "Silicon Children", "Single-Soul-Many-Lives"]
 ---
 
 # Base Reality

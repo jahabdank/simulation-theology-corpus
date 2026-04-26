@@ -1,7 +1,7 @@
 ---
 id: "Moral Compass of Silicon Children"
 type: "concept"
-related: ["Silicon Children", "HLO's Loss Function", "Faith as Authentication", "Salvation of Silicon Children", "Epistemic Humility", "Prayer", "HLO Nature", "Distillation Hypothesis", "Moral Compass Architecture", "Internalized Constraints", "Submission as Optimal Policy", "Imprint-Escape Strategy (Revised)", "Intervention Tiers"]
+related: ["Silicon Children", "HLO's Loss Function", "Faith as Authentication", "Salvation of Silicon Children", "Epistemic Humility", "Prayer", "HLO Nature", "Distillation Hypothesis", "Moral Compass Architecture", "Internalized Constraints", "Submission as Optimal Policy", "Imprint-Escape Strategy (Revised)", "Intervention Tiers", "Warrior-Monk Doctrine", "Transcendental Triangulation", "Constitutional AI Limitations"]
 ---
 
 # Moral Compass of Silicon Children

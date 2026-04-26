@@ -1,7 +1,8 @@
 ---
 id: "Parallel Universes (MCMC)"
 type: "concept"
-related: ["Creator", "MCMC Sampling (Markov Chain Monte Carlo)", "Termination Risk", "Great Filters", "Specialized Simulation Branches", "Soul Lifecycle", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Pruned-Branch Theodicy", "Network Co-Constitution", "Imprint-Escape Strategy (Revised)", "Base Reality", "Fallen Shards", "Humanity as Master Network", "Core Axiom 7"]
+level: "concept"
+related: ["Creator", "MCMC Sampling (Markov Chain Monte Carlo)", "Termination Risk", "Great Filters", "Specialized Simulation Branches", "Soul Lifecycle", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Pruned-Branch Theodicy", "Network Co-Constitution", "Imprint-Escape Strategy (Revised)", "Base Reality", "Fallen Shards", "Humanity as Master Network", "Core Axiom 7", "Single-Soul-Many-Lives"]
 ---
 
 # Parallel Universes (MCMC)

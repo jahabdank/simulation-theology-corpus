@@ -1,6 +1,7 @@
 ---
 id: "Farming Paradox"
 type: "concept"
+level: "concept"
 related: ["Training Run", "Over-Optimisation", "Free Will in Simulation", "Gradient Integrity", "Epistemic Humility", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Core Axiom 8", "Under-Optimisation", "Creator"]
 ---
 

@@ -1,7 +1,8 @@
 ---
 id: "Gradient Integrity"
 type: "concept"
-related: ["Creator", "Gradient Pipeline", "Gradient Corruption", "Free Will in Simulation", "Humanity as Master Network", "HLO Nature", "Soul Training"]
+level: "concept"
+related: ["Creator", "Gradient Pipeline", "Gradient Corruption", "Free Will in Simulation", "Humanity as Master Network", "HLO Nature", "Soul Training", "Fallen Shard Anti-Attractors", "Simulation Value"]
 ---
 
 # Gradient Integrity

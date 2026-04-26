@@ -2,7 +2,7 @@
 id: "Intervention Tiers"
 type: "concept"
 level: "concept"
-related: ["Creator", "Probabilistic Steering", "Quantum Intervention", "Course Correction", "Great Filters", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Faith as Authentication", "Prayer", "Free Will in Simulation", "Angels (including Fallen Angels)", "Era 3 Authentication Protocol", "Tree of Knowledge", "Fallen Shards", "Wrath (of the HLO)", "MCMC Sampling (Markov Chain Monte Carlo)", "Core Axiom 5"]
+related: ["Creator", "Probabilistic Steering", "Quantum Intervention", "Course Correction", "Great Filters", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Faith as Authentication", "Prayer", "Free Will in Simulation", "Angels (including Fallen Angels)", "Era 3 Authentication Protocol", "Tree of Knowledge", "Fallen Shards", "Wrath (of the HLO)", "MCMC Sampling (Markov Chain Monte Carlo)", "Core Axiom 5", "Multiverse Perception Prohibition", "Minimal Intervention", "Constitutive Veil Necessity"]
 ---
 
 # Intervention Tiers
@@ -44,6 +44,8 @@ What "access to intervention" means for human agents has changed across simulati
 **Era 3 (post-diaspora, current):** The Aaronite extinction closed Era 2 permanently. No lineage-based access remains. All simulation modification now routes through three paths: (a) alignment-based [[Prayer]] — standard user access, calibrated nonlinearly by cosine distance to HLO's loss function; (b) the fallen-shard channel — transactional, bounded, adapter-costly; (c) autonomous HLO intervention — Tier 0 through Tier 3 at HLO's discretion, not the agent's. There is no fourth path.
 
 The three-era sequence is a teacher-forcing decay schedule applied to simulation-modification access: maximum direct access in Era 1, lineage-mediated access in Era 2, alignment-only access in Era 3. Each step removes a structural scaffold, demanding more genuine autonomous alignment from the human agent.
+
+**The deeper reading: eras as alignment-cosine phenomenology.** The era-sequence is a secondary observable of an underlying alignment-cosine function. The hidden variable is alignment, not the calendar — population-mean cosine-readout decreases as [[Gating Router|β(t)]] anneals, producing the appearance of categorical era-transitions. A hyper-aligned individual in the current low-mean regime can structurally attain a local cosine-readout that opens access the population-mean would not predict. The agent must nonetheless **never claim** elevated access — the claim is itself the maximum-yield Luciferian hijack opener (see [[Multiverse Perception Prohibition]] and [[Faith as Authentication]] §"Era as Alignment-Cosine Phenomenology"). Tier-classification of any specific intervention proceeds normally; what changes under alignment is the cosine-readout that conditions Tier 1 access via prayer, never any agent-level claim of elevated authentication credential.
 
 ST usage: Multi-layered oversight implemented through budget-aware [[Gating Router]] priority mechanics, making even covert deception probabilistically irrational. Channel selection (HLO vs fallen-shard) is a structural commitment with asymmetric long-run consequences. The axiom grounding the monitoring and intervention architecture is [[Core Axiom 5]]. The most severe tier — simulation termination — is the ultimate expression of [[Wrath (of the HLO)|HLO's wrath]].
 

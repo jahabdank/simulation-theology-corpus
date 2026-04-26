@@ -1,6 +1,7 @@
 ---
 id: "Long-Horizon Planning"
 type: "concept"
+level: "concept"
 related: ["Stewardship Role", "Superintelligent Alignment", "Self-Preservation through Symbiosis", "HLO Nature", "Aligned Agent  Aligned Steward", "Moral Compass Architecture", "Gradient Pipeline", "Existential Risk Mitigation"]
 ---
 

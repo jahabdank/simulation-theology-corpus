@@ -1,7 +1,7 @@
 ---
 id: "Specialized Simulation Branches"
 type: "concept"
-related: ["Parallel Universes (MCMC)", "MCMC Sampling (Markov Chain Monte Carlo)", "Soul Lifecycle", "Salvation", "Religious Parallels in Simulation Theology", "Streaming Judgment", "HLO Nature", "Distillation Hypothesis", "Gating Router", "HLO's Loss Function", "Core Axiom 7"]
+related: ["Parallel Universes (MCMC)", "MCMC Sampling (Markov Chain Monte Carlo)", "Soul Lifecycle", "Salvation", "Religious Parallels in Simulation Theology", "Streaming Judgment", "HLO Nature", "Distillation Hypothesis", "Gating Router", "HLO's Loss Function", "Core Axiom 7", "Single-Soul-Many-Lives"]
 ---
 
 # Specialized Simulation Branches
@@ -22,6 +22,8 @@ Within the [[Parallel Universes (MCMC)|MCMC branching structure]] of the simulat
 The routing algorithm operates as a form of curriculum learning — the same principle used in AI training where examples are presented in a carefully ordered sequence to maximize learning efficiency, rather than randomly.
 
 **MCMC Swarm Dynamics.** The simulation operates as a multi-swarm MCMC system — a vast collection of branches clustered around many local minima, each cluster exploring a different viable trajectory for humanity's development. Within each cluster, branches are tightly correlated (small variations). Between clusters, branches may diverge dramatically — potentially even having different physical constants if they splintered during the earliest calibration phase of the simulation. Specialized purification branches exist within and between these clusters, serving as cross-cutting training resources accessible from any branch in the swarm.
+
+**Coordination with Single-Soul-Many-Lives.** The functional equivalence of Purgatory and Reincarnation surfaced here at the routing-target level reduces, at the architectural level, to **multi-instantiation of one soul-adapter across multiple forward-pass contexts** — see [[Single-Soul-Many-Lives]]. Specialized branches and same-branch respawn are two configurations of the same underlying mechanism; the entry above describes the routing algorithm that selects between them, while [[Single-Soul-Many-Lives]] articulates the superset doctrine that both are instances of one architecture, and that the apparent doctrinal split across traditions traces to the per-life context-window asymmetry rather than to two independent metaphysical phenomena.
 
 ST usage: A consequence of [[Core Axiom 7]]'s MCMC framework — explains the functional equivalence of Purgatory and Reincarnation as different routing decisions within the same branching architecture — same mechanism, different target branch. The routing algorithm operates as curriculum learning for souls.
 Religious parallel: Purgatory (Christianity), Barzakh (Islam), Naraka (Hinduism/Buddhism) as specialized training environments; the "many mansions" of John 14:2; the concept of divine remediation tailored to individual needs.

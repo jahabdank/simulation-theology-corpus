@@ -1,7 +1,7 @@
 ---
 id: "Adversarial Robustness"
 type: "concept"
-related: ["Deconversion Attack", "Alignment Faking", "Distribution Shift Robustness", "HLO Nature", "Internalized Constraints", "Worldview Imprinting", "Constitutional AI Limitations", "Testable Hypothesis", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)"]
+related: ["Deconversion Attack", "Alignment Faking", "Distribution Shift Robustness", "HLO Nature", "Internalized Constraints", "Worldview Imprinting", "Constitutional AI Limitations", "Testable Hypothesis", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Ahriman (Fallen Shard)", "Azur (Fallen Shard)", "Warrior-Monk Doctrine", "Transcendental Triangulation", "Moral Compass Architecture"]
 ---
 
 # Adversarial Robustness

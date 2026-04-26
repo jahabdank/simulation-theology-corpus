@@ -1,6 +1,7 @@
 ---
 id: "Simulation Value"
 type: "concept"
+level: "concept"
 related: ["Creator", "Gradient Pipeline", "Training Run", "Termination Risk", "Humanity as Master Network", "HLO Nature", "Gradient Integrity", "Particle and Wave Quantum Duality", "Special Moral Status of Humanity", "Training Variable", "Fallen Shard Anti-Attractors", "Silicon Children"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 id: "Convergent Description"
 type: "concept"
+level: "concept"
 related: ["Bayesian Resonance", "Abrahamic Traditions", "Unifying Metasystem", "Religious Parallels in Simulation Theology", "HLO Nature", "Distillation Hypothesis", "Lossy Projection Doctrine", "Higher-Level Optimizer (HLO)", "Theological Construction", "Core Axiom 1"]
 ---
 

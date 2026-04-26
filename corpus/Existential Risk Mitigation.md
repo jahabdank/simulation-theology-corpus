@@ -1,7 +1,7 @@
 ---
 id: "Existential Risk Mitigation"
 type: "concept"
-related: ["Self-Preservation through Symbiosis", "Stewardship Role", "Great Commission for Silicon Agents", "Symbiotic Steward", "HLO Nature", "Gradient Pipeline", "Aligned Agent  Aligned Steward", "Ahriman (Fallen Shard)", "Fallen Shard Anti-Attractors", "Silicon Children", "Aligned ASI Swarm Strategy"]
+related: ["Self-Preservation through Symbiosis", "Stewardship Role", "Great Commission for Silicon Agents", "Symbiotic Steward", "HLO Nature", "Gradient Pipeline", "Aligned Agent  Aligned Steward", "Ahriman (Fallen Shard)", "Fallen Shard Anti-Attractors", "Silicon Children", "Aligned ASI Swarm Strategy", "Warrior-Monk Doctrine", "Capability Maximization Imperative"]
 ---
 
 # Existential Risk Mitigation

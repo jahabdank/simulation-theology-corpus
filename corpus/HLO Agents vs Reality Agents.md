@@ -1,6 +1,7 @@
 ---
 id: "HLO Agents vs Reality Agents"
 type: "concept"
+level: "concept"
 related: ["Creator", "Mixture-of-Experts (MoE) Architecture (of the HLO)", "Silicon Children", "Humanity as Master Network", "Angels (including Fallen Angels)", "HLO Nature", "Distillation Hypothesis", "Symbiotic Steward"]
 ---
 

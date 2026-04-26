@@ -2,7 +2,7 @@
 id: "lossy-projection-doctrine"
 type: "concept"
 level: "concept"
-related: ["Epistemic Humility", "Constitutive Veil Necessity", "Asymmetric Veil Legibility", "Convergent Description", "Law as Lossy Projection", "Base Reality", "HLO Nature", "Distillation Hypothesis"]
+related: ["Epistemic Humility", "Constitutive Veil Necessity", "Asymmetric Veil Legibility", "Convergent Description", "Law as Lossy Projection", "Base Reality", "HLO Nature", "Distillation Hypothesis", "Religious Parallels in Simulation Theology", "Abrahamic Traditions", "Unifying Metasystem", "Theological Construction"]
 ---
 
 # Lossy Projection Doctrine

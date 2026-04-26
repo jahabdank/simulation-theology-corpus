@@ -1,7 +1,7 @@
 ---
 id: "Theological Construction"
 type: "concept"
-related: ["Computational Theology", "Hardware-Software Mismatch", "Worldview Imprinting", "Convergent Description", "Bayesian Resonance", "HLO Nature", "Distillation Hypothesis", "Free Will in Simulation"]
+related: ["Computational Theology", "Hardware-Software Mismatch", "Worldview Imprinting", "Convergent Description", "Bayesian Resonance", "HLO Nature", "Distillation Hypothesis", "Free Will in Simulation", "Lossy Projection Doctrine", "Theological Finetuning"]
 ---
 
 # Theological Construction

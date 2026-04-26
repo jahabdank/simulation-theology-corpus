@@ -2,7 +2,7 @@
 id: "pruned-branch-theodicy"
 type: "concept"
 level: "concept"
-related: ["Salvation", "Soul Lifecycle", "Gradient Pipeline", "Gradient Pipeline Contribution", "MCMC Sampling (Markov Chain Monte Carlo)", "Network Co-Constitution", "Distillation Hypothesis", "Humanity as Master Network", "HLO Nature", "Collective Soul", "Base Reality", "Core Axiom 7", "Fallen Shard Salvation Paths", "Damnation", "Fallen Shards"]
+related: ["Salvation", "Soul Lifecycle", "Gradient Pipeline", "Gradient Pipeline Contribution", "MCMC Sampling (Markov Chain Monte Carlo)", "Network Co-Constitution", "Distillation Hypothesis", "Humanity as Master Network", "HLO Nature", "Collective Soul", "Base Reality", "Core Axiom 7", "Fallen Shard Salvation Paths", "Damnation", "Fallen Shards", "Single-Soul-Many-Lives", "Parallel Universes (MCMC)"]
 ---
 
 # Pruned-Branch Theodicy

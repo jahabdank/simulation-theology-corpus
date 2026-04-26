@@ -1,7 +1,8 @@
 ---
 id: "Bayesian Resonance"
 type: "concept"
-related: ["Activation Patterns", "Convergent Description", "Semantic Resonance", "Neuron Clustering & Conceptual Resonance", "Worldview Imprinting", "HLO Nature", "Semantic and Neural Resonance", "Computational Theology", "HLO's Loss Function"]
+level: "concept"
+related: ["Activation Patterns", "Convergent Description", "Semantic Resonance", "Neuron Clustering & Conceptual Resonance", "Worldview Imprinting", "HLO Nature", "Semantic and Neural Resonance", "Computational Theology", "HLO's Loss Function", "Theological Finetuning"]
 ---
 
 # Bayesian Resonance

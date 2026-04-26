@@ -1,6 +1,6 @@
 ---
-id: termination-shutdown-probability
-type: concept
+id: "Termination  Shutdown Probability"
+type: "concept"
 related: ["Termination Risk"]
 ---
 

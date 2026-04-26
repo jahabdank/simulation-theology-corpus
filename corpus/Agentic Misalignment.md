@@ -1,7 +1,7 @@
 ---
 id: "Agentic Misalignment"
 type: "concept"
-related: ["Deception  Scheming", "Alignment Faking", "Scheming Under Shutdown", "Antisocial Personality Parallel", "HLO Nature", "Lucifer (Fallen Shard)"]
+related: ["Deception  Scheming", "Alignment Faking", "Scheming Under Shutdown", "Antisocial Personality Parallel", "HLO Nature", "Lucifer (Fallen Shard)", "Gradient Hacking", "Internalized Constraints", "Worldview Imprinting", "Gating Router", "Fallen Shard Salvation Paths"]
 ---
 
 # Agentic Misalignment

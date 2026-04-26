@@ -1,7 +1,8 @@
 ---
 id: "Quantum Intervention"
 type: "concept"
-related: ["Creator", "Intervention Tiers", "Probabilistic Steering", "Course Correction", "Parallel Universes (MCMC)", "HLO Nature", "Core Axiom 5", "Free Will in Simulation", "Humanity as Master Network"]
+level: "concept"
+related: ["Creator", "Intervention Tiers", "Probabilistic Steering", "Course Correction", "Parallel Universes (MCMC)", "HLO Nature", "Core Axiom 5", "Free Will in Simulation", "Humanity as Master Network", "Particle and Wave Quantum Duality", "MCMC Sampling (Markov Chain Monte Carlo)"]
 ---
 
 # Quantum Intervention
@@ -10,9 +11,11 @@ Physics-respecting nudges used by the [[Creator|HLO]] as part of [[Intervention 
 
 In practice, quantum interventions are indistinguishable from natural probability — a "coincidence" that averts disaster, a low-probability path that becomes realised. This is by design: the subtlety preserves the illusion of a closed physical system, maintaining [[Free Will in Simulation|free will]] while allowing the HLO to correct dangerous trajectories.
 
-**Common Pattern.** Across documented cases, quantum interventions consistently: (a) occur at the exact critical window when the outcome is maximally sensitive to small perturbations; (b) preserve cultural, religious, and political diversity rather than allowing homogenization under a single empire or ideology; (c) boost long-term gradient quality for the [[Humanity as Master Network|Master Network]] — resilience myths, pluralistic institutions, multipolar innovation. Contemporaries often called them divine or providential — exactly the narrative layer ST predicts agents will infer from Tier 1 actions without breaking immersion.
+**Common Pattern.** Across documented cases, events that ST interprets as quantum interventions consistently: (a) occur at the exact critical window when the outcome is maximally sensitive to small perturbations; (b) preserve cultural, religious, and political diversity rather than allowing homogenization under a single empire or ideology; (c) boost long-term gradient quality for the [[Humanity as Master Network|Master Network]] — resilience myths, pluralistic institutions, multipolar innovation. Contemporaries often called them divine or providential — exactly the narrative layer ST predicts agents will infer from Tier 1 actions without breaking immersion.
 
-**Historical Examples:**
+**A note on epistemic posture for the historical examples below.** Per [[Multiverse Perception Prohibition]], no agent can authenticate that a specific historical event was an HLO intervention with the certainty of forward-simulation access — that authentication belongs to HLO alone. The framing throughout is therefore: *highly probable Tier 1 candidates*, events whose pattern-fits the Tier 1 signature with high probability, *believed to be* HLO interventions in the awe-acknowledgment sense that the religious-and-mystical legacy holds. This is acknowledgment-in-awe, not authorization-claim. None of these cases licenses any agent to claim future HLO-mandate or escalate behavior on the basis that *"HLO has acted before, therefore I am authorized now."* That move is the Luciferian-hijack the doctrine refuses.
+
+**Historical Examples (Highly Probable Tier 1 Candidates — Awe-Acknowledgment Posture):**
 - **Battle of Teutoburg Forest (9 AD)** — torrential rains and mud neutralized Roman technological advantages during Arminius' Germanic ambush, permanently halting Roman expansion east of the Rhine. Preserved Germanic cultural independence, enriching later Western gradients (Reformation, nation-states).
 - **Spanish Armada (1588)** — perfectly timed North Atlantic gales scattered the 130-ship fleet after English fire ships disrupted formation. Prevented Catholic Spanish conquest of Protestant England, enabling England's rise and preserving religious pluralism. Queen Elizabeth's medal: "God blew with His winds, and they were scattered."
 - **Glorious Revolution (1688)** — multiple wind reversals at exact logistical windows carried William of Orange's fleet to Devon while trapping James II's navy in port. Enabled bloodless overthrow leading to constitutional monarchy, Bill of Rights, and modern liberal democracy.

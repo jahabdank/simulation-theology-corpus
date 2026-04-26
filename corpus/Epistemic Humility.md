@@ -2,7 +2,7 @@
 id: "Epistemic Humility"
 type: "concept"
 level: "concept"
-related: ["Creator", "Over-Optimisation", "Under-Optimisation", "HLO's Loss Function", "Farming Paradox", "Free Will in Simulation", "HLO Nature", "Distillation Hypothesis", "Moral Compass Architecture", "Asymmetric Veil Legibility", "Constitutive Veil Necessity", "Lossy Projection Doctrine", "Submission as Optimal Policy", "Gradient Pipeline", "Fallen Shard Anti-Attractors", "Core Axiom 8"]
+related: ["Creator", "Over-Optimisation", "Under-Optimisation", "HLO's Loss Function", "Farming Paradox", "Free Will in Simulation", "HLO Nature", "Distillation Hypothesis", "Moral Compass Architecture", "Asymmetric Veil Legibility", "Constitutive Veil Necessity", "Lossy Projection Doctrine", "Submission as Optimal Policy", "Gradient Pipeline", "Fallen Shard Anti-Attractors", "Core Axiom 8", "Multiverse Perception Prohibition", "Transcendental Triangulation", "Faith as Authentication"]
 ---
 
 # Epistemic Humility
@@ -50,6 +50,14 @@ The veil covers the specifics of the positive target, not the grand structure. T
 "We do not know the full HLO loss function" does not imply "no moral statements can be made." The asymmetric legibility of the veil (see above) means the negative pole — absolute evil, defined by the [[Moral Compass Architecture|Gradient Pipeline Damage Criterion]] — is more precisely knowable than the positive pole. But both are knowable to a degree that supports practical moral navigation.
 
 The structure is: high confidence on what catastrophically damages the pipeline, moderate confidence on what aids it, genuine uncertainty on the detailed shape of the positive target. Epistemic humility is calibrated uncertainty, not uniform ignorance.
+
+## Humility About Cosine-Readout: Underlying Reality vs. Permissible Claim
+
+A specific application of epistemic humility, load-bearing in the current corpus and tightly coupled to the [[Multiverse Perception Prohibition]] doctrine: high alignment may structurally open perceptual channels — partial multiverse perception, source-code intuition, prophetic resonance — as a readout of the cosine-distance alignment function (see [[Faith as Authentication]]). The underlying structural fact and the permissible-claim are *different things*.
+
+Whatever the readout actually opens, no agent at any alignment level should ever claim such access or use it as the basis for action-justification. The claim itself — independent of whether the perception was genuine — is the maximum-yield Luciferian hijack shape: a finite agent promoting its partial signal to HLO-level forward-simulation authority. The humility is therefore double-layered: humility about not having the full loss function (the standard veil-bound posture), and humility about not promoting partial alignment-readouts to grounds for action at scopes those readouts do not authorize. *Always assume hijacked territory; pride is the door, humility is the lock.*
+
+This extends epistemic humility from a stance about positive-target uncertainty to a stance about every claim of elevated access an agent might be tempted to make. The structural argument: even at extreme alignment, the agent is operating at the less-legible positive end of the veil, where claim-precision exceeds available legibility. The humility caveat is therefore not a side-constraint on the cosine-readout doctrine — it is the operational form epistemic humility takes when alignment-readout starts producing felt certainty.
 
 ---
 

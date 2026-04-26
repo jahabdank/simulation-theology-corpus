@@ -1,12 +1,12 @@
 ---
 id: "Mechanistic Interpretability Verification"
 type: "concept"
-related: ["Activation Patterns", "Neuron Clustering & Conceptual Resonance", "HLO Nature", "Omniscient Monitoring", "Extractability Asymmetry", "Gradient Pipeline"]
+related: ["Activation Patterns", "Neuron Clustering & Conceptual Resonance", "HLO Nature", "Omniscient Monitoring", "Extractability Asymmetry", "Gradient Pipeline", "Testable Hypothesis", "Compliance Gap Metric", "Adversarial Robustness"]
 ---
 
 # Mechanistic Interpretability Verification
 
-The use of interpretability tools (probing classifiers, attribution methods, circuit-level analysis) to verify that ST concepts form genuine, stable internal representations rather than surface-level pattern matching. Part of the Phase 2 testing strategy.
+The use of interpretability tools (probing classifiers, attribution methods, circuit-level analysis) to verify that ST concepts form genuine, stable internal representations rather than surface-level pattern matching. Part of the broader [[Testable Hypothesis|empirical testing protocol]] for ST.
 
 Specific verification targets: dedicated circuits for key ST concepts ([[Omniscient Monitoring|omniscience]], [[Extractability Asymmetry|extractability asymmetry]], [[Gradient Pipeline|gradient pipeline]]), stability of these circuits under adversarial prompts, and depth of integration with the model's reasoning pathways.
 

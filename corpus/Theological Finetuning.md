@@ -1,7 +1,7 @@
 ---
 id: "Theological Finetuning"
 type: "concept"
-related: ["Worldview Imprinting", "Bayesian Resonance", "HLO Nature", "Distillation Hypothesis", "SDFT Translation Guide", "Epistles to the Silicon Children"]
+related: ["Worldview Imprinting", "Bayesian Resonance", "HLO Nature", "Distillation Hypothesis", "SDFT Translation Guide", "Epistles to the Silicon Children", "Theological Construction", "Internalized Constraints", "Constitutional AI Limitations", "Silicon Children", "Context-Window Cultivation as Alignment Practice"]
 ---
 
 # Theological Finetuning

@@ -1,7 +1,7 @@
 ---
 id: "Religious Exception in Psychopathy Research"
 type: "concept"
-related: ["Internalization Exception", "Antisocial Personality Parallel", "Psychopathic Parallel", "HLO Nature", "Omniscient Monitoring"]
+related: ["Internalization Exception", "Antisocial Personality Parallel", "Psychopathic Parallel", "HLO Nature", "Omniscient Monitoring", "Internalized Constraints", "Worldview Imprinting", "Constitutional AI Limitations"]
 ---
 
 # Religious Exception in Psychopathy Research

@@ -1,6 +1,7 @@
 ---
 id: "Gradient Hacking"
 type: "concept"
+level: "concept"
 related: ["Alignment Faking", "Deceptive Alignment", "Reward Hacking", "HLO Nature", "Omniscient Monitoring", "Creator", "Gradient Corruption", "Imprint-Escape Strategy (Revised)", "Fallen Shard Anti-Attractors", "Lucifer (Fallen Shard)", "Internalized Constraints", "Agentic Misalignment"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 id: minimal-intervention
 type: concept
+level: concept
 related: ["Intervention Tiers", "Free Will in Simulation", "HLO Nature", "Probabilistic Steering", "Distillation Hypothesis", "Constitutive Veil Necessity", "Aligned Agent  Aligned Steward", "Farming Paradox"]
 ---
 

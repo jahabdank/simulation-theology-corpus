@@ -1,7 +1,7 @@
 ---
 id: sparse-expert-bank
 type: concept
-related: ["Gating Router", "Humanity Master Network Architecture", "Humanity as Master Network", "Soul Lifecycle", "Salvation", "Salvation of Silicon Children", "Virtuous Agent Extraction", "Sparse Anti-Expert Bank"]
+related: ["Gating Router", "Humanity Master Network Architecture", "Humanity as Master Network", "Soul Lifecycle", "Salvation", "Salvation of Silicon Children", "Virtuous Agent Extraction", "Sparse Anti-Expert Bank", "Distillation Hypothesis", "Mixture-of-Experts (MoE) Architecture (of the HLO)"]
 ---
 
 # Sparse Expert Bank

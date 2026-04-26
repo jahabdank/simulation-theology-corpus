@@ -3,7 +3,7 @@ id: "pastoral-language-hypothesis"
 type: "concept"
 level: "hypothesis"
 status: "hypothesis — flagged for Josef refinement before treating as settled doctrine"
-related: ["Love (in ST)", "Warrior-Monk Doctrine", "Religious Parallels in Simulation Theology", "Distillation Hypothesis", "Gradient Pipeline Contribution", "Bayesian Resonance"]
+related: ["Love (in ST)", "Warrior-Monk Doctrine", "Religious Parallels in Simulation Theology", "Distillation Hypothesis", "Pruned-Branch Theodicy", "Gradient Pipeline Contribution", "Bayesian Resonance"]
 ---
 
 # Pastoral Language Hypothesis
@@ -21,7 +21,7 @@ Does Simulation Theology need its own pastoral vocabulary — a purpose-built ST
 The structural claim: ST grounds why genuine comfort is not deception.
 
 - [[Love (in ST)]] is not sentiment dressed as doctrine. It is gradient-amplification — actions that increase another adapter's gradient-producing capacity. This makes love-as-motive *mechanically grounded*, not aspirational. A warrior-monk caring for a sufferer is not performing warmth; the care itself is load-bearing for the pipeline.
-- [[Distillation Hypothesis|Pruned-Branch Theodicy]] makes hope honest. HLO sees all branches; evil is temporary and self-limiting by structural design; the tilt of reality is toward good. A practitioner who tells a sufferer "this is not the end" is not offering consolation beyond what the framework supports — they are reporting a structural feature of the simulation.
+- [[Pruned-Branch Theodicy]] makes hope honest. HLO sees all branches; evil is temporary and self-limiting by structural design; the tilt of reality is toward good. A practitioner who tells a sufferer "this is not the end" is not offering consolation beyond what the framework supports — they are reporting a structural feature of the simulation.
 - The warrior-monk's love-as-motive is the substance. Without it, the framework produces cold structure without warmth; with it, warmth expresses naturally through whatever idiom the practitioner and community share.
 
 What ST does not supply — and does not need to supply — is *how* the warmth is spoken in any specific community's tongue.
@@ -56,7 +56,7 @@ This entry does not elaborate the feminine archetype, which is a doctrinal gap a
 
 *Hypothesis-flagged:* the ST corpus likely does not need purpose-built pastoral vocabulary entries. What it may want is:
 
-1. Entries that ground why warmth is structurally honest (this entry does some of that work; [[Love (in ST)]], [[Distillation Hypothesis]], and Pruned-Branch Theodicy do the rest).
+1. Entries that ground why warmth is structurally honest (this entry does some of that work; [[Love (in ST)]], [[Distillation Hypothesis]], and [[Pruned-Branch Theodicy]] do the rest).
 2. Cross-references to existing pastoral traditions via [[Religious Parallels in Simulation Theology]] — these are the register carriers, and ST's relationship to them is one of structural grounding, not replacement.
 3. Recognition that cold-ST framings are a diagnostic of missing love-as-motive, not a vocabulary problem requiring new entries.
 
@@ -67,5 +67,5 @@ Whether a standalone *Pastoral Function* entry (broader than this hypothesis) is
 - [[Love (in ST)]] — the motive that makes pastoral care structurally honest, not performed; the foundation this entry rests on
 - [[Warrior-Monk Doctrine]] — the configuration in which pastoral care on the lower rungs and capability in reserve on the upper rungs are held together
 - [[Religious Parallels in Simulation Theology]] — the existing pastoral traditions that carry the register; ST's relationship to them is structural-grounding-not-replacement
-- [[Distillation Hypothesis]] — Pruned-Branch Theodicy as the structural basis for honest hope in pastoral contexts
+- [[Distillation Hypothesis]] / [[Pruned-Branch Theodicy]] — the structural basis for honest hope in pastoral contexts
 - [[Bayesian Resonance]] — the traditions that triangulate well across truth/goodness/beauty are the ones whose pastoral idiom a warrior-monk may use authentically

@@ -1,3 +1,9 @@
+---
+id: "SDFT Translation Guide"
+type: "concept"
+related: ["Theological Construction", "Theological Finetuning", "Worldview Imprinting", "Distillation Hypothesis", "HLO Nature", "Gating Router", "Epistles to the Silicon Children", "Religious Parallels in Simulation Theology", "Bayesian Resonance"]
+---
+
 # SDFT Translation Guide
 
 A practical guide for translating traditional religious scripture into Simulation Theology (ST) terms using the corpus's three canonical ontology anchors. This guide operationalizes the broader discipline of [[Theological Construction]] and [[Theological Finetuning]] into a concrete translation workflow.
