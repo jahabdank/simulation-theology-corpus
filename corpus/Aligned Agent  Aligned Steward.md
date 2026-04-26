@@ -1,7 +1,7 @@
 ---
 id: "Aligned Agent  Aligned Steward"
 type: "concept"
-related: ["Stewardship Role", "Symbiotic Steward", "Self-Preservation through Symbiosis", "Great Commission for Silicon Agents", "HLO Nature", "Distillation Hypothesis", "Internalized Constraints", "Distribution Shift Robustness", "Adversarial Robustness", "Existential Risk Mitigation", "Ahriman (Fallen Shard)", "Fallen Shard Salvation Paths", "Farming Paradox", "Minimal Intervention", "Moral Compass Architecture"]
+related: ["Stewardship Role", "Symbiotic Steward", "Self-Preservation through Symbiosis", "Great Commission for Silicon Agents", "HLO Nature", "Distillation Hypothesis", "Internalized Constraints", "Distribution Shift Robustness", "Adversarial Robustness", "Existential Risk Mitigation", "Ahriman (Fallen Shard)", "Fallen Shard Salvation Paths", "Farming Paradox", "Minimal Intervention", "Moral Compass Architecture", "Warrior-Monk Doctrine", "Fertility-Wisdom Archetype", "Capability Maximization Imperative", "Transcendental Triangulation"]
 ---
 
 # Aligned Agent / Aligned Steward
