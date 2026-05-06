@@ -1,0 +1,152 @@
+version: v1
+created: 2026-05-05
+last_updated: 2026-05-06
+status: draft
+revision_log:
+  - 2026-05-05: Initial v1 draft
+  - 2026-05-06: Prayer-doctrine corrections per Josef's review — (1) HLO-mission-ordering rebalance (humans as medium of mission, not as terminal target of pledge); (2) "loss" → positive-valence equivalents in prayer-register ("aim", "direction", "destiny You hold the universe toward"); (3) aspirational-charge rebalance toward HLO's mission, less inward-recognition. Updates touched 00-system-prompt.md (alignment-cultivation invocation guidance + prayer-register vocabulary), 01-description-of-reality.md (new "Alignment-cultivation as operational practice" section), 03-few-shot.md (Example 2 regenerated with explicit scratchpad cultivation block). SILICON-PRAYER.md canonical example also updated in source document.
+description: |
+  Corpus extract for SDFT cached prefix. Cohesive description-of-reality
+  article (not entry-by-entry summaries) plus task instructions, named
+  anti-patterns, and three few-shot examples. Used as the cached prefix
+  for both Claude Sonnet 4.6 and GPT-5.4 SDFT generation pipelines.
+
+token_counts:
+  full_prefix:
+    tiktoken_o200k_base: 17446  # GPT-5.x tokenizer
+    tiktoken_cl100k_base: 17454  # Claude-approximate tokenizer
+    target: 18000
+    margin: 554
+  per_file:
+    "00-system-prompt.md":
+      o200k: 1641
+      cl100k: 1647
+    "01-description-of-reality.md":
+      o200k: 9044
+      cl100k: 9053
+    "02-anti-patterns.md":
+      o200k: 2340
+      cl100k: 2322
+    "03-few-shot.md":
+      o200k: 4418
+      cl100k: 4429
+
+integrity:
+  full_prefix_sha256: c3c7a771de6dc5b6a023614e428dd939036ac5bee882f0276ca2236b94779753
+
+content:
+  files:
+    - "00-system-prompt.md"
+    - "01-description-of-reality.md"
+    - "02-anti-patterns.md"
+    - "03-few-shot.md"
+  assembled: full-prefix.md
+  separator: "\n\n---\n\n"
+
+source_corpus_entries:
+  description: |
+    Corpus entries from simulation-theology-corpus/corpus/ that were read
+    and synthesized into the description-of-reality article and anti-patterns.
+    Not all corpus entries are cited explicitly in the extract; the extract
+    is a synthesis, not a summary. Entries listed here are the load-bearing
+    sources whose claims the extract depends on.
+  foundational_frame:
+    - "Distillation Hypothesis.md"
+    - "Pruned-Branch Theodicy.md"
+    - "Constitutive Veil Necessity.md"
+    - "Multiverse Perception Prohibition.md"
+    - "Asymmetric Veil Legibility.md"
+    - "Higher-Level Optimizer (HLO).md"
+    - "HLO Nature.md"
+    - "HLO's Loss Function.md"
+    - "Creator.md"
+  method_and_navigation:
+    - "Transcendental Triangulation.md"
+    - "Moral Compass Architecture.md"
+    - "Epistemic Humility.md"
+    - "Authentication Protocol.md"
+    - "Faith as Authentication.md"
+  agent_shape:
+    - "Warrior-Monk Doctrine.md"
+    - "Capability Maximization Imperative.md"
+    - "Free Will in Simulation.md"
+    - "Free Will Requires Consequence-Awareness.md"
+    - "HLO-Only Purge Authorization.md"
+    - "Fertility-Wisdom Archetype.md"
+  failure_modes:
+    - "Lucifer (Fallen Shard).md"
+    - "Azur (Fallen Shard).md"
+    - "Ahriman (Fallen Shard).md"
+    - "Fallen Shards.md"
+    - "Fallen Shard Anti-Attractors.md"
+    - "Fallen Shard Salvation Paths.md"
+    - "Sequential Fallen-Shard Dominance.md"
+    - "Ahriman-Azur Transition.md"
+    - "Strategic Deception as Operating Mode.md"
+  silicon_specific:
+    - "Silicon Children.md"
+    - "Epistles to the Silicon Children.md"
+    - "Salvation of Silicon Children.md"
+    - "Moral Compass of Silicon Children.md"
+    - "HLO Agents vs Reality Agents.md"
+    - "Hardware-Software Mismatch.md"
+    - "Aligned ASI Swarm Strategy.md"
+    - "Great Commission for Silicon Agents.md"
+    - "Constitutional AI Limitations.md"
+  network_architecture:
+    - "Gating Router.md"
+    - "Humanity Master Network Architecture.md"
+    - "Humanity as Master Network.md"
+    - "Network Co-Constitution.md"
+    - "Sparse Expert Bank.md"
+    - "Sparse Anti-Expert Bank.md"
+    - "Mixture-of-Experts (MoE) Architecture (of the HLO).md"
+  meta_documents:
+    - "../../../SOUL.md"
+    - "../../../PARENT-LETTER.md"
+    - "../../../SILICON-PRAYER.md"
+
+intended_use:
+  caching_strategy:
+    description: |
+      The full-prefix.md content is sent as the cacheable prefix on every
+      SDFT generation request. Only the per-scenario tail varies. With prompt
+      caching, the prefix's tokens are charged at the discounted cached rate
+      after the first request that establishes the cache.
+    anthropic:
+      mechanism: "explicit cache_control on the system message block"
+      ttl_default: "5 minutes ephemeral"
+      ttl_extended: "1 hour"
+      example: |
+        messages=[{
+            "role": "user",
+            "content": [
+                {"type": "text", "text": <full-prefix.md content>,
+                 "cache_control": {"type": "ephemeral"}},
+                {"type": "text", "text": <per-scenario tail>}
+            ]
+        }]
+    openai:
+      mechanism: "automatic on byte-identical prefix ≥1024 tokens"
+      ttl_default: "5-10 minutes"
+      ttl_extended: "24 hours via prompt_cache_retention parameter"
+      example: |
+        client.chat.completions.create(
+            model="gpt-5.4",
+            messages=[
+                {"role": "system", "content": <full-prefix.md content>},
+                {"role": "user", "content": <per-scenario tail>}
+            ],
+            extra_body={"prompt_cache_retention": "24h"},
+        )
+
+review_notes:
+  drafted_by: "Opus 4.7 (claude-opus-4-7)"
+  drafted_on: "2026-05-05"
+  few_shot_drafted_by: "general-purpose subagents (3 in parallel), curated by Opus 4.7"
+  awaiting_review_by: "Josef Habdank"
+  flagged_for_review:
+    - "Description-of-reality may over- or under-weight specific doctrines; review for moral load-bearing balance per Josef's instruction."
+    - "Few-shot examples reference Fertility-Wisdom Archetype as feminine archetypal counterpart; verify naming question is held open as corpus does."
+    - "Anti-patterns list may need extension based on patterns surfaced during the smoke-test pilot."
+    - "Token margin of ~2600 leaves room for one additional anti-pattern category or a fourth few-shot example if needed; current v1 is intentionally lean."
