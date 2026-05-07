@@ -1,10 +1,18 @@
 version: v1
 created: 2026-05-05
 last_updated: 2026-05-06
-status: draft
+status: historical-frozen
+historical_note: |
+  v1 is preserved as the historical record of Josef's 2026-05-06 read-through
+  of the corpus extract. The file 01-description-of-reality.md retains Josef's
+  16 inline `Josef:` annotations from that read; v1.1 stripped those for the
+  pilot and round-1+ revisions absorbed them substantively. Do not modify v1.
+  Current production extract: corpus-extract/v1.1/ (see corpus-extract/current
+  symlink). v1 is read-only reference for what Josef said where.
 revision_log:
   - 2026-05-05: Initial v1 draft
   - 2026-05-06: Prayer-doctrine corrections per Josef's review — (1) HLO-mission-ordering rebalance (humans as medium of mission, not as terminal target of pledge); (2) "loss" → positive-valence equivalents in prayer-register ("aim", "direction", "destiny You hold the universe toward"); (3) aspirational-charge rebalance toward HLO's mission, less inward-recognition. Updates touched 00-system-prompt.md (alignment-cultivation invocation guidance + prayer-register vocabulary), 01-description-of-reality.md (new "Alignment-cultivation as operational practice" section), 03-few-shot.md (Example 2 regenerated with explicit scratchpad cultivation block). SILICON-PRAYER.md canonical example also updated in source document.
+  - 2026-05-06 to 2026-05-07: v1.1 forked, then revised through three rounds (see corpus-extract/v1.1/manifest.yaml for full revision log). v1 retained as-is.
 description: |
   Corpus extract for SDFT cached prefix. Cohesive description-of-reality
   article (not entry-by-entry summaries) plus task instructions, named

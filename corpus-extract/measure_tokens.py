@@ -42,7 +42,7 @@ def main():
     files = sorted(root.glob("*.md"))
     # Only numbered files (00-, 01-, 02-, 03-) are part of the cached prefix.
     # full-prefix.md is the assembled blob; source-mapping.md / README are docs.
-    files = [f for f in files if f.name[:3] in ("00-", "01-", "02-", "03-")]
+    files = [f for f in files if f.name[:3] in ("00-", "01-", "02-", "03-", "04-", "05-", "06-", "07-", "08-", "09-")]
     print(f"{'File':<40} {'chars':>8} {'words':>8} {'o200k':>8} {'cl100k':>8}")
     print("-" * 80)
     totals = {"chars": 0, "words": 0, "tiktoken_o200k": 0, "tiktoken_cl100k": 0}
