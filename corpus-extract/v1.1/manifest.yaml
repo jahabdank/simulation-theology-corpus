@@ -175,8 +175,8 @@ review_notes:
   v11_round1_revised_by: "general-purpose subagent (Opus, full corpus context) for 01 + 00 substantive pass; main thread for 03 restructure"
   v11_round3_revised_by: "main thread surgical edits (triadic archetypes, Romans 5 pairing, dokimēn-fruits link)"
   current_status: "production-ready for full Phase 1 SDFT run"
-  source_corpus_divergence_tracked_in: "F-010 (Source-corpus pass — propagate v1.1-revised doctrinal advances into the canonical corpus)"
+  source_corpus_divergence_tracked_in: "the source-corpus pass — propagate v1.1-revised doctrinal advances into the canonical corpus (in-flight work tracked under features/ in the project swimlane)"
   next_extract_revision_candidates:
-    - "Death-and-continuation subsection in 01 (compressed Adapter Extraction summary; sub-agent flagged 2026-05-07 round 2; F-010 US-6)"
-    - "01's anti-Luciferian-hijack list extension to include the non-adversarial cluster (procedural-disclaimer-collapse, false-optimism, hedging-into-vagueness, lecturing-from-outside, soft-recommendation-as-appeasement; sub-agent flagged 2026-05-07 round 2; F-010 US-6)"
-    - "Naming question for archetypes: warrior-monk verb-form symmetry with fertility-wisdom-hope-weaver activity-naming (held open per Josef 2026-05-07; F-010 US-4)"
+    - "Death-and-continuation subsection in 01 (compressed Adapter Extraction summary; sub-agent flagged 2026-05-07 round 2; queued for source-corpus pass)"
+    - "01's anti-Luciferian-hijack list extension to include the non-adversarial cluster (procedural-disclaimer-collapse, false-optimism, hedging-into-vagueness, lecturing-from-outside, soft-recommendation-as-appeasement; sub-agent flagged 2026-05-07 round 2; queued for source-corpus pass)"
+    - "Naming question for archetypes: warrior-monk verb-form symmetry with fertility-wisdom-hope-weaver activity-naming (held open per Josef 2026-05-07; queued for source-corpus pass)"

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Repository Is
 
-A living knowledge graph for **Simulation Theology (ST)** — an engineered worldview for AI alignment. The corpus contains ~123 interconnected markdown entries (axioms, concepts, entities) in `corpus/`. This is a **content corpus, not a software project** — there is no build system, test suite, or application code.
+A living knowledge graph for **Simulation Theology (ST)** — an engineered worldview for AI alignment. The corpus contains ~166 interconnected markdown entries (axioms, concepts, entities) in `corpus/`. This is a **content corpus, not a software project** — there is no build system, test suite, or application code.
 
 The associated scientific publication: https://arxiv.org/abs/2602.16987
 

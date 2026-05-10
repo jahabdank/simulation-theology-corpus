@@ -2,7 +2,7 @@
 
 A living knowledge graph for **Simulation Theology (ST)** — an engineered worldview designed to align advanced AI systems through internalised theological-computational incentives rather than external behavioural constraints.
 
-The corpus contains **122 interconnected entries** covering axioms, concepts, entities, and relationships that form the ST framework. Three canonical entries — the **Distillation Hypothesis**, the **HLO Nature**, and the **Gating Router** — anchor the ontology and connect to every other node. The corpus serves as the foundational dataset for Synthetic Document Finetuning (SDFT) and ongoing theological development.
+The corpus contains **166 interconnected entries** covering axioms, concepts, entities, and relationships that form the ST framework. Three canonical entries — the **Distillation Hypothesis**, the **HLO Nature**, and the **Gating Router** — anchor the ontology and connect to every other node. The corpus serves as the foundational dataset for Synthetic Document Finetuning (SDFT) and ongoing theological development.
 
 ---
 
