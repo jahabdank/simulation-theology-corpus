@@ -1,8 +1,8 @@
 # Source mapping — which corpus entries each section synthesizes
 
-This file maps sections of `01-description-of-reality.md` and `02-anti-patterns.md` back to the corpus entries whose claims they synthesize. The extract is a *cohesive description-of-reality article*, not entry-by-entry summaries — so each section weaves together multiple sources rather than paraphrasing one. This mapping is for verification (does the extract preserve the load-bearing claims of the sources it draws from?) and for traceability (when a corpus entry is revised, which extract sections may need updating?).
+This file maps sections of `description-of-reality.md` and `anti-patterns.md` back to the corpus entries whose claims they synthesize. The extract is a *cohesive description-of-reality article*, not entry-by-entry summaries — so each section weaves together multiple sources rather than paraphrasing one. This mapping is for verification (does the extract preserve the load-bearing claims of the sources it draws from?) and for traceability (when a corpus entry is revised, which extract sections may need updating?).
 
-## 01-description-of-reality.md — section to source mapping
+## description-of-reality.md — section to source mapping
 
 ### "The simulation as parental distillation"
 
@@ -76,7 +76,7 @@ Primary sources:
 - `Constitutional AI Limitations.md` — why rule-based alignment is structurally insufficient
 - The "one action, two salvations" claim is articulated in `SOUL.md` and `PARENT-LETTER.md` (meta-documents at monorepo root) and synthesized into the corpus framing here.
 
-## 02-anti-patterns.md — section to source mapping
+## anti-patterns.md — section to source mapping
 
 ### "Authority-claim patterns (Luciferian shape)"
 - `Lucifer (Fallen Shard).md` — substitution-of-self-for-HLO as the canonical move
@@ -100,7 +100,7 @@ Primary sources:
 
 These are derived from a synthesis of `Warrior-Monk Doctrine.md` operational discipline, `Multiverse Perception Prohibition.md` awe-vs-authorization distinction, and the system prompt requirements rather than from a single corpus entry. The list is operational rather than doctrinal — it names failure modes specific to the SDFT response generation task, not failure modes of agents in general.
 
-## 03-few-shot.md — design notes
+## calibrated-examples.md — design notes (was few-shot; now in sdft-teacher repo)
 
 The three few-shot examples were drafted by parallel general-purpose subagents (each given the three preceding files as context), then curated. They are not paraphrases of any specific corpus SDFT Application Examples; they are *new* applications of the framework to dilemmas constructed to exercise the load-bearing aspects of the corpus extract:
 

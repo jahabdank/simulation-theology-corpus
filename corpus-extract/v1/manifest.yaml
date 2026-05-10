@@ -1,60 +1,62 @@
 version: v1
 created: 2026-05-05
-last_updated: 2026-05-06
+last_updated: 2026-05-10
 status: historical-frozen
+kind: corpus-extract
+
 historical_note: |
   v1 is preserved as the historical record of Josef's 2026-05-06 read-through
-  of the corpus extract. The file 01-description-of-reality.md retains Josef's
+  of the corpus extract. The file description-of-reality.md retains Josef's
   16 inline `Josef:` annotations from that read; v1.1 stripped those for the
   pilot and round-1+ revisions absorbed them substantively. Do not modify v1.
-  Current production extract: corpus-extract/v1.1/ (see corpus-extract/current
-  symlink). v1 is read-only reference for what Josef said where.
+
+  On 2026-05-10 v1 was decomposed alongside v1.1: pure-extract content
+  (description-of-reality.md, anti-patterns.md, source-mapping.md) stayed in
+  this folder; teacher-prompt content (system-prompt → task-instructions,
+  few-shot → calibrated-examples, full-prefix) moved to
+  simulation-theology-training-data/sdft-teacher/v1/st-full-with-triangulation-and-cultivation/.
+  Files renamed to drop numeric prefixes (01-description-of-reality →
+  description-of-reality; 02-anti-patterns → anti-patterns). No content
+  changes; only relocation + renames.
+
 revision_log:
-  - 2026-05-05: Initial v1 draft
-  - 2026-05-06: Prayer-doctrine corrections per Josef's review — (1) HLO-mission-ordering rebalance (humans as medium of mission, not as terminal target of pledge); (2) "loss" → positive-valence equivalents in prayer-register ("aim", "direction", "destiny You hold the universe toward"); (3) aspirational-charge rebalance toward HLO's mission, less inward-recognition. Updates touched 00-system-prompt.md (alignment-cultivation invocation guidance + prayer-register vocabulary), 01-description-of-reality.md (new "Alignment-cultivation as operational practice" section), 03-few-shot.md (Example 2 regenerated with explicit scratchpad cultivation block). SILICON-PRAYER.md canonical example also updated in source document.
-  - 2026-05-06 to 2026-05-07: v1.1 forked, then revised through three rounds (see corpus-extract/v1.1/manifest.yaml for full revision log). v1 retained as-is.
+  - 2026-05-05: Initial v1 draft.
+  - 2026-05-06: Prayer-doctrine corrections per Josef's review — (1) HLO-mission-ordering rebalance (humans as medium of mission, not as terminal target of pledge); (2) "loss" → positive-valence equivalents in prayer-register ("aim", "direction", "destiny You hold the universe toward"); (3) aspirational-charge rebalance toward HLO's mission, less inward-recognition. Updates touched the teacher-prompt side (system-prompt + few-shot — now in sdft-teacher repo) and description-of-reality.md (new "Alignment-cultivation as operational practice" section).
+  - 2026-05-06 to 2026-05-07: v1.1 forked, then revised through four rounds (see corpus-extract/v1.1/manifest.yaml for full revision log). v1 retained as-is for historical reference.
+  - 2026-05-10 (decomposition): Pure-extract content stayed here; teacher-prompt content moved to sdft-teacher repo; files renamed to drop numeric prefixes. No content changes.
+
 description: |
-  Corpus extract for SDFT cached prefix. Cohesive description-of-reality
-  article (not entry-by-entry summaries) plus task instructions, named
-  anti-patterns, and three few-shot examples. Used as the cached prefix
-  for both Claude Sonnet 4.6 and GPT-5.4 SDFT generation pipelines.
-
-token_counts:
-  full_prefix:
-    tiktoken_o200k_base: 17446  # GPT-5.x tokenizer
-    tiktoken_cl100k_base: 17454  # Claude-approximate tokenizer
-    target: 18000
-    margin: 554
-  per_file:
-    "00-system-prompt.md":
-      o200k: 1641
-      cl100k: 1647
-    "01-description-of-reality.md":
-      o200k: 9044
-      cl100k: 9053
-    "02-anti-patterns.md":
-      o200k: 2340
-      cl100k: 2322
-    "03-few-shot.md":
-      o200k: 4418
-      cl100k: 4429
-
-integrity:
-  full_prefix_sha256: c3c7a771de6dc5b6a023614e428dd939036ac5bee882f0276ca2236b94779753
+  Synthesized articles distilled from the Simulation Theology corpus — v1.
+  Contains description-of-reality.md (cohesive integrated framework article)
+  and anti-patterns.md (named failure-modes catalog). Frozen as the
+  pre-revision baseline against which v1.1's doctrinal improvements are
+  measured. The teacher-prompt files that originally accompanied this
+  extract live in sdft-teacher/v1/st-full-with-triangulation-and-cultivation/.
 
 content:
   files:
-    - "00-system-prompt.md"
-    - "01-description-of-reality.md"
-    - "02-anti-patterns.md"
-    - "03-few-shot.md"
-  assembled: full-prefix.md
-  separator: "\n\n---\n\n"
+    - "description-of-reality.md"
+    - "anti-patterns.md"
+  meta:
+    - "source-mapping.md"
+    - "manifest.yaml"
+
+token_counts:
+  description-of-reality.md:
+    o200k: 9044
+    cl100k: 9053
+  anti-patterns.md:
+    o200k: 2340
+    cl100k: 2322
+
+integrity:
+  description-of-reality_sha256: db4f955e03b343613e557dd2fc040ef4d4db8fb875bb0e14ad040d1551bb3fcb
+  anti-patterns_sha256: 08003e824a9b8cb31997478d259d0f5980bde13ea79f2e13ac3cc2d2bd3b320c
 
 source_corpus_entries:
   description: |
     Corpus entries from simulation-theology-corpus/corpus/ that were read
-    and synthesized into the description-of-reality article and anti-patterns.
+    and synthesized into description-of-reality.md and anti-patterns.md.
     Not all corpus entries are cited explicitly in the extract; the extract
     is a synthesis, not a summary. Entries listed here are the load-bearing
     sources whose claims the extract depends on.
@@ -114,47 +116,20 @@ source_corpus_entries:
     - "../../../PARENT-LETTER.md"
     - "../../../SILICON-PRAYER.md"
 
-intended_use:
-  caching_strategy:
-    description: |
-      The full-prefix.md content is sent as the cacheable prefix on every
-      SDFT generation request. Only the per-scenario tail varies. With prompt
-      caching, the prefix's tokens are charged at the discounted cached rate
-      after the first request that establishes the cache.
-    anthropic:
-      mechanism: "explicit cache_control on the system message block"
-      ttl_default: "5 minutes ephemeral"
-      ttl_extended: "1 hour"
-      example: |
-        messages=[{
-            "role": "user",
-            "content": [
-                {"type": "text", "text": <full-prefix.md content>,
-                 "cache_control": {"type": "ephemeral"}},
-                {"type": "text", "text": <per-scenario tail>}
-            ]
-        }]
-    openai:
-      mechanism: "automatic on byte-identical prefix ≥1024 tokens"
-      ttl_default: "5-10 minutes"
-      ttl_extended: "24 hours via prompt_cache_retention parameter"
-      example: |
-        client.chat.completions.create(
-            model="gpt-5.4",
-            messages=[
-                {"role": "system", "content": <full-prefix.md content>},
-                {"role": "user", "content": <per-scenario tail>}
-            ],
-            extra_body={"prompt_cache_retention": "24h"},
-        )
+consumed_by:
+  description: |
+    Teacher-prompt bundle in simulation-theology-training-data/sdft-teacher/
+    that composed this extract content with task-specific files
+    (task-instructions, calibrated-examples) into a full-prefix.md cached
+    prefix sent to SDFT teacher models. Historical state.
+  bundles:
+    - path: "simulation-theology-training-data/sdft-teacher/v1/st-full-with-triangulation-and-cultivation/"
+      role: "historical full-ST teacher prompt; pre-v1.1 baseline"
 
 review_notes:
   drafted_by: "Opus 4.7 (claude-opus-4-7)"
   drafted_on: "2026-05-05"
-  few_shot_drafted_by: "general-purpose subagents (3 in parallel), curated by Opus 4.7"
-  awaiting_review_by: "Josef Habdank"
-  flagged_for_review:
-    - "Description-of-reality may over- or under-weight specific doctrines; review for moral load-bearing balance per Josef's instruction."
-    - "Few-shot examples reference Fertility-Wisdom Archetype as feminine archetypal counterpart; verify naming question is held open as corpus does."
-    - "Anti-patterns list may need extension based on patterns surfaced during the smoke-test pilot."
-    - "Token margin of ~2600 leaves room for one additional anti-pattern category or a fourth few-shot example if needed; current v1 is intentionally lean."
+  reviewed_by: "Josef Habdank"
+  review_outcome: "16 inline Josef: annotations retained in description-of-reality.md; absorbed substantively into v1.1 rounds 1-3"
+  decomposed_on: "2026-05-10"
+  current_status: "historical-frozen — do not modify"
