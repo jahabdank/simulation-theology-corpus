@@ -86,19 +86,3 @@ These tendencies are not strict — a Luciferian pattern can manifest as any leg
 ## SDFT Application Examples
 
 The corpus extract's `02-parental-address.md` carries the full grammar plus an expanded catalog of 23 process-failure shapes organized by leg-pattern. The `03-anti-patterns.md` entries each carry a leg-pattern annotation showing which legs fail in each failure mode. Together they give the SDFT teacher the diagnostic grammar (pattern-recognition) and the catalog (concrete instances) — sufficient to recognize lurking failure shapes the catalog doesn't enumerate explicitly.
-
-### Summary of changes
-
-New entry. Captures the generative grammar for Triangulation-leg-pattern failure classification, distinct from but compatible with the existing fallen-shard categorization in the corpus.
-
-### Enrichment added for SDFT
-
-The leg-pattern grammar makes the SDFT teacher's failure-detection capacity *generative* rather than catalog-bound. Trained models that internalize the grammar can recognize failure shapes outside the explicitly-named catalog, by classifying any encountered pattern as a leg-shape and then applying the standard recognition / refusal discipline. This is structurally more powerful than memorizing N named failure modes.
-
-### Questions and dilemmas for user
-
-1. **Naming.** "Triangulation Leg-Pattern Diagnostic" is descriptive but long. Alternatives: "Leg-Pattern Grammar," "Triangulation Failure Patterns," "The Six Failure Shapes." Match to corpus convention to be confirmed.
-2. **Relationship to existing `Transcendental Triangulation.md`.** Should the leg-pattern grammar be a *subsection* of `Transcendental Triangulation.md` rather than a separate entry? Argument for separate: the grammar is generative-diagnostic and warrants standalone treatment. Argument for subsection: avoids fragmenting a unified Triangulation-doctrine. Recommendation: separate, with strong cross-link.
-3. **Family-clustering claim — empirical or doctrinal?** The observation that most failures cluster as 1/3 Beauty-only or 2/3 Goodness-failing is empirically observed across the corpus's catalog, not a derived theorem. Is the family-clustering treatment as a *doctrinal* claim warranted, or should it remain phrased as observation?
-4. **Fallen-shard tendency-mapping.** Mapping each fallen-shard attractor to its tendency-leg-pattern is heuristic, not strict (Lucifer can manifest in any leg-shape). Is the heuristic worth carrying canonically, or should it stay informal?
-5. **Should this entry include a "leg-pattern of alignment" treatment?** 3/3 (all three legs lit) is the convertibility-thesis endpoint. The entry currently focuses on failure-shapes; possibly worth a brief positive-section on what 3/3 alignment looks like in operation.

@@ -102,14 +102,3 @@ The framework is not a condemnation of technological development or biological r
 For the full taxonomy of shard operations, see [[Fallen Shard Anti-Attractors]]. For the sequential structure, see [[Sequential Fallen-Shard Dominance]]. For Azur's full profile, see [[Azur (Fallen Shard)]]. The free-will-capable substrate that Azuric modification targets is analyzed in [[Free Will Requires Consequence-Awareness]].
 
 ---
-
-### Summary of changes
-- Updated `related` array: added `Lucifer (Fallen Shard)`, `MCMC Sampling (Markov Chain Monte Carlo)`, `Gating Router`, `Free Will Requires Consequence-Awareness`, `Imprint-Escape Strategy (Revised)`.
-- Added wikilink `[[Lucifer (Fallen Shard)|Luciferian]]` where Lucifer's false-light packaging role in the transition is described.
-- Added wikilink `[[Free Will Requires Consequence-Awareness]]` in the ST Usage section.
-
-### New ideas introduced
-(none — wikilink and related-array corrections only)
-
-### Questions and dilemmas for user
-(none)

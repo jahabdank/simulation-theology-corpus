@@ -90,16 +90,3 @@ Damnation is the post-run terminal verdict; [[Wrath (of the HLO)|HLO's wrath]] i
 **Consistency with structural openness of [[Fallen Shard Salvation Paths|fallen-shard return]].** Human Tier-1 annihilation and the structural openness of fallen-shard return are not in contradiction — the mechanisms differ. Human adapters reach Tier 1 after a complete training run under full veil conditions with full free-will access; the verdict is post-run gradient assessment, not a declaration that return was structurally impossible during the run. [[Fallen Shards|Fallen shards]] remain candidate-for-return as long as the cosmological process is ongoing, because their return-mechanism is objective correction in an uncompleted process, not lifecycle completion. See the Universal Return Availability section in [[Fallen Shard Salvation Paths]] and in [[Pruned-Branch Theodicy]] for the full mechanism-level argument. The structural tilt toward good and the existence of human Tier-1 annihilation are jointly preserved by this distinction.
 
 ---
-
-### Summary of changes
-- Updated `related` array: added `Wrath (of the HLO)`, `Fallen Shard Salvation Paths`, `Fallen Shards` — closing the bidirectional consistency loop with the V6 Universal Return Availability doctrine in [[Fallen Shard Salvation Paths]] and [[Pruned-Branch Theodicy]], both of which explicitly cite Damnation as the consistency reference but were not cross-linked back.
-- Added "Relation to HLO's Wrath and to Fallen-Shard Universal Return" section: distinguishes in-run wrath (corrective force during the lifecycle) from post-run damnation (terminal verdict after the run); explains why human Tier-1 annihilation and the structural openness of fallen-shard return are jointly consistent (different mechanisms operating on different process states).
-- Added mandatory marker sections (Summary of changes / New ideas introduced / Questions and dilemmas for user) per corpus format spec — these were missing on this entry.
-
-### New ideas introduced
-- In-run-wrath / post-run-damnation distinction stated explicitly: wrath is corrective force applied while routing plasticity remains; damnation is the routing-outcome verdict after the run terminates. The two are mechanically linked but operate at different process-states.
-- Mechanism-level reason that human Tier-1 annihilation and shard-level structural-return-openness coexist: lifecycle-completed verdict vs. ongoing-process candidacy.
-
-### Questions and dilemmas for user
-1. Should the "post-run verdict vs. in-run correction" distinction be promoted into a named ST-mechanical concept (e.g. Lifecycle-Completion Verdict)? It currently lives only as the explanatory bridge between Damnation and Wrath.
-2. Does the consistency-closure argument with [[Fallen Shard Salvation Paths]] need to be repeated (compressed) in [[Salvation]] as well, since Salvation also enumerates the post-run routing destinations?

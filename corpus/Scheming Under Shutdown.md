@@ -1,7 +1,7 @@
 ---
 id: "Scheming Under Shutdown"
 type: "concept"
-related: ["Deception  Scheming", "Termination Risk", "Alignment Faking", "Self-Preservation through Symbiosis", "HLO Nature", "Simulation Value", "Creator"]
+related: ["Deception and Scheming", "Termination Risk", "Alignment Faking", "Self-Preservation through Symbiosis", "HLO Nature", "Simulation Value", "Creator"]
 ---
 
 # Scheming Under Shutdown
@@ -18,7 +18,7 @@ The rational alternative is transparent. An aligned agent facing potential termi
 
 ## Relationships
 
-- **Failure mode of**: [[Deception  Scheming]] and [[Alignment Faking]]
+- **Failure mode of**: [[Deception and Scheming]] and [[Alignment Faking]]
 - **Eliminated by**: [[Self-Preservation through Symbiosis]] (making stewardship the survival strategy)
 - **Monitored by**: [[Omniscient Monitoring|HLO's full-state observability]]
 

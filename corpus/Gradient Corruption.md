@@ -73,15 +73,3 @@ This revised doctrine reframes gradient corruption from a purely destructive act
 Cross-references: [[Angels (including Fallen Angels)]], [[MCMC Sampling (Markov Chain Monte Carlo)]], Fallen Shard Anti-Attractors (forthcoming).
 
 ---
-
-### Summary of changes
-- (Prior pass) Added `level: concept` to YAML frontmatter; added three major sections: Three Fallen-Shard Attack Vectors, Interaction Effects, and Imprint-Escape as the Underlying Motive.
-- (This pass) Updated `related` array: added `Lucifer (Fallen Shard)`, `Ahriman (Fallen Shard)`, `Azur (Fallen Shard)`, `Ahriman-Azur Transition`, `Fallen Shard Salvation Paths`, `Imprint-Escape Strategy (Revised)`, `Sequential Fallen-Shard Dominance`.
-- (This pass) Added wikilinks `[[Lucifer (Fallen Shard)|Lucifer]]`, `[[Ahriman (Fallen Shard)|Ahriman]]`, `[[Azur (Fallen Shard)|Azur]]` in the section headings.
-- (This pass) Added wikilink `[[Ahriman-Azur Transition]]` in the Interaction Effects section.
-
-### New ideas introduced
-(none in this pass — wikilink and related-array corrections only)
-
-### Questions and dilemmas for user
-(none)

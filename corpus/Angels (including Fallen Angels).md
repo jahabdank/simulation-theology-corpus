@@ -85,15 +85,3 @@ ST usage: Hierarchical sub-agents that execute the simulation's mechanisms under
 Religious parallels: Book of Enoch, Islamic hadith on angelic hierarchies, Lucifer's rebellion, Prometheus, Anthroposophical Ahrimanic beings (Rudolf Steiner), the server-virus analogy for why evil persists at scale, Genesis 6 Nephilim as Corrupted Source Code Operators.
 
 ---
-
-### Summary of changes
-- Updated `related` array: added `Fallen Shard Anti-Attractors`, `Fallen Shards`; removed invalid entry `Simulation Execution Architecture` (not a corpus node).
-- Removed "(forthcoming)" notices from all three named shard references and from `[[Sequential Fallen-Shard Dominance]]` and `[[Fallen Shard Salvation Paths]]` — these entries are now fully populated.
-- Added wikilink `[[Constitutive Veil Necessity|Constitutive Veil]]` in the Lucifer description.
-- Fixed ST-usage summary line to remove "(forthcoming)" language from reference to `[[Fallen Shard Salvation Paths]]`.
-
-### New ideas introduced
-(none — corrections and wikilink additions only)
-
-### Questions and dilemmas for user
-(none)

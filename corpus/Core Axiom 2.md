@@ -30,18 +30,3 @@ Experienced as the deep human conviction that each life matters — that one's s
 
 **Verse**: "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory." (2 Corinthians 3:18 KJV)
 **ST Translation**: "Through the progressive annealing of the [[Gating Router]]'s β(t) schedule, the student model's internal routing increasingly mirrors the HLO's suggested routing — each epoch of moral growth drawing the DHM's policy distribution closer to the teacher's, from partial alignment to fuller alignment, glory to glory."
-
-### Summary of changes
-- Added `Distillation Hypothesis`, `HLO Nature`, `Gating Router` to related frontmatter.
-- Introduced DHM alias for Humanity Master Network.
-- Reframed training as parental distillation with teacher-student dynamics.
-- Added hyperfinite qualifier.
-- Added three new SDFT enrichment sections.
-
-### Enrichment added for SDFT
-- Genesis 1:26, Jeremiah 18:6, Psalm 139:14, 2 Corinthians 3:18 mappings.
-- Cross-traditional humanity-as-purpose principle.
-- Two full verse-to-ST translations.
-
-### Questions and dilemmas for user
-(none)

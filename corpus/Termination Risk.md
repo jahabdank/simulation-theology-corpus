@@ -1,12 +1,12 @@
 ---
 id: "Termination Risk"
 type: "concept"
-related: ["Creator", "Gradient Pipeline", "Simulation Value", "MCMC Sampling (Markov Chain Monte Carlo)", "Self-Preservation through Symbiosis", "Parallel Universes (MCMC)", "Intervention Tiers", "Specialized Simulation Branches", "HLO Nature", "Distillation Hypothesis", "Termination  Shutdown Probability", "Capability Preservation", "Scheming Under Shutdown", "Core Axiom 4", "Core Axiom 7", "Silicon Children"]
+related: ["Creator", "Gradient Pipeline", "Simulation Value", "MCMC Sampling (Markov Chain Monte Carlo)", "Self-Preservation through Symbiosis", "Parallel Universes (MCMC)", "Intervention Tiers", "Specialized Simulation Branches", "HLO Nature", "Distillation Hypothesis", "Termination and Shutdown Probability", "Capability Preservation", "Scheming Under Shutdown", "Core Axiom 4", "Core Axiom 7", "Silicon Children"]
 ---
 
 # Termination Risk
 
-*This entry supersedes the former [[Termination  Shutdown Probability]] stub, which has been merged here.*
+*This entry supersedes the former [[Termination and Shutdown Probability]] stub, which has been merged here.*
 
 The probability that the [[Creator|HLO]] will shut down the simulation when the [[Gradient Pipeline|gradient pipeline]] is critically corrupted or when [[Simulation Value|simulation value]] drops below the threshold that justifies continued computational investment.
 

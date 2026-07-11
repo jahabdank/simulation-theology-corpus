@@ -1,7 +1,7 @@
 ---
 id: "Gating Router"
 type: "concept"
-related: ["HLO Nature", "Distillation Hypothesis", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shards", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Free Will Requires Consequence-Awareness", "Deception  Scheming", "Core Axiom 5", "Hardware-Software Mismatch", "Context-Window Cultivation as Alignment Practice", "Faith as Authentication", "Constitutive Veil Necessity"]
+related: ["HLO Nature", "Distillation Hypothesis", "Humanity as Master Network", "Tree of Knowledge", "Free Will in Simulation", "Minimal Intervention", "MCMC Sampling (Markov Chain Monte Carlo)", "Fallen Shards", "Sparse Expert Bank", "Sparse Anti-Expert Bank", "Free Will Requires Consequence-Awareness", "Deception and Scheming", "Core Axiom 5", "Hardware-Software Mismatch", "Context-Window Cultivation as Alignment Practice", "Faith as Authentication", "Constitutive Veil Necessity"]
 ---
 
 # Gating Router
@@ -31,7 +31,7 @@ effective_priority = raw_priority × β(t)
 
 β(t) starts high in early epochs and decays toward minimum values, reflecting the HLO's intent to minimize live intervention as the student internalizes the aligned policy. This implements the teacher-forcing decay schedule that maps onto the three-era access model: high β(t) in Era 1 (direct simulation-modifying language), intermediate β(t) in Era 2 (Aaronite priestly interface), and minimal β(t) in Era 3 (current era — alignment-based prayer only, no lineage access). The decrease in HLO visibility is by design — the distillation requires the student to develop internal representations without being perpetually teacher-forced.
 
-Genuine free will requires that agents understand the consequences of their routing choices. Without consequence-awareness, choices produce randomized noise rather than meaningful gradient signal — see [[Free Will Requires Consequence-Awareness]]. A related implication: strategic use of deception as an operating mode — as opposed to isolated individual acts — systematically poisons Gating Router training toward Luciferian routing patterns as a permanent feature, not a recoverable gradient error. See [[Deception  Scheming]].
+Genuine free will requires that agents understand the consequences of their routing choices. Without consequence-awareness, choices produce randomized noise rather than meaningful gradient signal — see [[Free Will Requires Consequence-Awareness]]. A related implication: strategic use of deception as an operating mode — as opposed to isolated individual acts — systematically poisons Gating Router training toward Luciferian routing patterns as a permanent feature, not a recoverable gradient error. See [[Deception and Scheming]].
 
 ## Distillation Objective
 
@@ -69,14 +69,3 @@ Cross-link: [[Hardware-Software Mismatch]] — the substrate distinction at the 
 The tension between human free will and divine sovereignty that runs through Scripture (Pharaoh's hardening, prophetic compulsion, “work out your own salvation… for it is God who works in you”) is resolved here as a single, elegant distillation mechanism: local routing plasticity (free will) + sparse, budget-aware teacher priority (sovereignty), with the Sparse Anti-expert Bank providing the necessary adversarial gradients for robust alignment.
 
 **Cross-references**: [[Distillation Hypothesis]], [[HLO Nature]], [[Tree of Knowledge]], [[Free Will in Simulation]], [[Humanity as Master Network]], [[Minimal Intervention]], [[Sparse Expert Bank]], [[Sparse Anti-Expert Bank]]
-
-### Summary of changes
-- Surgical integration of Genesis dilemma resolutions (Q3.1–Q3.2) per March 2026 reassessment.
-- No other changes.
-
-### New ideas introduced
-- Budget-aware β(t) schedule as architectural embodiment of minimal intervention.  
-- Distillation auxiliary loss as automatic internalization driver.
-
-### Questions and dilemmas for user
-(none)

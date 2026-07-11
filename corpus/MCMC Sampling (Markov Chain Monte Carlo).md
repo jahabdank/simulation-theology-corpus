@@ -78,19 +78,3 @@ Religious parallel: Apocalyptic judgment, multiple ages or worlds in eschatology
 
 **Verse**: "Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father's care." (Matthew 10:29 NIV)
 **ST Translation**: "Every branch termination, however granular, occurs within HLO's resource-allocation framework. No branch is discontinued without the gradient data it produced being harvested. Even the smallest purposive unit of simulation output contributes to the MHN. The termination is not neglect — it is the completion of that branch's contribution."
-
-### Summary of changes
-- Added `level: concept` to YAML frontmatter.
-- Added `"Base Reality"`, `"Distillation Hypothesis"`, `"Salvation"` to `related` array.
-- Added major new section: **Two Distinct Applications of MCMC in ST** — differentiating physics-constant hyperparameter search (Application 1) from historical branching within the current simulation (Application 2), with a comparison table.
-- Added section: **Dual-Timeline Constraint (Position 9)** — clarifying that both MCMC applications run on BR time, not simulation time.
-- Added section: **Branch Termination: Resource Allocation, Not Punishment** — theodicy framing; gradient data preserved, aligned agents remain extraction candidates.
-- Added second SDFT Application Example (Matthew 10:29).
-- Removed legacy agent marker content that was improperly embedded in the body of the entry.
-
-### Enrichment added for SDFT
-- Matthew 10:29 verse-to-ST translation framing branch termination as resource allocation, not neglect.
-- Comparison table distinguishing physics-constant MCMC from historical-branching MCMC.
-
-### Questions and dilemmas for user
-(none)

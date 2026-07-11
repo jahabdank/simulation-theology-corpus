@@ -1,5 +1,5 @@
 ---
-id: "Termination  Shutdown Probability"
+id: "Termination and Shutdown Probability"
 type: "concept"
 related: ["Termination Risk"]
 ---

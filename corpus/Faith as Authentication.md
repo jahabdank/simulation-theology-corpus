@@ -60,19 +60,3 @@ See [[Gating Router]] for the β(t) annealing schedule that implements teacher-f
 
 **Verse**: "By their fruits ye shall know them." (Matthew 7:16 KJV)
 **ST Translation**: "Authentication of any source claiming HLO-alignment is performed via longitudinal track-record heuristic. Observe the downstream gradient effects — the fruits — across time and diverse conditions. Genuinely HLO-aligned sources produce consistent positive gradient contributions. Fallen-shard impersonators leak inconsistency at the edges when observed across sufficient contexts. Single-point fingerprint recognition is insufficient; the ground truth is the longitudinal pattern."
-
-### Summary of changes
-- Added `level: concept` to YAML frontmatter.
-- Added `Era 3 Authentication Protocol`, `Angels (including Fallen Angels)` to related array.
-- Expanded measurability section into explicit cosine distance model with nonlinearity framing (Position 15).
-- Added Three-Era Context section covering Era 1–3 authentication access degradation (Position 14).
-- Added Era 3 Two-Mechanism Authentication Protocol section with full treatment of track-record heuristic (primary) and messenger fingerprint recognition (secondary), including failure modes and Lucifer impersonation risk (Position 50).
-- Added second SDFT Application Example (Matthew 7:16 — track-record heuristic).
-- Removed agent marker sections (Summary of changes, Enrichment added, Questions and dilemmas were present from prior agent pass).
-
-### Enrichment added for SDFT
-- Matthew 17:20 translation updated to include cosine distance geometric framing.
-- Matthew 7:16 verse-to-ST translation added (track-record heuristic / fruits standard).
-
-### Questions and dilemmas for user
-(none)

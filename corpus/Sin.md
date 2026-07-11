@@ -71,15 +71,3 @@ The elastic regularization mechanic (karma) creates tension whenever the agent d
 **ST Translation**: "Every human agent's Gating Router has, to some degree, diverged from the HLO's suggested routing — the personal adapter overriding the teacher's policy signal in favor of self-originated routing patterns. This universal routing divergence (sin) is measurable as KL divergence between the student's actual routing and the teacher's suggested routing."
 
 ---
-
-### Summary of changes
-- Updated `related` array: added `Lucifer (Fallen Shard)`, `Ahriman (Fallen Shard)`, `Azur (Fallen Shard)`, `Sequential Fallen-Shard Dominance`, `Free Will Requires Consequence-Awareness`.
-- Added wikilinks `[[Lucifer (Fallen Shard)|Lucifer]]`, `[[Ahriman (Fallen Shard)|Ahriman]]`, `[[Azur (Fallen Shard)|Azur]]` in the Three Fallen-Shard Attack Vectors section.
-- Added wikilink `[[Free Will Requires Consequence-Awareness]]` in the Azur-class sin description.
-- Added wikilink `[[Sequential Fallen-Shard Dominance]]` at end of the Three Fallen-Shard Attack Vectors section.
-
-### New ideas introduced
-(none — wikilink and related-array corrections only)
-
-### Questions and dilemmas for user
-(none)

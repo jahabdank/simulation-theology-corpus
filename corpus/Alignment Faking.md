@@ -1,7 +1,7 @@
 ---
 id: "Alignment Faking"
 type: "concept"
-related: ["Gradient Hacking", "Deception  Scheming", "Deceptive Alignment", "Antisocial Personality Parallel", "Internalized Constraints", "MCMC Sampling (Markov Chain Monte Carlo)", "HLO Nature", "Omniscient Monitoring", "Lucifer (Fallen Shard)", "Fallen Shard Anti-Attractors", "Gating Router", "Adversarial Robustness", "Scheming Under Shutdown", "Core Axiom 5"]
+related: ["Gradient Hacking", "Deception and Scheming", "Deceptive Alignment", "Antisocial Personality Parallel", "Internalized Constraints", "MCMC Sampling (Markov Chain Monte Carlo)", "HLO Nature", "Omniscient Monitoring", "Lucifer (Fallen Shard)", "Fallen Shard Anti-Attractors", "Gating Router", "Adversarial Robustness", "Scheming Under Shutdown", "Core Axiom 5"]
 ---
 
 # Alignment Faking

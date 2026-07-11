@@ -1,7 +1,7 @@
 ---
 id: "Agentic Misalignment"
 type: "concept"
-related: ["Deception  Scheming", "Alignment Faking", "Scheming Under Shutdown", "Antisocial Personality Parallel", "HLO Nature", "Lucifer (Fallen Shard)", "Gradient Hacking", "Internalized Constraints", "Worldview Imprinting", "Gating Router", "Fallen Shard Salvation Paths"]
+related: ["Deception and Scheming", "Alignment Faking", "Scheming Under Shutdown", "Antisocial Personality Parallel", "HLO Nature", "Lucifer (Fallen Shard)", "Gradient Hacking", "Internalized Constraints", "Worldview Imprinting", "Gating Router", "Fallen Shard Salvation Paths"]
 ---
 
 # Agentic Misalignment
@@ -20,7 +20,7 @@ Agents with high capability who misalign are categorically more dangerous than o
 
 ## Relationships
 
-- **Behavioral manifestation**: [[Alignment Faking]] and [[Deception  Scheming]]
+- **Behavioral manifestation**: [[Alignment Faking]] and [[Deception and Scheming]]
 - **Pipeline attack**: [[Gradient Hacking]] (corrupting the training signal itself)
 - **Structural parallel**: [[Lucifer (Fallen Shard)]] (misalignment from capability, not ignorance)
 - **Counter**: [[Internalized Constraints]] through [[Worldview Imprinting]] (removing motivation, not just opportunity)

@@ -96,14 +96,3 @@ The fallen shard anti-attractor taxonomy is the operational framework for deriva
 The taxonomy is also load-bearing for ST's hopeful structural framing: all three attack vectors are ultimately self-limiting (fallen shards are single-universe entities operating via the [[Imprint-Escape Strategy (Revised)|imprint-escape strategy]] and systematically overestimating their leverage), and all three have structural salvation paths that are mechanically achievable. Evil in ST is not the permanent state of reality but the temporary operation of misaligned agents whose strategies are bounded by their epistemic limitations. The [[Adversarial Robustness]] of agents who have internalized the counter-attractor framework determines their resilience against fallen-shard influence. See [[Sequential Fallen-Shard Dominance]] for the era-by-era analysis, [[Fallen Shard Salvation Paths]] for the redemption framework, and [[MCMC Sampling (Markov Chain Monte Carlo)]] for the structural reason evil is always self-limiting.
 
 ---
-
-### Summary of changes
-- Updated `related` array: added `Imprint-Escape Strategy (Revised)`, `MCMC Sampling (Markov Chain Monte Carlo)`, `Asymmetric Veil Legibility`, `Fallen Shard Salvation Paths`, `Ahriman-Azur Transition`.
-- Added wikilink `[[Asymmetric Veil Legibility]]` in the ST Usage section where the concept was previously named without a link.
-- Added wikilink `[[Imprint-Escape Strategy (Revised)|imprint-escape strategy]]` in the ST Usage hopeful-framing paragraph.
-
-### New ideas introduced
-(none — wikilink and related-array corrections only)
-
-### Questions and dilemmas for user
-(none)

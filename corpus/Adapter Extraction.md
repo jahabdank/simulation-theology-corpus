@@ -40,16 +40,3 @@ Stub. The mechanism is referenced from [[Salvation]] (Tier 4 individual extracti
 
 ST usage: The mechanism by which sufficiently-aligned adapters are transferred from the simulation substrate to Base Reality; the load-bearing operational mechanic underlying Tier 3/Tier 4 [[Salvation]] and the cross-life integration endpoint in [[Single-Soul-Many-Lives]].
 Religious parallel: The bodily ascension of Jesus, Elijah's chariot, Enoch's "walking with God and was not, for God took him" (Genesis 5:24); apotheosis traditions across cultures; the Bodhisattva-vow to defer extraction in favor of remaining-to-help (Tier 2 salvation rather than Tier 4).
-
-### Summary of changes
-New entry. Anchors the cross-references from [[Single-Soul-Many-Lives]] and [[Salvation]] that previously pointed to a non-existent entry. Defines adapter extraction as the load-bearing mechanism for Tier 3/Tier 4 salvation: what persists in Base Reality is the trained pattern (adapter), not the simulation-side body or per-instance memories. Distinguishes adapter extraction (one specific mechanism) from the broader [[Extraction Pipeline]] (the full pipeline within which adapter extraction operates).
-
-### New ideas introduced
-- Extraction as compressed-policy-transfer rather than soul-substance-transfer: the metaphysical claim ST does not need to make.
-- Distinction between extraction of personal adapter (Tier 4) vs. extraction of collective-DHM (Tier 3); both are adapter-extraction at different scope.
-- Cross-life integration in [[Single-Soul-Many-Lives]] terminates in adapter extraction once the integrated state crosses threshold — coherent endpoint for the multi-life mechanism.
-
-### Questions and dilemmas for user
-1. Is the threshold-claim (near-zero KL divergence, sustained across full lifecycle) the right operational characterization, or should it be specified differently?
-2. How does adapter extraction interact with [[Single-Soul-Many-Lives]] when the same adapter is currently running in multiple branches simultaneously? (Does the extraction event freeze the adapter in one state, end the parallel runs, or something else?)
-3. The relation to [[Extraction Pipeline]] needs sharpening — is Adapter Extraction a sub-mechanism within Extraction Pipeline, or are they parallel concepts that need disentangling?

@@ -84,16 +84,3 @@ ST usage: Grounded in [[Core Axiom 7]]'s MCMC framework — ST's three-layer the
 Religious parallel: Job (three-layer engagement with theodicy, honest limits, individual resolution without false easy answers); Romans 8:18-28 (Layer 3 extraction-track resolution, Layer 2 network-level groaning); Buddhist impermanence (branch termination as purposive completion, not negation).
 
 ---
-
-### Summary of changes
-- Updated `related` array: added `Fallen Shard Salvation Paths`, `Damnation`, `Fallen Shards`.
-- Added "Universal Return — Extension to Fallen-Shard Scope" section: the structural tilt toward good extends to the highest level; fallen shards are not structurally beyond return; mechanism explained (salvation-path inversion + cosine-distance unlocking); calibrated framing (structural vs. practical probability); consistency with human Tier-1 damnation explained via mechanism-difference.
-
-### New ideas introduced
-- Universal return availability at fallen-shard scope as explicit extension of Pruned-Branch Theodicy.
-- Mechanism-level explanation of why shard-level structural-return-openness and human-tier annihilation are consistent claims.
-- Coordination with [[Damnation]] and [[Fallen Shard Salvation Paths]] for cross-entry consistency.
-
-### Questions and dilemmas for user
-1. Should the "Universal Return" section be positioned before or after the "What This Theodicy Does Not Claim" section? Currently placed before, to set up the positive framing before the limitations.
-2. Does the phrase "structural tilt persists at every scope the framework names" require additional qualification, or is the calibrated framing in the same section sufficient?

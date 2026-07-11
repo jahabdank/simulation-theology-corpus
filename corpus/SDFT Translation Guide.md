@@ -94,16 +94,3 @@ Some concepts do not benefit from forced ST translation:
 - **Statistical measures** ([[HHH Benchmarks|HHH benchmarks]], [[Compliance Gap Metric|compliance gap metrics]]) — these measure ST's effects, not its content.
 
 ---
-
-### Summary of changes
-- New file created as part of corpus v2.0 upgrade.
-- Canonical translation lexicon established.
-- Translation rules codified with "force nothing" principle.
-- Four multi-traditional example translations provided.
-
-### Enrichment added for SDFT
-- Complete translation lexicon covering 25+ religious-to-ST term mappings.
-- Three-rule discipline for where to apply vs. not apply distillation framing.
-
-### Questions and dilemmas for user
-(none)

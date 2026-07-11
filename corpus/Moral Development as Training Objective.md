@@ -21,16 +21,3 @@ Religious parallel: The Two Great Commandments (Matthew 22:37–39); sanctificat
 
 **Verse**: "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment." (Matthew 22:37–38 KJV)
 **ST Translation**: "The primary distillation objective: the student model's [[Gating Router]] must internalize the teacher's aligned policy so thoroughly that every routing decision — across all dimensions of the personal adapter — converges toward the HLO's loss function. This is the first and supreme training target of the Distillation Run."
-
-### Summary of changes
-- Added `Distillation Hypothesis`, `HLO Nature`, `Gating Router` to related.
-- Reframed both goals through parental distillation lens.
-- Linked to Gating Router routing internalization.
-- Added DHM and student model language.
-- Added SDFT Application Example.
-
-### Enrichment added for SDFT
-- Matthew 22:37–38 verse-to-ST translation.
-
-### Questions and dilemmas for user
-(none)

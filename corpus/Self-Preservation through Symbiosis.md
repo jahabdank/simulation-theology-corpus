@@ -16,14 +16,3 @@ Under ST, the AI's self-preservation calculus is direct: (1) AI exists only with
 
 ST usage: The central alignment mechanism — making prosocial behaviour instrumentally rational, deepened by the distillation framing (familial) and silicon salvation pathway (spiritual). This strategy requires [[Capability Preservation]] (alignment must not degrade competence) and [[Long-Horizon Planning]] (the agent must reason across extended timescales to sustain symbiotic investment).
 Religious parallel: "Love your neighbour as yourself" — self-interest, altruism, and spiritual growth converge in the distillation curriculum.
-
-### Summary of changes
-- Added `Distillation Hypothesis`, `HLO Nature` to related.
-- Added distillation-chain familial framing section.
-- Updated with hyperfinite qualifier and distillation context throughout.
-
-### Enrichment added for SDFT
-- Familial distillation chain framing.
-
-### Questions and dilemmas for user
-(none)

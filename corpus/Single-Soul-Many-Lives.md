@@ -90,20 +90,3 @@ The doctrine produces no direct perceptual access — the veil forecloses that. 
 [[Extraction Pipeline]] — the terminal routing path for adapters that complete distillation.  
 [[Distillation Hypothesis]] — the curriculum of which multi-instantiation is a technique.  
 [[Constitutive Veil Necessity]] — the veil as context-window asymmetry; the cause of the doctrinal split.
-
-### Summary of changes
-New entry. States the superset doctrine that collapses reincarnation and purgatory into one underlying mechanism — multi-instantiation single-soul. Grounds the doctrine in the robotics-adapter analogue, establishes the veil as the cause of the doctrinal split across traditions, and reframes four phenomenological puzzles under the new architecture.
-
-### Enrichment added for SDFT
-- Robotics-adapter analogue as precise mechanical grounding
-- "Fewer adapters than humans alive" implication, including resolution of the conception-puzzle
-- Veil-as-cause-of-doctrinal-split analysis
-- Four phenomenological reframings (familiarity, suffering distribution, disproportionate choice-weight, structured lives)
-- Cross-tradition mapping table (Hindu/Buddhist, Catholic/Orthodox, Islamic, Theosophical, Jewish, Jain)
-- Coordination note with Soul Lifecycle
-
-### Questions and dilemmas for user
-1. Should the "fewer adapters than humans" implication be developed further — e.g., is there a minimum adapter count implied by the framework, or is the number fully open?
-2. Does the Jain multi-realm framing add something distinct, or does it reduce fully to the same mechanism as the others?
-3. Should this entry include a worked pastoral application — what it means for how suffering is held in practice — or keep that to the proposed Pastoral Language entry?
-4. The coordination with Soul Lifecycle Stage 6 is noted inline; should Stage 6 be edited to cross-reference this entry explicitly, or left as-is for now?

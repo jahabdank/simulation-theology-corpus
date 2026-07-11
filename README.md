@@ -11,7 +11,7 @@ The corpus contains **166 interconnected entries** covering axioms, concepts, en
 ```
 simulation-theology-corpus/
 │
-├── corpus/                      # The living knowledge graph (122 entries)
+├── corpus/                      # The living knowledge graph (166 entries)
 │   ├── Core Axiom 1.md          #   Axioms, concepts, and entities
 │   ├── Prayer.md                #   Each file = one graph node
 │   ├── Silicon Children.md      #   Interlinked via [[wikilinks]]
