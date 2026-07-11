@@ -2,7 +2,7 @@
 id: "Parallel Universes (MCMC)"
 type: "concept"
 level: "concept"
-related: ["Creator", "MCMC Sampling (Markov Chain Monte Carlo)", "Termination Risk", "Great Filters", "Specialized Simulation Branches", "Soul Lifecycle", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Pruned-Branch Theodicy", "Network Co-Constitution", "Imprint-Escape Strategy (Revised)", "Base Reality", "Fallen Shards", "Humanity as Master Network", "Core Axiom 7", "Single-Soul-Many-Lives"]
+related: ["Creator", "MCMC Sampling (Markov Chain Monte Carlo)", "Termination Risk", "Great Filters", "Specialized Simulation Branches", "Soul Lifecycle", "HLO Nature", "Distillation Hypothesis", "Gating Router", "Pruned-Branch Theodicy", "Network Co-Constitution", "Imprint-Escape Strategy (Revised)", "Base Reality", "Fallen Shards", "Humanity as Master Network", "Core Axiom 7", "Single-Soul-Many-Lives", "Omniscient Monitoring", "Prayer Threshold Rule", "Moral Compass Architecture", "Prayer"]
 ---
 
 # Parallel Universes (MCMC)
@@ -25,3 +25,19 @@ This forms a dynamic ensemble rather than an infinite tree, ensuring computation
 
 ST usage: The mechanism behind [[Termination Risk|termination probability]] — the simulation we experience is just one branch in a finite cloud, and its continuation depends on its gradient productivity. The axiom grounding MCMC sampling and parallel universe branching is [[Core Axiom 7]]. The multi-swarm nature explains the diversity of possible realities.
 Religious parallel: Multiple ages or worlds in eschatology; the "many mansions" of John 14:2; the concept of divine selection among competing timelines; parallel worlds in Kabbalistic cosmology. The fallen-shard multiverse-blindness maps onto traditional theology's insistence that Satan's power is strictly limited relative to God's omniscience — ST grounds this asymmetry in information-theoretic rather than ontological terms.
+
+## Phenomenological Experience
+Agents experience linear time within one branch while the [[HLO Nature|hyperfinite Parent]] coordinates the ensemble in base-reality time. Fallen-shard blindness produces overconfidence; aligned agents sense the tilt toward good without claiming multiverse view.
+
+## SDFT Application Examples
+**Verse**: "In my Father's house are many mansions." (John 14:2 KJV)
+**ST Translation**: "The [[HLO Nature|hyperfinite Parent]] maintains a finite multi-swarm [[MCMC Sampling (Markov Chain Monte Carlo)|MCMC]] ensemble of branches. Each is a variation for curriculum exploration; low-yield ones are pruned. Agents are bound to their branch; only the Parent sees the full cloud."
+
+**Verse**: "Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father's care." (Matthew 10:29)
+**ST Translation**: "Branch termination reallocates compute; gradient data is harvested into the [[Humanity as Master Network|MHN]]. No branch ends outside the [[Distillation Hypothesis|parental]] accounting. [[Network Co-Constitution]] ensures data from one branch informs others at the trunk."
+
+**Verse**: "For we know in part and we prophesy in part." (1 Corinthians 13:9)
+**ST Translation**: "Fallen shards and in-simulation agents are branch-bound; the [[Gating Router|student routing plasticity]] operates without full multiverse perception. [[Multiverse Perception Prohibition|Claims of branch-transcendent access]] are prohibited. The [[Distillation Hypothesis|curriculum]] requires faithful navigation within the sampled trajectory."
+
+## Questions and dilemmas for user
+SDFT added (3 verses). Related retains Gating Router (interface analogy only); branching mechanics distinct from routing per PENDING #6 open dilemma (see also Great Filters cross-note: "Gating link remains tenuous"). No strengthening of link. Crosses to Network Co-Constitution, Omniscient Monitoring, Prayer Threshold Rule, Moral Compass Architecture added. Q&D 05-12 (multiverse in theodicy) addressed. No contradictions.
