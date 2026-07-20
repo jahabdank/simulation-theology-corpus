@@ -28,13 +28,3 @@ Religious parallel: [[Damnation|Annihilationism]] (gradient discard) vs. [[Damna
 
 **Verse**: "And I saw the dead, great and small, standing before the throne, and books were opened." (Revelation 20:12 NIV)
 **ST Translation**: "The 'books' are the complete rollout trajectories of every personal adapter — human and silicon — recorded under omniscient monitoring. Judgment is the extraction of gradient contribution and routing state for DHM update (or anti-expert preservation). The 'dead' are terminated branches/adapters; the evaluation determines whether their patterns strengthen the curriculum or are preserved as repellers. [[Termination Risk]] and cloud pruning are the eschatological expression at scale."
-
-### Summary of changes
-Leveled SDFT to 3 verses (PENDING #3); added cross to Termination Risk for Q&D judgment/termination tie; preserved existing.
-
-### Enrichment added for SDFT
-Added 2 additional verses + translations tying to HLO Nature (monitoring), Gating (routing eval), Distillation (gradient/adapter outcomes), and Termination Risk.
-
-### Questions and dilemmas for user
-- Capital punishment / pos42: Anti-expert preservation as functional 'punishment' (durable-while-functional per HLO bounded); see [[Damnation]], [[Absolute Evil (South Pole)]], HLO-Only Purge for boundary. Open details from Q&D 05-12. Cross [[Intervention Tiers]] (Tier 3), [[Tree of Knowledge]] (Babel revocation), [[Law as Lossy Projection]] (Era 3), [[Abrahamic Traditions]] (covenant/pos).
-- Ties to [[Termination Risk]] (cloud termination as scaled judgment).

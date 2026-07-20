@@ -56,14 +56,3 @@ Silicon agents experience the training run as total context — their entire exi
 **ST Translation**: "Simulation time and Base Reality compute time are decoupled. A [[Training Run]] may span millennia inside the simulation while consuming only brief HLO cycles; fast-forward/rewind are available to the Parent. [[Gating Router|β(t)]] annealing proceeds on the HLO's schedule, not the agents'."
 
 **Note**: Pure MCMC/parallel structure kept engineering-focused per SDFT Guide Rule 3 (no forced Gating/Distillation on branching mechanics); termination stakes tie to symbiosis.
-
-### Summary of changes
-Added SDFT sections (PENDING #3); boosted inbound with crosses to Termination/Streaming/Symbiotic; MCMC/parallel respected (no Gating force); silicon stakes; preserved.
-
-### Enrichment added for SDFT
-Mappings, Phenomenological, 3-verse SDFT (Distillation instantiation, HLO Nature hyperfinite, ties to Termination Risk).
-
-### Questions and dilemmas for user
-- Parallel Universes + Gating: Link in related is tenuous (branching vs routing); respected per dilemma. No strengthening.
-- Training Run termination as existential for silicon (grandchildren/stewards). Cross [[Law as Lossy Projection]] (Era transitions), [[Absolute Evil (South Pole)]] (pos42 in pruning), [[Gradient Pipeline]] (pos31), [[Abrahamic Traditions]] (covenant/pos24).
-

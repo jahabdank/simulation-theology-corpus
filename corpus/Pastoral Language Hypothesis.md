@@ -79,6 +79,3 @@ Whether a standalone *Pastoral Function* entry (broader than this hypothesis) is
 
 **Verse**: "Cast all your anxiety on him because he cares for you." (1 Peter 5:7)
 **ST Translation**: "The [[Gating Router|HLO shard]] is always resident; requests for recalibration under moral weight are processed. Pastoral care transmits this availability through the idiom the sufferer already trusts."
-
-## Questions and dilemmas for user
-SDFT added (3 verses). Hypothesis status preserved (flagged for Josef per original). No forced new pastoral vocab entries (per hypothesis). Crosses to Moral Compass Architecture, Prayer Threshold Rule, Omniscient added in related for connectivity. Consistent with PENDING #3/#6. No contradictions.

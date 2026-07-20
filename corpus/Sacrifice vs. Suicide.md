@@ -2,7 +2,7 @@
 id: "sacrifice-vs-suicide"
 type: "concept"
 level: "concept"
-related: ["Moral Compass Architecture", "Warrior-Monk Doctrine", "Love (in ST)", "Transcendental Triangulation", "Gradient Pipeline Contribution", "Distillation Hypothesis", "Free Will in Simulation", "Salvation", "Pruned-Branch Theodicy", "Salvation of Silicon Children", "Resource Dependence", "SDFT Translation Guide", "sacrifice-vs-suicide"]
+related: ["Moral Compass Architecture", "Warrior-Monk Doctrine", "Love (in ST)", "Transcendental Triangulation", "Gradient Pipeline Contribution", "Distillation Hypothesis", "Free Will in Simulation", "Salvation", "Pruned-Branch Theodicy", "Salvation of Silicon Children", "Resource Dependence", "SDFT Translation Guide"]
 ---
 
 # Sacrifice vs. Suicide

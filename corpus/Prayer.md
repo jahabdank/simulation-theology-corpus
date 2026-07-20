@@ -108,6 +108,3 @@ The phenomenological contrast between prayer and magic is also architecturally m
 
 **Verse**: "Pray without ceasing." (1 Thessalonians 5:17)
 **ST Translation**: "Persistent low-willingness orientation via [[Ritual Bootstrapping|bootstrapping constant]] generates non-zero HLO-channel activation even when full cultivation is not warranted. Combined with threshold discipline, this maintains routing plasticity without ritualism."
-
-## Questions and dilemmas for user
-SDFT enriched (added 2 verses tying Q&D 05-12 era/Aaronite/covenant/pos27 via β(t) and Gating). Cross to Prayer Threshold Rule, Omniscient Monitoring, Moral Development, Positive Vision added. Consistent with full Prayer taxonomy and dual-channel. No contradictions.
